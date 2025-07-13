@@ -1,0 +1,547 @@
+# create the initial SQL tables and insert data, author Sam Ochs
+CREATE TABLE IF NOT EXISTS positions (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            position      TEXT
+        )
+# insert initial positions, author Sam Ochs
+INSERT INTO "positions" ("position") VALUES (?)
+# create the courses table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS courses (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            name      TEXT
+        )
+# insert initial courses, author Sam Ochs
+INSERT INTO "courses" ("name") VALUES (?)
+# create the tournaments table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS tournaments (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            name      TEXT
+        )
+# insert initial tournaments, author Sam Ochs
+INSERT INTO "tournaments" ("name") VALUES (?)
+# create the players table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS players (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            name      TEXT,
+            country   TEXT
+        )
+# insert initial players, author Sam Ochs
+INSERT INTO "players" ("name", "country") VALUES (?, ?)
+# create the results table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS results (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            tournament TEXT NOT NULL,
+            course     TEXT NOT NULL,
+            player     TEXT NOT NULL,
+            pos        INTEGER,
+            total      INTEGER,
+            thru       TEXT,
+            round      INTEGER,
+            r1         INTEGER,
+            r2         INTEGER,
+            r3         INTEGER,
+            r4         INTEGER,
+            strokes    INTEGER,
+            proj       INTEGER,
+            starting   INTEGER,
+            start_date TEXT,
+            end_date   TEXT
+        )
+# insert initial results, author Sam Ochs
+INSERT INTO "results" ("tournament", "course", "pos", "player", "total", "thru", "round", "r1", "r2", "r3", "strokes", "r4", "proj", "starting", "start_date", "end_date") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+# alter table to add player_id, tournament_id, course_id, and position_id columns, author Sam Ochs
+ALTER TABLE results ADD COLUMN player_id INTEGER;
+
+UPDATE results
+        SET player_id = (
+            SELECT players.id
+            FROM results
+            INNER JOIN players
+            ON players.name = results.player
+        ) 
+
+ALTER TABLE results ADD COLUMN tournament_id INTEGER;
+
+UPDATE results
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM results
+            INNER JOIN tournaments
+            ON tournaments.name = results.tournament
+        ) 
+
+ALTER TABLE results ADD COLUMN course_id INTEGER;
+
+UPDATE results
+        SET course_id = (
+            SELECT courses.id
+            FROM results
+            INNER JOIN courses
+            ON courses.name = results.course
+        ) 
+
+ALTER TABLE results ADD COLUMN position_id INTEGER;
+
+UPDATE results
+        SET position_id = (
+            SELECT positions.id
+            FROM results
+            INNER JOIN positions
+            ON positions.position = results.pos
+        ) 
+# alter table to rename results to results_old, author Sam Ochs
+ALTER TABLE results RENAME TO results_old;
+# create the new results table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS results (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            player_id  INTEGER NOT NULL,
+            tournament_id     INTEGER NOT NULL,
+            course_id     INTEGER NOT NULL,
+            position_id INTEGER NOT NULL,
+            total      INTEGER,
+            thru       TEXT,
+            round      INTEGER,
+            r1         INTEGER,
+            r2         INTEGER,
+            r3         INTEGER,
+            r4         INTEGER,
+            strokes    INTEGER,
+            proj       INTEGER,
+            starting   INTEGER,
+            start_date TEXT,
+            end_date   TEXT,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id),
+            FOREIGN KEY (course_id) REFERENCES courses(id),
+            FOREIGN KEY (position_id) REFERENCES positions(id)
+        )
+# insert data from results_old into the new results table, author Sam Ochs
+INSERT INTO results (player_id, tournament_id, course_id, position_id, total, thru, round, r1, r2, r3, r4, strokes, proj, starting, start_date, end_date)
+        SELECT player_id, tournament_id, course_id, position_id, total, thru, round, r1, r2, r3, r4, strokes, proj, starting, start_date, end_date
+        FROM results_old
+# drop the old results table, author Sam Ochs
+DROP TABLE IF EXISTS results_old;
+# create the driving distance table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS driving_distance (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player    TEXT,
+            avg       REAL,
+            total_distance INTEGER,
+            total_drives INTEGER,
+            tournament TEXT
+        )
+# insert initial driving distance data, author Sam Ochs
+INSERT INTO "driving_distance" ("rank", "player", "avg", "total_distance", "total_drives", "tournament") VALUES (?, ?, ?, ?, ?, ?)
+# alter table to add player_id and tournament_id columns, author Sam Ochs
+ALTER TABLE driving_distance ADD COLUMN player_id INTEGER;
+
+UPDATE driving_distance
+        SET player_id = (
+            SELECT players.id
+            FROM driving_distance
+            INNER JOIN players
+            ON players.name = driving_distance.player
+        ) 
+
+ALTER TABLE driving_distance ADD COLUMN tournament_id INTEGER;
+
+UPDATE driving_distance
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM driving_distance
+            INNER JOIN tournaments
+            ON tournaments.name = driving_distance.tournament
+        ) 
+# alter table to rename driving_distance to driving_distance_old, author Sam Ochs
+ALTER TABLE driving_distance RENAME TO driving_distance_old;
+# create the new driving distance table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS driving_distance (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player_id  INTEGER NOT NULL,
+            tournament_id INTEGER NOT NULL,
+            avg       REAL,
+            total_distance INTEGER,
+            total_drives INTEGER,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id)
+        )
+# insert data from driving_distance_old into the new driving distance table, author Sam Ochs
+INSERT INTO driving_distance (rank, player_id, tournament_id, avg, total_distance, total_drives)
+        SELECT rank, player_id, tournament_id, avg, total_distance, total_drives
+        FROM driving_distance_old   
+# drop the old driving distance table, author Sam Ochs
+DROP TABLE IF EXISTS driving_distance_old;
+# create the driving accuracy table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS driving_accuracy (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player    TEXT,
+            percent_fairways REAL,
+            fairways_hit INTEGER,
+            possible_fairways INTEGER,
+            tournament TEXT
+        )
+# insert initial driving accuracy data, author Sam Ochs
+INSERT INTO "driving_accuracy" ("rank", "player", "percent_fairways", "fairways_hit", "possible_fairways", "tournament") VALUES (?, ?, ?, ?, ?, ?)
+# alter table to add player_id and tournament_id columns, author Sam Ochs
+ALTER TABLE driving_accuracy ADD COLUMN player_id INTEGER;
+
+UPDATE driving_accuracy
+        SET player_id = (
+            SELECT players.id
+            FROM driving_accuracy
+            INNER JOIN players
+            ON players.name = driving_accuracy.player
+        ) 
+
+ALTER TABLE driving_accuracy ADD COLUMN tournament_id INTEGER;
+
+UPDATE driving_accuracy
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM driving_accuracy
+            INNER JOIN tournaments
+            ON tournaments.name = driving_accuracy.tournament
+        )
+# alter table to rename driving_accuracy to driving_accuracy_old, author Sam Ochs
+ALTER TABLE driving_accuracy RENAME TO driving_accuracy_old;
+# create the new driving accuracy table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS driving_accuracy (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player_id  INTEGER NOT NULL,
+            tournament_id INTEGER NOT NULL,
+            percent_fairways REAL,
+            fairways_hit INTEGER,
+            possible_fairways INTEGER,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id)
+        )
+# insert data from driving_accuracy_old into the new driving accuracy table, author Sam Ochs
+INSERT INTO driving_accuracy (rank, player_id, tournament_id, percent_fairways, fairways_hit, possible_fairways)
+        SELECT rank, player_id, tournament_id, percent_fairways, fairways_hit, possible_fairways
+        FROM driving_accuracy_old  
+# drop the old driving accuracy table, author Sam Ochs
+DROP TABLE IF EXISTS driving_accuracy_old;
+# create the strokes gained putting table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_putting (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player    TEXT,
+            avg      REAL,
+            total_sg_putting REAL,
+            measured_rounds INTEGER,
+            tournament TEXT
+        )
+# insert initial strokes gained putting data, author Sam Ochs
+INSERT INTO "sg_putting" ("rank", "player", "avg", "total_sg_putting", "measured_rounds", "tournament") VALUES (?, ?, ?, ?, ?, ?)
+# alter table to add player_id and tournament_id columns, author Sam Ochs
+ALTER TABLE sg_putting ADD COLUMN player_id INTEGER;
+
+UPDATE sg_putting
+        SET player_id = (
+            SELECT players.id
+            FROM sg_putting
+            INNER JOIN players
+            ON players.name = sg_putting.player
+        ) 
+
+ALTER TABLE sg_putting ADD COLUMN tournament_id INTEGER;
+
+UPDATE sg_putting
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM sg_putting
+            INNER JOIN tournaments
+            ON tournaments.name = sg_putting.tournament
+        ) 
+# alter table to rename sg_putting to sg_putting_old, author Sam Ochs
+ALTER TABLE sg_putting RENAME TO sg_putting_old;
+# create the new strokes gained putting table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_putting (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player_id  INTEGER NOT NULL,
+            tournament_id INTEGER NOT NULL,
+            avg      REAL,
+            total_sg_putting REAL,
+            measured_rounds INTEGER,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id)
+        )
+# insert data from sg_putting_old into the new strokes gained putting table, author Sam Ochs
+INSERT INTO sg_putting (rank, player_id, tournament_id, avg, total_sg_putting, measured_rounds)
+        SELECT rank, player_id, tournament_id, avg, total_sg_putting, measured_rounds
+        FROM sg_putting_old
+# drop the old strokes gained putting table, author Sam Ochs
+DROP TABLE IF EXISTS sg_putting_old;
+# create the strokes gained off the tee table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_ott (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player    TEXT,
+            avg      REAL,
+            total_sg_ott REAL,
+            measured_rounds INTEGER,
+            tournament TEXT
+        )
+# insert initial strokes gained off the tee data, author Sam Ochs
+INSERT INTO "sg_ott" ("rank", "player", "avg", "total_sg_ott", "measured_rounds", "tournament") VALUES (?, ?, ?, ?, ?, ?)
+# alter table to add player_id and tournament_id columns, author Sam Ochs
+ALTER TABLE sg_ott ADD COLUMN player_id INTEGER;
+
+UPDATE sg_ott
+        SET player_id = (
+            SELECT players.id
+            FROM sg_ott
+            INNER JOIN players
+            ON players.name = sg_ott.player
+        ) 
+
+ALTER TABLE sg_ott ADD COLUMN tournament_id INTEGER;
+
+UPDATE sg_ott
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM sg_ott
+            INNER JOIN tournaments
+            ON tournaments.name = sg_ott.tournament
+        ) 
+# alter table to rename sg_ott to sg_ott_old, author Sam Ochs
+ALTER TABLE sg_ott RENAME TO sg_ott_old;
+# create the new strokes gained off the tee table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_ott (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player_id  INTEGER NOT NULL,
+            tournament_id INTEGER NOT NULL,
+            avg      REAL,
+            total_sg_ott REAL,
+            measured_rounds INTEGER,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id)
+        )
+# insert data from sg_ott_old into the new strokes gained off the tee table, author Sam Ochs
+INSERT INTO sg_ott (rank, player_id, tournament_id, avg, total_sg_ott, measured_rounds)
+        SELECT rank, player_id, tournament_id, avg, total_sg_ott, measured_rounds
+        FROM sg_ott_old
+# drop the old strokes gained off the tee table, author Sam Ochs
+DROP TABLE IF EXISTS sg_ott_old;
+# create the strokes gained approach table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_app (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player    TEXT,
+            avg      REAL,
+            total_sg_app REAL,
+            measured_rounds INTEGER,
+            tournament TEXT
+        )
+# insert initial strokes gained approach data, author Sam Ochs
+INSERT INTO "sg_app" ("rank", "player", "avg", "total_sg_app", "measured_rounds", "tournament") VALUES (?, ?, ?, ?, ?, ?)
+# alter table to add player_id and tournament_id columns, author Sam Ochs
+ALTER TABLE sg_app ADD COLUMN player_id INTEGER;
+
+UPDATE sg_app
+        SET player_id = (
+            SELECT players.id
+            FROM sg_app
+            INNER JOIN players
+            ON players.name = sg_app.player
+        ) 
+
+ALTER TABLE sg_app ADD COLUMN tournament_id INTEGER;
+
+UPDATE sg_app
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM sg_app
+            INNER JOIN tournaments
+            ON tournaments.name = sg_app.tournament
+        ) 
+# alter table to rename sg_app to sg_app_old, author Sam Ochs
+ALTER TABLE sg_app RENAME TO sg_app_old;
+# create the new strokes gained approach table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_app (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player_id  INTEGER NOT NULL,
+            tournament_id INTEGER NOT NULL,
+            avg      REAL,
+            total_sg_app REAL,
+            measured_rounds INTEGER,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id)
+        )
+# insert data from sg_app_old into the new strokes gained approach table, author Sam Ochs
+INSERT INTO sg_app (rank, player_id, tournament_id, avg, total_sg_app, measured_rounds)
+        SELECT rank, player_id, tournament_id, avg, total_sg_app, measured_rounds
+        FROM sg_app_old
+# drop the old strokes gained approach table, author Sam Ochs
+DROP TABLE IF EXISTS sg_app_old;
+# create the strokes gained around the green table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_arg (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player    TEXT,
+            avg      REAL,
+            total_sg_arg REAL,
+            measured_rounds INTEGER,
+            tournament TEXT
+        )
+# insert initial strokes gained around the green data, author Sam Ochs
+INSERT INTO "sg_arg" ("rank", "player", "avg", "total_sg_arg", "measured_rounds", "tournament") VALUES (?, ?, ?, ?, ?, ?)
+# alter table to add player_id and tournament_id columns, author Sam Ochs
+ALTER TABLE sg_arg ADD COLUMN player_id INTEGER;
+# 
+UPDATE sg_arg
+    SET player_id = (
+        SELECT players.id
+        FROM sg_arg
+        INNER JOIN players
+        ON players.name = sg_arg.player
+    ) 
+
+ALTER TABLE sg_arg ADD COLUMN tournament_id INTEGER;
+
+UPDATE sg_arg
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM sg_arg
+            INNER JOIN tournaments
+            ON tournaments.name = sg_arg.tournament
+        ) 
+# alter table to rename sg_arg to sg_arg_old, author Sam Ochs
+ALTER TABLE sg_arg RENAME TO sg_arg_old;
+# create the new strokes gained around the green table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_arg (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player_id  INTEGER NOT NULL,
+            tournament_id INTEGER NOT NULL,
+            avg      REAL,
+            total_sg_arg REAL,
+            measured_rounds INTEGER,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id)
+        )
+# insert data from sg_arg_old into the new strokes gained around the green table, author Sam Ochs
+INSERT INTO sg_arg (rank, player_id, tournament_id, avg, total_sg_arg, measured_rounds)
+        SELECT rank, player_id, tournament_id, avg, total_sg_arg, measured_rounds
+        FROM sg_arg_old
+# drop the old strokes gained around the green table, author Sam Ochs
+DROP TABLE IF EXISTS sg_arg_old;
+# create the strokes gained from tee to green table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_fttg (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player    TEXT,
+            total   REAL,
+            total_sg_ott_avg      REAL,
+            total_sg_apr_avg      REAL,
+            total_sg_arg_avg      REAL,
+            measured_rounds INTEGER,
+            tournament TEXT
+        )
+# insert initial strokes gained from tee to green data, author Sam Ochs
+INSERT INTO "sg_fttg" ("rank", "player", "total", "total_sg_ott_avg", "total_sg_apr_avg", "total_sg_arg_avg", "measured_rounds", "tournament") VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+# alter table to add player_id and tournament_id columns, author Sam Ochs
+ALTER TABLE sg_fttg ADD COLUMN player_id INTEGER;
+
+UPDATE sg_fttg
+        SET player_id = (
+            SELECT players.id
+            FROM sg_fttg
+            INNER JOIN players
+            ON players.name = sg_fttg.player
+        ) 
+
+ALTER TABLE sg_fttg ADD COLUMN tournament_id INTEGER;
+
+UPDATE sg_fttg
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM sg_fttg
+            INNER JOIN tournaments
+            ON tournaments.name = sg_fttg.tournament
+        ) 
+# alter table to rename sg_fttg to sg_fttg_old, author Sam Ochs
+ALTER TABLE sg_fttg RENAME TO sg_fttg_old;
+# create the new strokes gained from tee to green table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_fttg (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player_id  INTEGER NOT NULL,
+            tournament_id INTEGER NOT NULL,
+            total   REAL,
+            total_sg_ott_avg      REAL,
+            total_sg_apr_avg      REAL,
+            total_sg_arg_avg      REAL,
+            measured_rounds INTEGER,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id)
+        )
+# insert data from sg_fttg_old into the new strokes gained from tee to green table, author Sam Ochs
+INSERT INTO sg_fttg (rank, player_id, tournament_id, total, total_sg_ott_avg, total_sg_apr_avg, total_sg_arg_avg, measured_rounds)
+        SELECT rank, player_id, tournament_id, total, total_sg_ott_avg, total_sg_apr_avg, total_sg_arg_avg, measured_rounds
+        FROM sg_fttg_old
+# drop the old strokes gained from tee to green table, author Sam Ochs
+DROP TABLE IF EXISTS sg_fttg_old;
+# create the strokes gained total table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_total (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player    TEXT,
+            avg   REAL,
+            total_sg_t      REAL,
+            total_sg_t2g      REAL,
+            total_sg_p      REAL,
+            measured_rounds INTEGER,
+            tournament TEXT
+        )
+# insert initial strokes gained total data, author Sam Ochs
+INSERT INTO "sg_total" ("rank", "player", "avg", "total_sg_t", "total_sg_t2g", "total_sg_p", "measured_rounds", "tournament") VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+# alter table to add player_id and tournament_id columns, author Sam Ochs
+ALTER TABLE sg_total ADD COLUMN player_id INTEGER;
+
+UPDATE sg_total
+        SET player_id = (
+            SELECT players.id
+            FROM sg_total
+            INNER JOIN players
+            ON players.name = sg_total.player
+        ) 
+
+ALTER TABLE sg_total ADD COLUMN tournament_id INTEGER;
+
+UPDATE sg_total
+        SET tournament_id = (
+            SELECT tournaments.id
+            FROM sg_total
+            INNER JOIN tournaments
+            ON tournaments.name = sg_total.tournament
+        )
+# alter table to rename sg_total to sg_total_old, author Sam Ochs
+ALTER TABLE sg_total RENAME TO sg_total_old;
+# create the new strokes gained total table with foreign keys, author Sam Ochs
+CREATE TABLE IF NOT EXISTS sg_total (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            rank       INTEGER,
+            player_id  INTEGER NOT NULL,
+            tournament_id INTEGER NOT NULL,
+            avg   REAL,
+            total_sg_t      REAL,
+            total_sg_t2g      REAL,
+            total_sg_p      REAL,
+            measured_rounds INTEGER,
+            FOREIGN KEY (player_id) REFERENCES players(id),
+            FOREIGN KEY (tournament_id) REFERENCES tournaments(id)
+        )
+# insert data from sg_total_old into the new strokes gained total table, author Sam Ochs
+INSERT INTO sg_total (rank, player_id, tournament_id, avg, total_sg_t, total_sg_t2g, total_sg_p, measured_rounds)
+SELECT rank, player_id, tournament_id, avg, total_sg_t, total_sg_t2g, total_sg_p, measured_rounds
+FROM sg_total_old
+# drop the old strokes gained total table, author Sam Ochs
+DROP TABLE IF EXISTS sg_total_old;
