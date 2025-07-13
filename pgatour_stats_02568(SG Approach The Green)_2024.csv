@@ -1,0 +1,2676 @@
+rank,player,avg,total_sg_app,measured_rounds,tournament
+1,J.T. Poston,2.275,6.825,3,The RSM Classic
+2,Hayden Springer,2.256,6.768,3,The RSM Classic
+3,Henrik Norlander,1.762,5.285,3,The RSM Classic
+4,Callum Tarren,1.379,4.138,3,The RSM Classic
+5,Eric Cole,1.328,3.985,3,The RSM Classic
+6,Maverick McNealy,1.258,3.774,3,The RSM Classic
+7,S.Y. Noh,1.201,3.603,3,The RSM Classic
+8,Kevin Chappell,1.155,3.464,3,The RSM Classic
+9,Joel Dahmen,0.924,2.772,3,The RSM Classic
+10,Patrick Fishburn,0.824,2.473,3,The RSM Classic
+11,Vince Whaley,0.815,2.445,3,The RSM Classic
+12,Patrick Rodgers,0.802,2.405,3,The RSM Classic
+13,Kelly Kraft,0.784,2.353,3,The RSM Classic
+14,Jonathan Byrd,0.757,2.270,3,The RSM Classic
+15,Michael Thorbjornsen,0.701,2.102,3,The RSM Classic
+16,Daniel Berger,0.633,1.899,3,The RSM Classic
+17,Taylor Moore,0.614,1.842,3,The RSM Classic
+18,Adam Schenk,0.593,1.779,3,The RSM Classic
+19,Will Gordon,0.547,1.641,3,The RSM Classic
+20,Michael Kim,0.509,1.528,3,The RSM Classic
+21,Chandler Phillips,0.491,1.473,3,The RSM Classic
+22,Bud Cauley,0.487,1.460,3,The RSM Classic
+23,Mackenzie Hughes,0.427,1.281,3,The RSM Classic
+24,Lucas Glover,0.399,1.197,3,The RSM Classic
+25,Adrien Dumont de Chassart,0.378,1.134,3,The RSM Classic
+26,Sam Stevens,0.359,1.076,3,The RSM Classic
+27,Nico Echavarria,0.351,1.054,3,The RSM Classic
+28,Taylor Montgomery,0.345,1.034,3,The RSM Classic
+29,Ben Griffin,0.276,0.829,3,The RSM Classic
+30,Joseph Bramlett,0.268,0.805,3,The RSM Classic
+31,Austin Eckroat,0.254,0.763,3,The RSM Classic
+32,Blake McShea,0.225,0.675,3,The RSM Classic
+33,Joe Highsmith,0.206,0.617,3,The RSM Classic
+34,Brian Harman,0.182,0.547,3,The RSM Classic
+35,Philip Knowles,0.163,0.489,3,The RSM Classic
+36,Brandon Wu,0.128,0.385,3,The RSM Classic
+37,Ludvig Åberg,0.110,0.331,3,The RSM Classic
+38,Martin Laird,0.065,0.196,3,The RSM Classic
+39,Adam Hadwin,0.031,0.094,3,The RSM Classic
+40,Kevin Tway,0.015,0.046,3,The RSM Classic
+41,Robby Shelton,0.002,0.007,3,The RSM Classic
+42,Garrick Higgo,-0.071,-0.213,3,The RSM Classic
+43,Lee Hodges,-0.084,-0.252,3,The RSM Classic
+44,Martin Trainer,-0.110,-0.330,3,The RSM Classic
+45,William McGirt,-0.157,-0.472,3,The RSM Classic
+46,Patton Kizzire,-0.209,-0.628,3,The RSM Classic
+47,Denny McCarthy,-0.212,-0.637,3,The RSM Classic
+48,Davis Thompson,-0.237,-0.711,3,The RSM Classic
+49,Andrew Novak,-0.388,-1.165,3,The RSM Classic
+50,Stewart Cink,-0.416,-1.247,3,The RSM Classic
+51,Marcus Byrd,-0.419,-1.257,3,The RSM Classic
+52,Doug Ghim,-0.479,-1.437,3,The RSM Classic
+53,Austin Smotherman,-0.489,-1.468,3,The RSM Classic
+54,Matt Wallace,-0.506,-1.519,3,The RSM Classic
+55,Luke Clanton,-0.524,-1.572,3,The RSM Classic
+56,Lanto Griffin,-0.597,-1.790,3,The RSM Classic
+57,Harris English,-0.609,-1.826,3,The RSM Classic
+58,Adam Svensson,-0.631,-1.893,3,The RSM Classic
+59,Ryo Hisatsune,-0.675,-2.025,3,The RSM Classic
+60,Steven Fisk,-0.698,-2.094,3,The RSM Classic
+61,Kevin Yu,-0.717,-2.151,3,The RSM Classic
+62,Russell Knox,-0.725,-2.174,3,The RSM Classic
+63,Tyson Alexander,-0.746,-2.238,3,The RSM Classic
+64,Carson Young,-0.856,-2.569,3,The RSM Classic
+65,S.H. Kim,-0.858,-2.575,3,The RSM Classic
+66,Jake Knapp,-0.987,-2.960,3,The RSM Classic
+67,Mark Hubbard,-1.039,-3.117,3,The RSM Classic
+68,Paul Peterson,-1.274,-3.822,3,The RSM Classic
+69,Christo Lamprecht,-1.507,-4.522,3,The RSM Classic
+1,Justin Thomas,2.006,8.024,4,ZOZO CHAMPIONSHIP
+2,Nico Echavarria,2.000,7.998,4,ZOZO CHAMPIONSHIP
+3,Joel Dahmen,1.657,6.627,4,ZOZO CHAMPIONSHIP
+4,Kurt Kitayama,1.155,4.621,4,ZOZO CHAMPIONSHIP
+5,C.T. Pan,1.139,4.555,4,ZOZO CHAMPIONSHIP
+6,Yuta Sugiura,1.117,4.469,4,ZOZO CHAMPIONSHIP
+7,Carson Young,1.073,4.290,4,ZOZO CHAMPIONSHIP
+8,Rickie Fowler,0.965,3.860,4,ZOZO CHAMPIONSHIP
+9,Jhonattan Vegas,0.925,3.699,4,ZOZO CHAMPIONSHIP
+10,Yuto Katsuragawa,0.883,3.532,4,ZOZO CHAMPIONSHIP
+11,Si Woo Kim,0.869,3.477,4,ZOZO CHAMPIONSHIP
+12,Ben Griffin,0.854,3.415,4,ZOZO CHAMPIONSHIP
+13,Eric Cole,0.848,3.391,4,ZOZO CHAMPIONSHIP
+14,J.J. Spaun,0.841,3.362,4,ZOZO CHAMPIONSHIP
+15,Taisei Shimizu,0.738,2.952,4,ZOZO CHAMPIONSHIP
+16,Max Greyserman,0.717,2.866,4,ZOZO CHAMPIONSHIP
+17,Mark Hubbard,0.687,2.749,4,ZOZO CHAMPIONSHIP
+18,Lee Hodges,0.684,2.737,4,ZOZO CHAMPIONSHIP
+19,Ren Yonezawa,0.663,2.650,4,ZOZO CHAMPIONSHIP
+20,Nick Taylor,0.659,2.637,4,ZOZO CHAMPIONSHIP
+21,Tom Hoge,0.653,2.610,4,ZOZO CHAMPIONSHIP
+22,Hideki Matsuyama,0.608,2.433,4,ZOZO CHAMPIONSHIP
+22,Andrew Novak,0.608,2.430,4,ZOZO CHAMPIONSHIP
+24,Victor Perez,0.589,2.357,4,ZOZO CHAMPIONSHIP
+25,Matt Kuchar,0.581,2.324,4,ZOZO CHAMPIONSHIP
+26,Kevin Yu,0.480,1.920,4,ZOZO CHAMPIONSHIP
+27,Shugo Imahira,0.462,1.847,4,ZOZO CHAMPIONSHIP
+28,Collin Morikawa,0.430,1.719,4,ZOZO CHAMPIONSHIP
+29,Andrew Putnam,0.422,1.686,4,ZOZO CHAMPIONSHIP
+30,Ryosuke Kinoshita,0.407,1.629,4,ZOZO CHAMPIONSHIP
+31,Zac Blair,0.374,1.496,4,ZOZO CHAMPIONSHIP
+32,Min Woo Lee,0.364,1.455,4,ZOZO CHAMPIONSHIP
+33,K.H. Lee,0.359,1.434,4,ZOZO CHAMPIONSHIP
+34,Xander Schauffele,0.317,1.269,4,ZOZO CHAMPIONSHIP
+35,Ben Kohles,0.303,1.210,4,ZOZO CHAMPIONSHIP
+36,Chan Kim,0.281,1.124,4,ZOZO CHAMPIONSHIP
+37,Adam Svensson,0.235,0.938,4,ZOZO CHAMPIONSHIP
+38,Rico Hoey,0.226,0.903,4,ZOZO CHAMPIONSHIP
+39,Ben Silverman,0.225,0.901,4,ZOZO CHAMPIONSHIP
+40,Sam Stevens,0.160,0.639,4,ZOZO CHAMPIONSHIP
+41,Gary Woodland,0.105,0.419,4,ZOZO CHAMPIONSHIP
+42,Nate Lashley,0.034,0.136,4,ZOZO CHAMPIONSHIP
+43,Sahith Theegala,0.016,0.064,4,ZOZO CHAMPIONSHIP
+44,Sami Valimaki,-0.041,-0.165,4,ZOZO CHAMPIONSHIP
+45,Max Homa,-0.096,-0.383,4,ZOZO CHAMPIONSHIP
+46,Kensei Hirata,-0.102,-0.408,4,ZOZO CHAMPIONSHIP
+47,Taylor Moore,-0.146,-0.586,4,ZOZO CHAMPIONSHIP
+48,Sungjae Im,-0.156,-0.625,4,ZOZO CHAMPIONSHIP
+49,Takahiro Hataji,-0.196,-0.785,4,ZOZO CHAMPIONSHIP
+49,Seamus Power,-0.196,-0.783,4,ZOZO CHAMPIONSHIP
+51,Doug Ghim,-0.204,-0.815,4,ZOZO CHAMPIONSHIP
+52,Chris Gotterup,-0.269,-1.078,4,ZOZO CHAMPIONSHIP
+52,Takumi Kanaya,-0.269,-1.076,4,ZOZO CHAMPIONSHIP
+54,Harry Hall,-0.277,-1.107,4,ZOZO CHAMPIONSHIP
+55,Justin Lower,-0.288,-1.153,4,ZOZO CHAMPIONSHIP
+56,Ryan Fox,-0.336,-1.346,4,ZOZO CHAMPIONSHIP
+57,Ryo Ishikawa,-0.516,-2.066,4,ZOZO CHAMPIONSHIP
+58,Will Zalatoris,-0.594,-2.377,4,ZOZO CHAMPIONSHIP
+59,Mac Meissner,-0.614,-2.456,4,ZOZO CHAMPIONSHIP
+60,Patrick Fishburn,-0.651,-2.603,4,ZOZO CHAMPIONSHIP
+61,Ryo Hisatsune,-0.773,-3.093,4,ZOZO CHAMPIONSHIP
+62,Chandler Phillips,-0.891,-3.563,4,ZOZO CHAMPIONSHIP
+63,Patrick Rodgers,-0.917,-3.670,4,ZOZO CHAMPIONSHIP
+64,Charley Hoffman,-1.032,-4.127,4,ZOZO CHAMPIONSHIP
+65,S.H. Kim,-1.040,-4.161,4,ZOZO CHAMPIONSHIP
+66,Naoyuki Kataoka,-1.163,-4.654,4,ZOZO CHAMPIONSHIP
+67,Satoshi Kodaira,-1.168,-4.674,4,ZOZO CHAMPIONSHIP
+68,Luke List,-1.171,-4.686,4,ZOZO CHAMPIONSHIP
+69,Chad Ramey,-1.237,-4.947,4,ZOZO CHAMPIONSHIP
+70,David Skinns,-1.247,-4.988,4,ZOZO CHAMPIONSHIP
+71,Takashi Ogiso,-1.290,-5.161,4,ZOZO CHAMPIONSHIP
+72,Hiroshi Iwata,-1.506,-6.026,4,ZOZO CHAMPIONSHIP
+73,Adam Schenk,-1.690,-6.762,4,ZOZO CHAMPIONSHIP
+74,Davis Riley,-1.793,-7.171,4,ZOZO CHAMPIONSHIP
+75,Kaito Onishi,-1.826,-7.305,4,ZOZO CHAMPIONSHIP
+76,Beau Hossler,-2.134,-8.535,4,ZOZO CHAMPIONSHIP
+77,Brendon Todd,-2.825,-11.299,4,ZOZO CHAMPIONSHIP
+1,Doug Ghim,1.663,6.652,4,Shriners Children's Open
+2,Kurt Kitayama,1.561,6.242,4,Shriners Children's Open
+3,Nate Lashley,1.347,5.389,4,Shriners Children's Open
+4,Justin Suh,1.301,5.205,4,Shriners Children's Open
+5,Gary Woodland,1.255,5.019,4,Shriners Children's Open
+6,Davis Thompson,1.251,5.003,4,Shriners Children's Open
+7,Bud Cauley,1.197,4.788,4,Shriners Children's Open
+8,K.H. Lee,1.159,4.637,4,Shriners Children's Open
+9,Michael Kim,1.080,4.318,4,Shriners Children's Open
+10,Taylor Pendrith,1.002,4.006,4,Shriners Children's Open
+11,Harry Hall,0.987,3.946,4,Shriners Children's Open
+12,Ian Gilligan,0.969,3.875,4,Shriners Children's Open
+13,Mark Hubbard,0.962,3.846,4,Shriners Children's Open
+14,Norman Xiong,0.876,3.505,4,Shriners Children's Open
+15,Camilo Villegas,0.812,3.247,4,Shriners Children's Open
+16,Rico Hoey,0.803,3.211,4,Shriners Children's Open
+17,Rickie Fowler,0.793,3.173,4,Shriners Children's Open
+18,Lanto Griffin,0.792,3.167,4,Shriners Children's Open
+19,Matti Schmid,0.790,3.158,4,Shriners Children's Open
+20,J.T. Poston,0.718,2.872,4,Shriners Children's Open
+21,Zac Blair,0.715,2.859,4,Shriners Children's Open
+22,Scott Piercy,0.702,2.808,4,Shriners Children's Open
+23,Alejandro Tosti,0.700,2.798,4,Shriners Children's Open
+24,Ryan McCormick,0.684,2.736,4,Shriners Children's Open
+25,Andrew Putnam,0.678,2.711,4,Shriners Children's Open
+26,Francesco Molinari,0.668,2.670,4,Shriners Children's Open
+27,Chad Ramey,0.662,2.646,4,Shriners Children's Open
+28,Nicolo Galletti,0.601,2.404,4,Shriners Children's Open
+29,Patrick Fishburn,0.595,2.378,4,Shriners Children's Open
+30,Davis Riley,0.572,2.289,4,Shriners Children's Open
+31,J.J. Spaun,0.550,2.201,4,Shriners Children's Open
+32,Ryan Moore,0.527,2.109,4,Shriners Children's Open
+33,Greyson Sigg,0.404,1.615,4,Shriners Children's Open
+34,Chris Gotterup,0.352,1.408,4,Shriners Children's Open
+35,Maverick McNealy,0.299,1.197,4,Shriners Children's Open
+36,Joseph Bramlett,0.298,1.190,4,Shriners Children's Open
+37,Neal Shipley,0.296,1.182,4,Shriners Children's Open
+38,Jhonattan Vegas,0.260,1.038,4,Shriners Children's Open
+39,David Lipsky,0.259,1.037,4,Shriners Children's Open
+40,Austin Eckroat,0.209,0.834,4,Shriners Children's Open
+41,Nick Taylor,0.158,0.631,4,Shriners Children's Open
+42,Dan McCarthy,0.154,0.616,4,Shriners Children's Open
+43,S.H. Kim,0.116,0.462,4,Shriners Children's Open
+44,David Skinns,0.107,0.426,4,Shriners Children's Open
+45,Matt Kuchar,0.080,0.318,4,Shriners Children's Open
+46,C.T. Pan,0.055,0.221,4,Shriners Children's Open
+47,Jacob Bridgeman,0.048,0.190,4,Shriners Children's Open
+48,Garrick Higgo,0.002,0.009,4,Shriners Children's Open
+49,Joe Highsmith,-0.007,-0.027,4,Shriners Children's Open
+50,Ben Taylor,-0.017,-0.067,4,Shriners Children's Open
+51,Trace Crowe,-0.070,-0.281,4,Shriners Children's Open
+52,Luke List,-0.103,-0.413,4,Shriners Children's Open
+53,Beau Hossler,-0.234,-0.937,4,Shriners Children's Open
+54,Daniel Berger,-0.305,-1.221,4,Shriners Children's Open
+55,Pierceson Coody,-0.457,-1.830,4,Shriners Children's Open
+56,Erik van Rooyen,-0.536,-2.144,4,Shriners Children's Open
+57,Ryan Fox,-0.633,-2.532,4,Shriners Children's Open
+58,Taylor Moore,-0.683,-2.731,4,Shriners Children's Open
+59,Harris English,-0.689,-2.757,4,Shriners Children's Open
+60,Sam Stevens,-0.705,-2.822,4,Shriners Children's Open
+61,Wilson Furr,-0.788,-3.153,4,Shriners Children's Open
+62,Alex Smalley,-0.851,-3.405,4,Shriners Children's Open
+63,Adam Schenk,-0.901,-3.604,4,Shriners Children's Open
+64,Ben Silverman,-0.982,-3.928,4,Shriners Children's Open
+65,Tyler Duncan,-0.994,-3.975,4,Shriners Children's Open
+66,Vince Whaley,-1.129,-4.517,4,Shriners Children's Open
+1,Lucas Glover,3.375,13.498,4,Black Desert Championship
+2,Kurt Kitayama,2.626,10.504,4,Black Desert Championship
+3,Mac Meissner,1.841,7.363,4,Black Desert Championship
+4,Nico Echavarria,1.699,6.797,4,Black Desert Championship
+5,Lee Hodges,1.542,6.169,4,Black Desert Championship
+6,Joel Dahmen,1.517,6.066,4,Black Desert Championship
+7,Adam Svensson,1.474,5.894,4,Black Desert Championship
+8,Seamus Power,1.455,5.819,4,Black Desert Championship
+9,Chris Kirk,1.336,5.344,4,Black Desert Championship
+10,Doug Ghim,1.331,5.324,4,Black Desert Championship
+11,Ben Griffin,1.273,5.090,4,Black Desert Championship
+12,Henrik Norlander,1.192,4.768,4,Black Desert Championship
+13,Norman Xiong,1.147,4.587,4,Black Desert Championship
+14,Ryo Hisatsune,0.873,3.491,4,Black Desert Championship
+15,Ben Kohles,0.857,3.426,4,Black Desert Championship
+16,Stephan Jaeger,0.820,3.280,4,Black Desert Championship
+17,Lanto Griffin,0.801,3.203,4,Black Desert Championship
+18,Joseph Bramlett,0.786,3.142,4,Black Desert Championship
+19,Zac Blair,0.777,3.106,4,Black Desert Championship
+20,Joe Highsmith,0.734,2.937,4,Black Desert Championship
+21,Alex Smalley,0.698,2.793,4,Black Desert Championship
+22,Sam Ryder,0.688,2.751,4,Black Desert Championship
+23,Nick Hardy,0.672,2.687,4,Black Desert Championship
+24,Matt McCarty,0.538,2.151,4,Black Desert Championship
+25,J.J. Spaun,0.504,2.017,4,Black Desert Championship
+26,Daniel Berger,0.459,1.834,4,Black Desert Championship
+27,Beau Hossler,0.445,1.778,4,Black Desert Championship
+28,Alexander Björk,0.416,1.664,4,Black Desert Championship
+29,Trace Crowe,0.404,1.617,4,Black Desert Championship
+30,Scott Piercy,0.398,1.591,4,Black Desert Championship
+31,Trey Mullinax,0.311,1.243,4,Black Desert Championship
+32,Wesley Bryan,0.301,1.204,4,Black Desert Championship
+32,Matti Schmid,0.301,1.205,4,Black Desert Championship
+34,Chad Ramey,0.292,1.166,4,Black Desert Championship
+35,Tom Whitney,0.286,1.145,4,Black Desert Championship
+36,Greyson Sigg,0.235,0.940,4,Black Desert Championship
+37,Jacob Bridgeman,0.200,0.798,4,Black Desert Championship
+38,Chan Kim,0.164,0.657,4,Black Desert Championship
+39,Harris English,0.155,0.619,4,Black Desert Championship
+40,Cameron Champ,0.130,0.521,4,Black Desert Championship
+41,Carson Young,0.121,0.482,4,Black Desert Championship
+42,Wilson Furr,0.120,0.479,4,Black Desert Championship
+42,Kevin Streelman,0.120,0.479,4,Black Desert Championship
+44,Patton Kizzire,0.053,0.212,4,Black Desert Championship
+45,Nick Taylor,0.027,0.106,4,Black Desert Championship
+46,Rico Hoey,-0.034,-0.137,4,Black Desert Championship
+47,Raul Pereda,-0.070,-0.282,4,Black Desert Championship
+48,Max McGreevy,-0.079,-0.315,4,Black Desert Championship
+49,Tyson Alexander,-0.081,-0.325,4,Black Desert Championship
+50,Patrick Rodgers,-0.108,-0.431,4,Black Desert Championship
+51,Harry Hall,-0.155,-0.619,4,Black Desert Championship
+52,Roger Sloan,-0.228,-0.912,4,Black Desert Championship
+53,Erik van Rooyen,-0.369,-1.476,4,Black Desert Championship
+54,Will Gordon,-0.393,-1.574,4,Black Desert Championship
+55,Philip Knowles,-0.399,-1.597,4,Black Desert Championship
+56,Justin Suh,-0.460,-1.839,4,Black Desert Championship
+57,Chez Reavie,-0.466,-1.866,4,Black Desert Championship
+58,K.H. Lee,-0.534,-2.135,4,Black Desert Championship
+59,Nate Lashley,-0.539,-2.157,4,Black Desert Championship
+60,Alejandro Tosti,-0.595,-2.379,4,Black Desert Championship
+61,Tyler Duncan,-0.794,-3.178,4,Black Desert Championship
+62,Vince Whaley,-0.840,-3.360,4,Black Desert Championship
+63,Ryan Fox,-0.972,-3.887,4,Black Desert Championship
+64,Carl Yuan,-1.014,-4.058,4,Black Desert Championship
+65,S.H. Kim,-1.044,-4.178,4,Black Desert Championship
+66,Kevin Tway,-1.093,-4.374,4,Black Desert Championship
+67,Chesson Hadley,-1.106,-4.425,4,Black Desert Championship
+68,Erik Barnes,-1.639,-6.556,4,Black Desert Championship
+69,Dylan Wu,-2.178,-8.711,4,Black Desert Championship
+1,Eric Cole,2.509,10.035,4,Sanderson Farms Championship
+2,Gary Woodland,1.875,7.502,4,Sanderson Farms Championship
+3,Austin Smotherman,1.873,7.494,4,Sanderson Farms Championship
+4,David Skinns,1.668,6.674,4,Sanderson Farms Championship
+5,Matt NeSmith,1.567,6.269,4,Sanderson Farms Championship
+6,Lucas Glover,1.554,6.215,4,Sanderson Farms Championship
+7,Lee Hodges,1.440,5.759,4,Sanderson Farms Championship
+8,Nick Dunlap,1.360,5.442,4,Sanderson Farms Championship
+9,Charley Hoffman,1.117,4.468,4,Sanderson Farms Championship
+10,Alex Smalley,1.022,4.089,4,Sanderson Farms Championship
+11,Keith Mitchell,1.009,4.037,4,Sanderson Farms Championship
+12,Ryan Fox,0.984,3.936,4,Sanderson Farms Championship
+13,Ben Kohles,0.961,3.843,4,Sanderson Farms Championship
+14,Mackenzie Hughes,0.945,3.782,4,Sanderson Farms Championship
+15,Patton Kizzire,0.944,3.778,4,Sanderson Farms Championship
+16,Justin Lower,0.822,3.289,4,Sanderson Farms Championship
+17,Seamus Power,0.815,3.260,4,Sanderson Farms Championship
+18,Andrew Novak,0.767,3.070,4,Sanderson Farms Championship
+19,Beau Hossler,0.764,3.056,4,Sanderson Farms Championship
+20,Ryan Hall,0.749,2.997,4,Sanderson Farms Championship
+21,Martin Laird,0.672,2.690,4,Sanderson Farms Championship
+22,Bud Cauley,0.671,2.685,4,Sanderson Farms Championship
+23,Callum Tarren,0.664,2.658,4,Sanderson Farms Championship
+24,Kevin Yu,0.653,2.613,4,Sanderson Farms Championship
+25,Brice Garnett,0.620,2.480,4,Sanderson Farms Championship
+26,Joseph Bramlett,0.617,2.468,4,Sanderson Farms Championship
+27,Brandt Snedeker,0.580,2.320,4,Sanderson Farms Championship
+28,Nick Hardy,0.569,2.278,4,Sanderson Farms Championship
+29,Emiliano Grillo,0.553,2.213,4,Sanderson Farms Championship
+30,Matti Schmid,0.456,1.823,4,Sanderson Farms Championship
+31,Chesson Hadley,0.454,1.818,4,Sanderson Farms Championship
+32,Chandler Phillips,0.429,1.715,4,Sanderson Farms Championship
+33,Daniel Berger,0.413,1.653,4,Sanderson Farms Championship
+33,Nate Lashley,0.413,1.651,4,Sanderson Farms Championship
+35,Brandon Wu,0.403,1.614,4,Sanderson Farms Championship
+36,Mac Meissner,0.398,1.592,4,Sanderson Farms Championship
+37,Rickie Fowler,0.395,1.582,4,Sanderson Farms Championship
+38,Joe Highsmith,0.381,1.524,4,Sanderson Farms Championship
+39,Doug Ghim,0.374,1.496,4,Sanderson Farms Championship
+40,Carson Young,0.313,1.253,4,Sanderson Farms Championship
+41,Paul Barjon,0.255,1.022,4,Sanderson Farms Championship
+42,Adrien Dumont de Chassart,0.254,1.015,4,Sanderson Farms Championship
+43,Matt McCarty,0.249,0.998,4,Sanderson Farms Championship
+44,Vince Whaley,0.195,0.780,4,Sanderson Farms Championship
+45,Henrik Norlander,0.171,0.685,4,Sanderson Farms Championship
+46,Wesley Bryan,0.038,0.152,4,Sanderson Farms Championship
+47,Kevin Streelman,0.022,0.090,4,Sanderson Farms Championship
+48,Will Gordon,0.007,0.028,4,Sanderson Farms Championship
+49,Mark Hubbard,-0.004,-0.017,4,Sanderson Farms Championship
+50,K.H. Lee,-0.039,-0.157,4,Sanderson Farms Championship
+51,Trace Crowe,-0.127,-0.506,4,Sanderson Farms Championship
+52,Trey Mullinax,-0.204,-0.815,4,Sanderson Farms Championship
+53,Bill Haas,-0.267,-1.069,4,Sanderson Farms Championship
+54,Patrick Fishburn,-0.278,-1.112,4,Sanderson Farms Championship
+55,Jhonattan Vegas,-0.322,-1.289,4,Sanderson Farms Championship
+56,Ben Griffin,-0.374,-1.497,4,Sanderson Farms Championship
+57,Jacob Bridgeman,-0.510,-2.039,4,Sanderson Farms Championship
+58,Roger Sloan,-0.537,-2.146,4,Sanderson Farms Championship
+59,Michael Thorbjornsen,-0.552,-2.209,4,Sanderson Farms Championship
+60,Luke List,-0.683,-2.730,4,Sanderson Farms Championship
+61,Rico Hoey,-0.764,-3.057,4,Sanderson Farms Championship
+62,Stephan Jaeger,-0.812,-3.248,4,Sanderson Farms Championship
+63,Nicholas Lindheim,-0.832,-3.326,4,Sanderson Farms Championship
+64,Sam Stevens,-0.867,-3.468,4,Sanderson Farms Championship
+65,Chan Kim,-1.023,-4.090,4,Sanderson Farms Championship
+66,Taylor Moore,-1.181,-4.722,4,Sanderson Farms Championship
+67,Hayden Springer,-1.264,-5.056,4,Sanderson Farms Championship
+68,Sami Valimaki,-1.466,-5.863,4,Sanderson Farms Championship
+1,"Blaine Hale, Jr.",1.649,6.596,4,Procore Championship
+2,Mackenzie Hughes,1.560,6.242,4,Procore Championship
+3,Tom Hoge,1.545,6.182,4,Procore Championship
+4,David Lipsky,1.380,5.520,4,Procore Championship
+5,Matt Kuchar,1.328,5.311,4,Procore Championship
+6,Johnny Keefer,1.221,4.886,4,Procore Championship
+7,Joe Highsmith,1.134,4.537,4,Procore Championship
+8,Luke Clanton,1.128,4.513,4,Procore Championship
+9,Tom Whitney,1.108,4.432,4,Procore Championship
+10,Greyson Sigg,1.059,4.236,4,Procore Championship
+11,Rico Hoey,1.043,4.174,4,Procore Championship
+12,Pierceson Coody,1.016,4.066,4,Procore Championship
+13,Josh Teater,0.978,3.913,4,Procore Championship
+14,Ben Kohles,0.916,3.663,4,Procore Championship
+15,Patton Kizzire,0.861,3.445,4,Procore Championship
+16,Nick Hardy,0.846,3.383,4,Procore Championship
+17,Doug Ghim,0.806,3.225,4,Procore Championship
+18,Corey Conners,0.672,2.687,4,Procore Championship
+19,Andrew Putnam,0.658,2.634,4,Procore Championship
+20,Brandt Snedeker,0.636,2.544,4,Procore Championship
+21,Matti Schmid,0.617,2.468,4,Procore Championship
+22,Chan Kim,0.615,2.461,4,Procore Championship
+23,Lucas Glover,0.585,2.341,4,Procore Championship
+24,Chez Reavie,0.576,2.305,4,Procore Championship
+25,Sahith Theegala,0.530,2.121,4,Procore Championship
+26,J.J. Spaun,0.477,1.908,4,Procore Championship
+27,Garrick Higgo,0.446,1.785,4,Procore Championship
+28,Patrick Rodgers,0.392,1.570,4,Procore Championship
+29,Kevin Chappell,0.374,1.497,4,Procore Championship
+30,Min Woo Lee,0.372,1.490,4,Procore Championship
+31,Keith Mitchell,0.335,1.342,4,Procore Championship
+32,Patrick Fishburn,0.329,1.316,4,Procore Championship
+33,Justin Lower,0.325,1.301,4,Procore Championship
+34,Justin Suh,0.306,1.224,4,Procore Championship
+35,Rafael Campos,0.291,1.165,4,Procore Championship
+36,Neal Shipley,0.271,1.083,4,Procore Championship
+37,Sangmoon Bae,0.227,0.910,4,Procore Championship
+38,Sam Stevens,0.221,0.883,4,Procore Championship
+39,Webb Simpson,0.208,0.832,4,Procore Championship
+40,Adam Svensson,0.180,0.722,4,Procore Championship
+41,Lanto Griffin,0.172,0.687,4,Procore Championship
+42,Jhonattan Vegas,0.161,0.643,4,Procore Championship
+43,Wilson Furr,0.148,0.593,4,Procore Championship
+44,David Skinns,0.039,0.155,4,Procore Championship
+45,Henrik Norlander,0.024,0.098,4,Procore Championship
+46,Chesson Hadley,-0.012,-0.047,4,Procore Championship
+47,Joel Dahmen,-0.036,-0.145,4,Procore Championship
+48,Charley Hoffman,-0.108,-0.433,4,Procore Championship
+49,Chad Ramey,-0.111,-0.445,4,Procore Championship
+50,Aaron Baddeley,-0.135,-0.540,4,Procore Championship
+51,Martin Laird,-0.145,-0.580,4,Procore Championship
+52,Austin Smotherman,-0.234,-0.937,4,Procore Championship
+53,Ben Silverman,-0.327,-1.306,4,Procore Championship
+54,Bud Cauley,-0.369,-1.474,4,Procore Championship
+55,Roger Sloan,-0.396,-1.582,4,Procore Championship
+56,Wesley Bryan,-0.416,-1.664,4,Procore Championship
+57,Tom Johnson,-0.539,-2.157,4,Procore Championship
+58,Brandon Wu,-0.567,-2.266,4,Procore Championship
+59,Michael Thorbjornsen,-0.586,-2.343,4,Procore Championship
+60,Kevin Dougherty,-0.647,-2.587,4,Procore Championship
+61,Kevin Tway,-0.701,-2.802,4,Procore Championship
+62,Zac Blair,-0.846,-3.383,4,Procore Championship
+63,Chandler Phillips,-1.267,-5.067,4,Procore Championship
+64,Brendon Todd,-1.510,-6.040,4,Procore Championship
+65,J.B. Holmes,-1.921,-7.682,4,Procore Championship
+1,Sahith Theegala,1.086,4.346,4,TOUR Championship
+2,Sam Burns,1.023,4.093,4,TOUR Championship
+3,Scottie Scheffler,0.999,3.996,4,TOUR Championship
+4,Taylor Pendrith,0.872,3.489,4,TOUR Championship
+5,Collin Morikawa,0.840,3.360,4,TOUR Championship
+6,Hideki Matsuyama,0.675,2.699,4,TOUR Championship
+7,Wyndham Clark,0.638,2.554,4,TOUR Championship
+8,Russell Henley,0.619,2.478,4,TOUR Championship
+9,Justin Thomas,0.601,2.404,4,TOUR Championship
+10,Tony Finau,0.552,2.207,4,TOUR Championship
+11,Matthieu Pavon,0.427,1.709,4,TOUR Championship
+12,Viktor Hovland,0.342,1.368,4,TOUR Championship
+13,Sepp Straka,0.317,1.268,4,TOUR Championship
+14,Shane Lowry,0.208,0.832,4,TOUR Championship
+15,Aaron Rai,0.057,0.230,4,TOUR Championship
+16,Byeong Hun An,0.056,0.223,4,TOUR Championship
+17,Sungjae Im,0.027,0.110,4,TOUR Championship
+18,Xander Schauffele,-0.013,-0.052,4,TOUR Championship
+19,Rory McIlroy,-0.168,-0.670,4,TOUR Championship
+20,Tommy Fleetwood,-0.242,-0.968,4,TOUR Championship
+21,Keegan Bradley,-0.376,-1.504,4,TOUR Championship
+22,Robert MacIntyre,-0.428,-1.712,4,TOUR Championship
+23,Ludvig Åberg,-0.463,-1.851,4,TOUR Championship
+24,Adam Scott,-0.471,-1.885,4,TOUR Championship
+25,Patrick Cantlay,-0.490,-1.958,4,TOUR Championship
+26,Billy Horschel,-0.764,-3.054,4,TOUR Championship
+27,Akshay Bhatia,-0.935,-3.739,4,TOUR Championship
+28,Chris Kirk,-1.038,-4.150,4,TOUR Championship
+29,Christiaan Bezuidenhout,-1.561,-6.245,4,TOUR Championship
+30,Tom Hoge,-2.393,-9.573,4,TOUR Championship
+1,Tom Hoge,2.103,8.414,4,BMW Championship
+2,Keegan Bradley,1.625,6.501,4,BMW Championship
+3,Max Homa,1.601,6.404,4,BMW Championship
+4,Viktor Hovland,1.156,4.625,4,BMW Championship
+5,Adam Scott,1.066,4.266,4,BMW Championship
+6,Si Woo Kim,0.979,3.915,4,BMW Championship
+7,Cam Davis,0.876,3.506,4,BMW Championship
+8,J.T. Poston,0.814,3.256,4,BMW Championship
+9,Brian Harman,0.613,2.453,4,BMW Championship
+10,Billy Horschel,0.580,2.319,4,BMW Championship
+11,Sam Burns,0.515,2.059,4,BMW Championship
+12,Austin Eckroat,0.492,1.968,4,BMW Championship
+13,Will Zalatoris,0.441,1.765,4,BMW Championship
+14,Corey Conners,0.437,1.749,4,BMW Championship
+15,Justin Thomas,0.348,1.391,4,BMW Championship
+16,Tommy Fleetwood,0.343,1.372,4,BMW Championship
+17,Sungjae Im,0.232,0.928,4,BMW Championship
+18,Eric Cole,0.225,0.900,4,BMW Championship
+19,Denny McCarthy,0.150,0.602,4,BMW Championship
+20,Nick Dunlap,0.069,0.278,4,BMW Championship
+21,Collin Morikawa,0.066,0.264,4,BMW Championship
+22,Rory McIlroy,0.041,0.165,4,BMW Championship
+23,Davis Thompson,0.020,0.082,4,BMW Championship
+24,Patrick Cantlay,-0.027,-0.109,4,BMW Championship
+25,Shane Lowry,-0.054,-0.215,4,BMW Championship
+26,Tony Finau,-0.110,-0.438,4,BMW Championship
+27,Ludvig Åberg,-0.130,-0.519,4,BMW Championship
+27,Chris Kirk,-0.130,-0.521,4,BMW Championship
+29,Xander Schauffele,-0.172,-0.689,4,BMW Championship
+30,Taylor Pendrith,-0.176,-0.705,4,BMW Championship
+31,Alex Noren,-0.207,-0.828,4,BMW Championship
+32,Russell Henley,-0.217,-0.867,4,BMW Championship
+33,Christiaan Bezuidenhout,-0.249,-0.996,4,BMW Championship
+34,Matthieu Pavon,-0.308,-1.232,4,BMW Championship
+35,Thomas Detry,-0.400,-1.599,4,BMW Championship
+36,Sepp Straka,-0.440,-1.761,4,BMW Championship
+37,Sahith Theegala,-0.505,-2.021,4,BMW Championship
+38,Jason Day,-0.507,-2.028,4,BMW Championship
+39,Byeong Hun An,-0.636,-2.544,4,BMW Championship
+40,Aaron Rai,-0.704,-2.817,4,BMW Championship
+41,Scottie Scheffler,-0.832,-3.326,4,BMW Championship
+42,Wyndham Clark,-0.843,-3.373,4,BMW Championship
+43,Matt Fitzpatrick,-0.931,-3.722,4,BMW Championship
+44,Adam Hadwin,-1.014,-4.056,4,BMW Championship
+45,Stephan Jaeger,-1.040,-4.160,4,BMW Championship
+46,Max Greyserman,-1.365,-5.458,4,BMW Championship
+47,Cameron Young,-1.695,-6.780,4,BMW Championship
+48,Akshay Bhatia,-2.100,-8.400,4,BMW Championship
+1,Aaron Rai,1.935,7.740,4,FedEx St. Jude Championship
+2,Tommy Fleetwood,1.442,5.769,4,FedEx St. Jude Championship
+3,Hideki Matsuyama,1.412,5.648,4,FedEx St. Jude Championship
+4,Viktor Hovland,1.371,5.483,4,FedEx St. Jude Championship
+5,Nick Dunlap,1.359,5.435,4,FedEx St. Jude Championship
+6,Xander Schauffele,1.244,4.975,4,FedEx St. Jude Championship
+7,Tom Kim,1.058,4.232,4,FedEx St. Jude Championship
+8,Taylor Pendrith,1.029,4.117,4,FedEx St. Jude Championship
+9,Justin Thomas,0.944,3.776,4,FedEx St. Jude Championship
+10,Scottie Scheffler,0.928,3.713,4,FedEx St. Jude Championship
+11,Tony Finau,0.777,3.108,4,FedEx St. Jude Championship
+12,Billy Horschel,0.710,2.838,4,FedEx St. Jude Championship
+13,Sam Burns,0.690,2.760,4,FedEx St. Jude Championship
+14,Eric Cole,0.675,2.699,4,FedEx St. Jude Championship
+15,Sungjae Im,0.661,2.643,4,FedEx St. Jude Championship
+16,Patrick Rodgers,0.539,2.156,4,FedEx St. Jude Championship
+17,Justin Rose,0.528,2.113,4,FedEx St. Jude Championship
+18,Emiliano Grillo,0.521,2.085,4,FedEx St. Jude Championship
+19,Shane Lowry,0.489,1.954,4,FedEx St. Jude Championship
+20,Tom Hoge,0.371,1.482,4,FedEx St. Jude Championship
+21,Jhonattan Vegas,0.334,1.335,4,FedEx St. Jude Championship
+22,Austin Eckroat,0.291,1.165,4,FedEx St. Jude Championship
+23,Jason Day,0.222,0.888,4,FedEx St. Jude Championship
+24,Christiaan Bezuidenhout,0.217,0.868,4,FedEx St. Jude Championship
+24,Alex Noren,0.217,0.868,4,FedEx St. Jude Championship
+26,Wyndham Clark,0.216,0.865,4,FedEx St. Jude Championship
+27,Akshay Bhatia,0.214,0.857,4,FedEx St. Jude Championship
+28,Patrick Cantlay,0.212,0.847,4,FedEx St. Jude Championship
+29,Russell Henley,0.148,0.592,4,FedEx St. Jude Championship
+30,Will Zalatoris,0.114,0.456,4,FedEx St. Jude Championship
+31,Denny McCarthy,0.061,0.242,4,FedEx St. Jude Championship
+32,Sepp Straka,0.016,0.062,4,FedEx St. Jude Championship
+33,Ludvig Åberg,0.014,0.056,4,FedEx St. Jude Championship
+34,Robert MacIntyre,0.012,0.046,4,FedEx St. Jude Championship
+35,Taylor Moore,0.005,0.020,4,FedEx St. Jude Championship
+36,Chris Kirk,-0.020,-0.081,4,FedEx St. Jude Championship
+37,Min Woo Lee,-0.040,-0.162,4,FedEx St. Jude Championship
+38,Davis Thompson,-0.048,-0.192,4,FedEx St. Jude Championship
+39,Corey Conners,-0.054,-0.216,4,FedEx St. Jude Championship
+40,Matt Fitzpatrick,-0.130,-0.522,4,FedEx St. Jude Championship
+41,Victor Perez,-0.161,-0.643,4,FedEx St. Jude Championship
+42,Brian Harman,-0.172,-0.690,4,FedEx St. Jude Championship
+43,Erik van Rooyen,-0.195,-0.780,4,FedEx St. Jude Championship
+44,Byeong Hun An,-0.271,-1.086,4,FedEx St. Jude Championship
+45,Matthieu Pavon,-0.376,-1.503,4,FedEx St. Jude Championship
+46,Brendon Todd,-0.398,-1.591,4,FedEx St. Jude Championship
+47,Maverick McNealy,-0.407,-1.629,4,FedEx St. Jude Championship
+48,Adam Scott,-0.415,-1.661,4,FedEx St. Jude Championship
+49,Stephan Jaeger,-0.463,-1.854,4,FedEx St. Jude Championship
+50,Seamus Power,-0.557,-2.229,4,FedEx St. Jude Championship
+51,Max Greyserman,-0.593,-2.371,4,FedEx St. Jude Championship
+52,Ben Griffin,-0.603,-2.413,4,FedEx St. Jude Championship
+53,Peter Malnati,-0.604,-2.417,4,FedEx St. Jude Championship
+54,Mark Hubbard,-0.612,-2.448,4,FedEx St. Jude Championship
+55,Si Woo Kim,-0.631,-2.525,4,FedEx St. Jude Championship
+56,Thomas Detry,-0.648,-2.594,4,FedEx St. Jude Championship
+57,Harris English,-0.669,-2.678,4,FedEx St. Jude Championship
+58,Mackenzie Hughes,-0.702,-2.808,4,FedEx St. Jude Championship
+59,Nick Taylor,-0.770,-3.082,4,FedEx St. Jude Championship
+60,Cameron Young,-0.788,-3.154,4,FedEx St. Jude Championship
+61,Cam Davis,-0.806,-3.224,4,FedEx St. Jude Championship
+62,Collin Morikawa,-0.807,-3.228,4,FedEx St. Jude Championship
+63,Rory McIlroy,-0.810,-3.240,4,FedEx St. Jude Championship
+64,Sahith Theegala,-0.818,-3.274,4,FedEx St. Jude Championship
+65,Keegan Bradley,-0.823,-3.292,4,FedEx St. Jude Championship
+66,Jake Knapp,-0.829,-3.315,4,FedEx St. Jude Championship
+67,J.T. Poston,-1.019,-4.077,4,FedEx St. Jude Championship
+68,Max Homa,-1.117,-4.467,4,FedEx St. Jude Championship
+69,Adam Hadwin,-1.455,-5.822,4,FedEx St. Jude Championship
+70,Jordan Spieth,-2.159,-8.638,4,FedEx St. Jude Championship
+1,Aaron Rai,2.195,8.780,4,Wyndham Championship
+2,Ben Griffin,2.053,8.210,4,Wyndham Championship
+3,Ryo Hisatsune,1.801,7.202,4,Wyndham Championship
+4,Luke Clanton,1.728,6.910,4,Wyndham Championship
+5,Chan Kim,1.331,5.322,4,Wyndham Championship
+6,Christiaan Bezuidenhout,1.285,5.138,4,Wyndham Championship
+7,Nate Lashley,1.255,5.020,4,Wyndham Championship
+8,J.J. Spaun,1.249,4.997,4,Wyndham Championship
+9,Doug Ghim,1.233,4.931,4,Wyndham Championship
+10,Eric Cole,1.064,4.257,4,Wyndham Championship
+11,Billy Horschel,1.031,4.124,4,Wyndham Championship
+12,Denny McCarthy,0.926,3.704,4,Wyndham Championship
+13,Andrew Novak,0.860,3.440,4,Wyndham Championship
+14,Justin Lower,0.855,3.420,4,Wyndham Championship
+15,Adam Hadwin,0.850,3.401,4,Wyndham Championship
+16,Gary Woodland,0.762,3.049,4,Wyndham Championship
+17,Jacob Bridgeman,0.761,3.044,4,Wyndham Championship
+18,Roger Sloan,0.748,2.991,4,Wyndham Championship
+19,Nick Hardy,0.729,2.915,4,Wyndham Championship
+20,Emiliano Grillo,0.703,2.811,4,Wyndham Championship
+21,Charley Hoffman,0.637,2.546,4,Wyndham Championship
+22,Keegan Bradley,0.581,2.323,4,Wyndham Championship
+23,Ryan Moore,0.578,2.311,4,Wyndham Championship
+24,Trace Crowe,0.443,1.772,4,Wyndham Championship
+25,Mac Meissner,0.442,1.769,4,Wyndham Championship
+26,Joel Dahmen,0.418,1.672,4,Wyndham Championship
+27,Brice Garnett,0.407,1.629,4,Wyndham Championship
+28,Jhonattan Vegas,0.345,1.378,4,Wyndham Championship
+29,Max Greyserman,0.324,1.295,4,Wyndham Championship
+30,Beau Hossler,0.302,1.207,4,Wyndham Championship
+31,Austin Eckroat,0.270,1.081,4,Wyndham Championship
+32,Cameron Young,0.265,1.060,4,Wyndham Championship
+33,Chandler Phillips,0.251,1.002,4,Wyndham Championship
+34,Zac Blair,0.231,0.925,4,Wyndham Championship
+35,Nico Echavarria,0.195,0.779,4,Wyndham Championship
+36,Brian Harman,0.188,0.750,4,Wyndham Championship
+37,Victor Perez,0.158,0.633,4,Wyndham Championship
+38,Pierceson Coody,0.152,0.608,4,Wyndham Championship
+39,Matti Schmid,0.147,0.588,4,Wyndham Championship
+40,Ben Taylor,0.076,0.304,4,Wyndham Championship
+41,Jorge Campillo,0.052,0.209,4,Wyndham Championship
+42,Kevin Tway,0.039,0.155,4,Wyndham Championship
+43,Brendon Todd,0.008,0.031,4,Wyndham Championship
+44,Adam Svensson,0.006,0.025,4,Wyndham Championship
+45,Davis Thompson,-0.033,-0.133,4,Wyndham Championship
+46,Seamus Power,-0.052,-0.209,4,Wyndham Championship
+47,Rico Hoey,-0.091,-0.366,4,Wyndham Championship
+48,Taylor Moore,-0.131,-0.524,4,Wyndham Championship
+49,Maverick McNealy,-0.253,-1.013,4,Wyndham Championship
+50,K.H. Lee,-0.305,-1.221,4,Wyndham Championship
+51,Matt Wallace,-0.370,-1.480,4,Wyndham Championship
+52,Chris Gotterup,-0.378,-1.513,4,Wyndham Championship
+53,Davis Riley,-0.419,-1.676,4,Wyndham Championship
+54,Keith Mitchell,-0.420,-1.680,4,Wyndham Championship
+55,Zach Johnson,-0.445,-1.780,4,Wyndham Championship
+56,Cameron Champ,-0.601,-2.405,4,Wyndham Championship
+57,Mackenzie Hughes,-0.658,-2.632,4,Wyndham Championship
+58,Patrick Rodgers,-0.673,-2.691,4,Wyndham Championship
+59,Vince Whaley,-0.706,-2.826,4,Wyndham Championship
+60,Sungjae Im,-0.808,-3.233,4,Wyndham Championship
+61,Matt Kuchar,-0.816,-3.264,4,Wyndham Championship
+62,Justin Suh,-0.897,-3.588,4,Wyndham Championship
+63,Chad Ramey,-1.034,-4.137,4,Wyndham Championship
+64,Daniel Berger,-1.085,-4.340,4,Wyndham Championship
+65,Martin Trainer,-1.996,-7.983,4,Wyndham Championship
+66,S.H. Kim,-2.927,-11.709,4,Wyndham Championship
+1,Matt Kuchar,2.513,10.053,4,3M Open
+2,Gary Woodland,2.117,8.468,4,3M Open
+3,Charley Hoffman,1.919,7.675,4,3M Open
+4,Henrik Norlander,1.900,7.602,4,3M Open
+5,Kurt Kitayama,1.819,7.277,4,3M Open
+6,Alex Smalley,1.795,7.181,4,3M Open
+7,Andrew Putnam,1.666,6.666,4,3M Open
+8,Jhonattan Vegas,1.519,6.078,4,3M Open
+9,J.J. Spaun,1.483,5.933,4,3M Open
+10,Austin Smotherman,1.444,5.776,4,3M Open
+11,Trace Crowe,1.425,5.701,4,3M Open
+12,Andrew Novak,1.355,5.420,4,3M Open
+13,Tony Finau,1.239,4.957,4,3M Open
+14,Patrick Fishburn,1.170,4.679,4,3M Open
+15,Doug Ghim,1.158,4.631,4,3M Open
+16,Keith Mitchell,1.157,4.628,4,3M Open
+17,Seamus Power,1.149,4.598,4,3M Open
+18,Neal Shipley,1.056,4.223,4,3M Open
+19,Matti Schmid,1.031,4.124,4,3M Open
+20,Mac Meissner,1.013,4.053,4,3M Open
+21,Wesley Bryan,0.996,3.984,4,3M Open
+22,Kelly Kraft,0.972,3.888,4,3M Open
+23,Matt Wallace,0.950,3.801,4,3M Open
+24,Max Greyserman,0.903,3.614,4,3M Open
+25,Cam Davis,0.868,3.474,4,3M Open
+26,Matt NeSmith,0.836,3.344,4,3M Open
+27,Stewart Cink,0.719,2.875,4,3M Open
+28,Chad Ramey,0.713,2.853,4,3M Open
+29,Taylor Pendrith,0.708,2.833,4,3M Open
+30,Patrick Rodgers,0.624,2.496,4,3M Open
+31,Aaron Baddeley,0.588,2.352,4,3M Open
+32,Akshay Bhatia,0.581,2.323,4,3M Open
+33,Scott Piercy,0.576,2.303,4,3M Open
+34,Jacob Bridgeman,0.459,1.838,4,3M Open
+35,Kevin Kisner,0.454,1.817,4,3M Open
+36,Keegan Bradley,0.453,1.812,4,3M Open
+37,Sam Burns,0.428,1.713,4,3M Open
+38,Harry Hall,0.408,1.632,4,3M Open
+39,Maverick McNealy,0.353,1.411,4,3M Open
+40,David Skinns,0.344,1.377,4,3M Open
+41,Nick Hardy,0.332,1.330,4,3M Open
+42,Rico Hoey,0.181,0.725,4,3M Open
+43,Ben Silverman,0.151,0.604,4,3M Open
+44,Taylor Moore,0.126,0.505,4,3M Open
+45,Cameron Champ,0.124,0.498,4,3M Open
+46,Adam Svensson,0.108,0.431,4,3M Open
+47,Hayden Springer,0.096,0.386,4,3M Open
+48,Justin Lower,0.034,0.137,4,3M Open
+49,Lanto Griffin,-0.002,-0.006,4,3M Open
+50,K.H. Lee,-0.049,-0.195,4,3M Open
+51,Dylan Wu,-0.057,-0.226,4,3M Open
+52,Robert Streb,-0.197,-0.786,4,3M Open
+53,Chris Gotterup,-0.204,-0.815,4,3M Open
+53,Justin Suh,-0.204,-0.816,4,3M Open
+55,Joseph Bramlett,-0.218,-0.871,4,3M Open
+56,Sam Stevens,-0.302,-1.207,4,3M Open
+57,Kevin Chappell,-0.336,-1.345,4,3M Open
+58,Carson Young,-0.397,-1.589,4,3M Open
+59,Emiliano Grillo,-0.454,-1.815,4,3M Open
+60,Sahith Theegala,-0.494,-1.977,4,3M Open
+61,Joe Highsmith,-0.512,-2.049,4,3M Open
+62,Ben Kohles,-0.590,-2.358,4,3M Open
+63,MJ Daffue,-0.622,-2.486,4,3M Open
+64,Mackenzie Hughes,-0.672,-2.688,4,3M Open
+65,Tyler Duncan,-0.701,-2.803,4,3M Open
+66,Davis Riley,-0.723,-2.893,4,3M Open
+67,Kevin Streelman,-0.889,-3.556,4,3M Open
+68,Brice Garnett,-0.894,-3.574,4,3M Open
+69,Kevin Yu,-0.963,-3.852,4,3M Open
+70,Zach Johnson,-1.064,-4.256,4,3M Open
+71,Robby Shelton,-1.163,-4.653,4,3M Open
+72,Cody Gribble,-1.391,-5.562,4,3M Open
+73,Adam Schenk,-1.415,-5.661,4,3M Open
+74,Pierceson Coody,-1.793,-7.171,4,3M Open
+1,Neal Shipley,2.124,8.495,4,Barracuda Championship
+2,Andrew Putnam,2.070,8.281,4,Barracuda Championship
+3,Hayden Buckley,2.057,8.227,4,Barracuda Championship
+4,Will Gordon,1.818,7.270,4,Barracuda Championship
+5,Taylor Pendrith,1.360,5.439,4,Barracuda Championship
+6,J.J. Spaun,1.350,5.400,4,Barracuda Championship
+7,Adrien Saddier,1.138,4.552,4,Barracuda Championship
+8,Patrick Fishburn,1.111,4.443,4,Barracuda Championship
+9,Michael Kim,1.043,4.173,4,Barracuda Championship
+10,Chez Reavie,0.996,3.983,4,Barracuda Championship
+11,Ian Gilligan,0.992,3.967,4,Barracuda Championship
+12,Sam Ryder,0.989,3.956,4,Barracuda Championship
+13,Nick Watney,0.988,3.950,4,Barracuda Championship
+14,Rico Hoey,0.972,3.888,4,Barracuda Championship
+15,Marcus Armitage,0.960,3.841,4,Barracuda Championship
+16,Patton Kizzire,0.902,3.608,4,Barracuda Championship
+17,Ben Silverman,0.901,3.603,4,Barracuda Championship
+18,Alex Smalley,0.885,3.539,4,Barracuda Championship
+19,Justin Suh,0.870,3.479,4,Barracuda Championship
+20,Henrik Norlander,0.869,3.476,4,Barracuda Championship
+21,Joseph Bramlett,0.806,3.222,4,Barracuda Championship
+22,Santiago Tarrio,0.762,3.047,4,Barracuda Championship
+23,Casey Jarvis,0.714,2.854,4,Barracuda Championship
+24,S.H. Kim,0.702,2.806,4,Barracuda Championship
+25,Cameron Champ,0.660,2.639,4,Barracuda Championship
+26,Chesson Hadley,0.658,2.631,4,Barracuda Championship
+27,Max Kieffer,0.656,2.625,4,Barracuda Championship
+28,Chan Kim,0.596,2.382,4,Barracuda Championship
+29,Sean O'Hair,0.567,2.267,4,Barracuda Championship
+30,Robby Shelton,0.552,2.209,4,Barracuda Championship
+31,Mac Meissner,0.550,2.198,4,Barracuda Championship
+32,Vince Whaley,0.480,1.920,4,Barracuda Championship
+33,MJ Daffue,0.451,1.804,4,Barracuda Championship
+34,S.Y. Noh,0.402,1.609,4,Barracuda Championship
+35,Mark Hubbard,0.397,1.587,4,Barracuda Championship
+36,Nate Lashley,0.392,1.569,4,Barracuda Championship
+37,Oliver Wilson,0.354,1.416,4,Barracuda Championship
+38,Mitchell Schow,0.337,1.348,4,Barracuda Championship
+39,Charley Hoffman,0.276,1.102,4,Barracuda Championship
+40,Paul Waring,0.231,0.923,4,Barracuda Championship
+41,Jake Knapp,0.206,0.824,4,Barracuda Championship
+42,Kevin Chappell,0.173,0.692,4,Barracuda Championship
+43,Ben Taylor,0.148,0.590,4,Barracuda Championship
+44,Nick Dunlap,0.120,0.478,4,Barracuda Championship
+45,Alejandro Tosti,0.055,0.220,4,Barracuda Championship
+46,Max Rottluff,0.053,0.213,4,Barracuda Championship
+47,Lukas Nemecz,-0.035,-0.141,4,Barracuda Championship
+48,Todd Clements,-0.045,-0.181,4,Barracuda Championship
+49,Chad Ramey,-0.110,-0.440,4,Barracuda Championship
+50,Michael Thorbjornsen,-0.166,-0.664,4,Barracuda Championship
+51,Scott Gutschewski,-0.202,-0.807,4,Barracuda Championship
+52,Scott Piercy,-0.342,-1.370,4,Barracuda Championship
+53,Espen Kofstad,-0.384,-1.537,4,Barracuda Championship
+54,Ryan Brehm,-0.393,-1.571,4,Barracuda Championship
+55,Matti Schmid,-0.403,-1.612,4,Barracuda Championship
+56,Max Greyserman,-0.459,-1.838,4,Barracuda Championship
+57,Patrick Rodgers,-0.525,-2.099,4,Barracuda Championship
+58,Lanto Griffin,-0.598,-2.391,4,Barracuda Championship
+58,Sam Stevens,-0.598,-2.391,4,Barracuda Championship
+60,Sam Bairstow,-0.860,-3.439,4,Barracuda Championship
+61,Jayden Schaper,-0.897,-3.589,4,Barracuda Championship
+62,Martin Laird,-1.021,-4.086,4,Barracuda Championship
+63,Hurly Long,-1.107,-4.430,4,Barracuda Championship
+64,Peter Malnati,-1.454,-5.816,4,Barracuda Championship
+65,Chase Hanna,-1.651,-6.604,4,Barracuda Championship
+1,Max Rottluff,2.300,9.201,4,ISCO Championship
+2,Zac Blair,2.193,8.772,4,ISCO Championship
+3,Chez Reavie,2.055,8.220,4,ISCO Championship
+4,Matt NeSmith,1.921,7.686,4,ISCO Championship
+5,Harry Hall,1.887,7.548,4,ISCO Championship
+6,David Lipsky,1.535,6.140,4,ISCO Championship
+7,Brandon Wu,1.427,5.709,4,ISCO Championship
+8,Austin Smotherman,1.285,5.141,4,ISCO Championship
+9,Andrea Pavan,1.276,5.104,4,ISCO Championship
+10,Chad Ramey,1.274,5.096,4,ISCO Championship
+11,Nick Hardy,1.202,4.808,4,ISCO Championship
+12,J.J. Spaun,1.044,4.176,4,ISCO Championship
+13,Troy Merritt,0.971,3.883,4,ISCO Championship
+14,Sam Bairstow,0.931,3.725,4,ISCO Championship
+15,Adrien Saddier,0.928,3.714,4,ISCO Championship
+16,Angel Hidalgo Portillo,0.921,3.685,4,ISCO Championship
+17,Neal Shipley,0.895,3.579,4,ISCO Championship
+18,Chan Kim,0.871,3.484,4,ISCO Championship
+19,Roger Sloan,0.708,2.831,4,ISCO Championship
+20,Sebastian Friedrichsen,0.682,2.729,4,ISCO Championship
+21,Hayden Springer,0.664,2.657,4,ISCO Championship
+22,Russell Knox,0.646,2.586,4,ISCO Championship
+23,Rico Hoey,0.636,2.546,4,ISCO Championship
+24,Ryan McCormick,0.610,2.439,4,ISCO Championship
+25,Sam Ryder,0.588,2.351,4,ISCO Championship
+26,Matthis Besard,0.587,2.349,4,ISCO Championship
+27,Cody Gribble,0.522,2.087,4,ISCO Championship
+28,Lukas Nemecz,0.507,2.027,4,ISCO Championship
+29,Dylan Wu,0.494,1.977,4,ISCO Championship
+30,Mac Meissner,0.472,1.888,4,ISCO Championship
+31,MJ Daffue,0.466,1.863,4,ISCO Championship
+32,Andy Sullivan,0.463,1.854,4,ISCO Championship
+33,S.Y. Noh,0.397,1.588,4,ISCO Championship
+34,Lanto Griffin,0.396,1.583,4,ISCO Championship
+35,Patton Kizzire,0.376,1.504,4,ISCO Championship
+36,Fabrizio Zanotti,0.329,1.317,4,ISCO Championship
+37,William McGirt,0.310,1.242,4,ISCO Championship
+38,Aaron Baddeley,0.290,1.162,4,ISCO Championship
+39,Spencer Cross,0.272,1.088,4,ISCO Championship
+40,Ben Taylor,0.236,0.945,4,ISCO Championship
+41,Jonathan Byrd,0.216,0.866,4,ISCO Championship
+42,Ricardo Gouveia,0.210,0.839,4,ISCO Championship
+43,Cooper Musselman,0.195,0.782,4,ISCO Championship
+44,Tom Vaillant,0.102,0.408,4,ISCO Championship
+45,Brandt Snedeker,0.057,0.228,4,ISCO Championship
+46,Kevin Tway,0.032,0.128,4,ISCO Championship
+47,Callum Tarren,-0.002,-0.007,4,ISCO Championship
+48,Luke Clanton,-0.014,-0.056,4,ISCO Championship
+49,Ryan Moore,-0.067,-0.266,4,ISCO Championship
+50,S.H. Kim,-0.106,-0.424,4,ISCO Championship
+51,Francesco Laporta,-0.145,-0.580,4,ISCO Championship
+52,Henrik Norlander,-0.151,-0.604,4,ISCO Championship
+53,Andrew Wilson,-0.205,-0.820,4,ISCO Championship
+54,Kevin Kisner,-0.251,-1.002,4,ISCO Championship
+55,Alex Smalley,-0.253,-1.010,4,ISCO Championship
+56,Pierceson Coody,-0.363,-1.450,4,ISCO Championship
+57,Jacques Kruyswijk,-0.406,-1.622,4,ISCO Championship
+58,Johannes Veerman,-0.460,-1.838,4,ISCO Championship
+59,Ben Silverman,-0.465,-1.858,4,ISCO Championship
+60,Bill Haas,-0.499,-1.996,4,ISCO Championship
+61,Patrick Fishburn,-0.503,-2.011,4,ISCO Championship
+62,Garrick Higgo,-0.606,-2.423,4,ISCO Championship
+63,Hayden Buckley,-0.619,-2.476,4,ISCO Championship
+64,Kevin Chappell,-0.768,-3.070,4,ISCO Championship
+65,Marcus Kinhult,-0.778,-3.112,4,ISCO Championship
+66,James Hahn,-0.797,-3.186,4,ISCO Championship
+67,Paul Barjon,-1.417,-5.668,4,ISCO Championship
+1,Shubhankar Sharma,2.372,9.487,4,Genesis Scottish Open
+2,Matteo Manassero,2.207,8.830,4,Genesis Scottish Open
+3,Nicolai Højgaard,1.617,6.468,4,Genesis Scottish Open
+4,Brian Harman,1.600,6.401,4,Genesis Scottish Open
+5,Robert MacIntyre,1.413,5.652,4,Genesis Scottish Open
+6,Erik van Rooyen,1.356,5.424,4,Genesis Scottish Open
+7,Antoine Rozner,1.242,4.969,4,Genesis Scottish Open
+8,Xander Schauffele,1.090,4.362,4,Genesis Scottish Open
+9,Jesper Svensson,0.977,3.907,4,Genesis Scottish Open
+10,Ryan Fox,0.955,3.820,4,Genesis Scottish Open
+11,Adam Hadwin,0.929,3.718,4,Genesis Scottish Open
+12,Jorge Campillo,0.923,3.691,4,Genesis Scottish Open
+13,Tommy Fleetwood,0.894,3.576,4,Genesis Scottish Open
+14,Tom Kim,0.876,3.503,4,Genesis Scottish Open
+15,Ben Griffin,0.866,3.466,4,Genesis Scottish Open
+16,Francesco Molinari,0.863,3.453,4,Genesis Scottish Open
+17,Collin Morikawa,0.851,3.405,4,Genesis Scottish Open
+18,Niklas Norgaard,0.848,3.391,4,Genesis Scottish Open
+19,Corey Conners,0.826,3.305,4,Genesis Scottish Open
+20,Haotong Li,0.825,3.299,4,Genesis Scottish Open
+21,Ludvig Åberg,0.762,3.049,4,Genesis Scottish Open
+22,Sungjae Im,0.744,2.976,4,Genesis Scottish Open
+23,Romain Langasque,0.722,2.888,4,Genesis Scottish Open
+24,Nick Taylor,0.708,2.834,4,Genesis Scottish Open
+25,Harris English,0.705,2.822,4,Genesis Scottish Open
+26,Adam Scott,0.678,2.713,4,Genesis Scottish Open
+27,Si Woo Kim,0.667,2.669,4,Genesis Scottish Open
+28,Max Kieffer,0.561,2.245,4,Genesis Scottish Open
+29,Victor Perez,0.524,2.096,4,Genesis Scottish Open
+30,Grant Forrest,0.502,2.010,4,Genesis Scottish Open
+31,Alejandro Del Rey,0.493,1.971,4,Genesis Scottish Open
+32,Max Greyserman,0.481,1.925,4,Genesis Scottish Open
+33,Stewart Cink,0.479,1.916,4,Genesis Scottish Open
+34,Thomas Detry,0.471,1.884,4,Genesis Scottish Open
+35,Cam Davis,0.401,1.603,4,Genesis Scottish Open
+36,Alex Noren,0.298,1.194,4,Genesis Scottish Open
+37,Sahith Theegala,0.295,1.182,4,Genesis Scottish Open
+38,Daniel Hillier,0.254,1.016,4,Genesis Scottish Open
+39,Mackenzie Hughes,0.126,0.506,4,Genesis Scottish Open
+40,Jens Dantorp,0.114,0.455,4,Genesis Scottish Open
+41,Junghwan Lee,0.041,0.166,4,Genesis Scottish Open
+42,Marcel Siem,0.014,0.058,4,Genesis Scottish Open
+43,Yannik Paul,0.012,0.048,4,Genesis Scottish Open
+44,Rory McIlroy,-0.007,-0.028,4,Genesis Scottish Open
+45,Lee Hodges,-0.014,-0.054,4,Genesis Scottish Open
+46,Ben Kohles,-0.041,-0.165,4,Genesis Scottish Open
+47,Andrew Novak,-0.055,-0.220,4,Genesis Scottish Open
+48,Kurt Kitayama,-0.094,-0.375,4,Genesis Scottish Open
+49,Charley Hoffman,-0.135,-0.538,4,Genesis Scottish Open
+50,Connor Syme,-0.148,-0.592,4,Genesis Scottish Open
+51,Ugo Coussaud,-0.182,-0.726,4,Genesis Scottish Open
+52,Gary Woodland,-0.214,-0.854,4,Genesis Scottish Open
+53,Matt Fitzpatrick,-0.254,-1.014,4,Genesis Scottish Open
+54,Thorbjørn Olesen,-0.273,-1.093,4,Genesis Scottish Open
+55,Sam Stevens,-0.290,-1.159,4,Genesis Scottish Open
+56,Rasmus Højgaard,-0.295,-1.178,4,Genesis Scottish Open
+57,Wyndham Clark,-0.298,-1.193,4,Genesis Scottish Open
+58,Nick Bachem,-0.335,-1.338,4,Genesis Scottish Open
+59,Julien Guerrier,-0.356,-1.423,4,Genesis Scottish Open
+60,Aaron Rai,-0.376,-1.504,4,Genesis Scottish Open
+61,Justin Thomas,-0.379,-1.514,4,Genesis Scottish Open
+62,Viktor Hovland,-0.393,-1.571,4,Genesis Scottish Open
+63,Brendon Todd,-0.406,-1.622,4,Genesis Scottish Open
+64,Richard Mansell,-0.419,-1.677,4,Genesis Scottish Open
+65,Eric Cole,-0.527,-2.108,4,Genesis Scottish Open
+66,Matthew Jordan,-0.641,-2.565,4,Genesis Scottish Open
+67,Taylor Montgomery,-0.676,-2.704,4,Genesis Scottish Open
+68,Daniel Brown,-0.695,-2.778,4,Genesis Scottish Open
+69,Ashun Wu,-0.713,-2.853,4,Genesis Scottish Open
+70,Justin Lower,-0.796,-3.183,4,Genesis Scottish Open
+71,Seamus Power,-1.051,-4.202,4,Genesis Scottish Open
+72,Davis Thompson,-1.055,-4.221,4,Genesis Scottish Open
+73,Max Homa,-1.380,-5.521,4,Genesis Scottish Open
+74,Min Woo Lee,-1.871,-7.484,4,Genesis Scottish Open
+1,Keith Mitchell,1.812,7.250,4,John Deere Classic
+2,Luke Clanton,1.700,6.801,4,John Deere Classic
+3,Joshua Creel,1.561,6.246,4,John Deere Classic
+4,Seamus Power,1.517,6.067,4,John Deere Classic
+5,Doug Ghim,1.504,6.018,4,John Deere Classic
+6,Carson Young,1.494,5.975,4,John Deere Classic
+7,Joel Dahmen,1.404,5.616,4,John Deere Classic
+8,Robby Shelton,1.366,5.464,4,John Deere Classic
+9,Lucas Glover,1.364,5.455,4,John Deere Classic
+10,J.J. Spaun,1.317,5.268,4,John Deere Classic
+11,Roger Sloan,1.295,5.180,4,John Deere Classic
+12,Kevin Yu,1.270,5.082,4,John Deere Classic
+13,Michael Thorbjornsen,1.268,5.073,4,John Deere Classic
+14,Trace Crowe,1.208,4.834,4,John Deere Classic
+15,Mac Meissner,1.176,4.705,4,John Deere Classic
+16,Brice Garnett,1.160,4.639,4,John Deere Classic
+17,Henrik Norlander,1.125,4.499,4,John Deere Classic
+18,Sami Valimaki,1.119,4.476,4,John Deere Classic
+19,C.T. Pan,1.112,4.447,4,John Deere Classic
+20,Wilson Furr,0.998,3.992,4,John Deere Classic
+21,Ben Silverman,0.935,3.741,4,John Deere Classic
+22,Chan Kim,0.867,3.467,4,John Deere Classic
+23,Andrew Novak,0.842,3.367,4,John Deere Classic
+24,Adam Svensson,0.823,3.291,4,John Deere Classic
+25,Sungjae Im,0.809,3.238,4,John Deere Classic
+26,Eric Cole,0.796,3.184,4,John Deere Classic
+27,Ben Griffin,0.709,2.835,4,John Deere Classic
+28,Jhonattan Vegas,0.683,2.732,4,John Deere Classic
+29,Davis Thompson,0.676,2.703,4,John Deere Classic
+30,Aaron Rai,0.627,2.508,4,John Deere Classic
+31,Kevin Streelman,0.607,2.428,4,John Deere Classic
+32,Austin Smotherman,0.585,2.340,4,John Deere Classic
+33,Sam Ryder,0.561,2.246,4,John Deere Classic
+34,Max Greyserman,0.559,2.237,4,John Deere Classic
+35,Mark Hubbard,0.525,2.101,4,John Deere Classic
+36,Jordan Spieth,0.511,2.044,4,John Deere Classic
+37,Lee Hodges,0.480,1.921,4,John Deere Classic
+38,Harry Hall,0.397,1.590,4,John Deere Classic
+39,"Blaine Hale, Jr.",0.390,1.561,4,John Deere Classic
+40,Ben Kohles,0.382,1.529,4,John Deere Classic
+41,Rico Hoey,0.357,1.428,4,John Deere Classic
+42,Hayden Springer,0.351,1.404,4,John Deere Classic
+43,Ryo Hisatsune,0.335,1.342,4,John Deere Classic
+44,Hayden Buckley,0.270,1.080,4,John Deere Classic
+45,Brendon Todd,0.253,1.011,4,John Deere Classic
+46,Denny McCarthy,0.220,0.881,4,John Deere Classic
+47,Bud Cauley,0.152,0.610,4,John Deere Classic
+48,Zach Johnson,0.143,0.571,4,John Deere Classic
+49,Kevin Chappell,0.122,0.488,4,John Deere Classic
+50,Bill Haas,0.118,0.474,4,John Deere Classic
+51,Zac Blair,0.044,0.176,4,John Deere Classic
+52,Scott Gutschewski,0.029,0.117,4,John Deere Classic
+53,Adrien Dumont de Chassart,-0.035,-0.139,4,John Deere Classic
+54,Chesson Hadley,-0.087,-0.346,4,John Deere Classic
+55,Sam Stevens,-0.112,-0.446,4,John Deere Classic
+55,Sepp Straka,-0.112,-0.449,4,John Deere Classic
+57,Kyle Westmoreland,-0.131,-0.524,4,John Deere Classic
+58,Matt NeSmith,-0.160,-0.641,4,John Deere Classic
+59,David Lipsky,-0.243,-0.971,4,John Deere Classic
+60,Justin Suh,-0.282,-1.129,4,John Deere Classic
+61,Jake Knapp,-0.285,-1.139,4,John Deere Classic
+62,Chandler Phillips,-0.312,-1.247,4,John Deere Classic
+63,Jason Day,-0.326,-1.302,4,John Deere Classic
+64,James Hahn,-0.339,-1.356,4,John Deere Classic
+65,Patrick Rodgers,-0.457,-1.828,4,John Deere Classic
+66,Nico Echavarria,-0.471,-1.882,4,John Deere Classic
+67,Pierceson Coody,-0.473,-1.890,4,John Deere Classic
+68,Stewart Cink,-0.505,-2.021,4,John Deere Classic
+69,Ryan Palmer,-0.511,-2.043,4,John Deere Classic
+70,J.T. Poston,-0.638,-2.553,4,John Deere Classic
+71,Thorbjørn Olesen,-0.838,-3.350,4,John Deere Classic
+72,Dylan Frittelli,-0.902,-3.607,4,John Deere Classic
+73,Ben Taylor,-0.938,-3.750,4,John Deere Classic
+74,Justin Lower,-1.065,-4.259,4,John Deere Classic
+75,S.H. Kim,-1.090,-4.359,4,John Deere Classic
+76,Beau Hossler,-1.251,-5.003,4,John Deere Classic
+77,Kevin Dougherty,-1.690,-6.759,4,John Deere Classic
+1,David Skinns,1.747,6.986,4,Rocket Mortgage Classic
+2,Akshay Bhatia,1.481,5.925,4,Rocket Mortgage Classic
+3,Aaron Rai,1.428,5.711,4,Rocket Mortgage Classic
+4,Carl Yuan,1.348,5.390,4,Rocket Mortgage Classic
+5,Nick Dunlap,1.279,5.114,4,Rocket Mortgage Classic
+6,Neal Shipley,1.275,5.100,4,Rocket Mortgage Classic
+7,Ben James,1.267,5.067,4,Rocket Mortgage Classic
+8,Rico Hoey,1.173,4.691,4,Rocket Mortgage Classic
+9,Jacob Bridgeman,1.164,4.656,4,Rocket Mortgage Classic
+10,Ben Silverman,1.115,4.458,4,Rocket Mortgage Classic
+11,Cam Davis,1.095,4.381,4,Rocket Mortgage Classic
+12,Cameron Young,1.078,4.311,4,Rocket Mortgage Classic
+13,Jhonattan Vegas,1.073,4.290,4,Rocket Mortgage Classic
+14,Beau Hossler,1.063,4.251,4,Rocket Mortgage Classic
+15,Rickie Fowler,1.011,4.045,4,Rocket Mortgage Classic
+16,Ben Kohles,0.970,3.880,4,Rocket Mortgage Classic
+17,Troy Merritt,0.958,3.833,4,Rocket Mortgage Classic
+18,Davis Thompson,0.891,3.562,4,Rocket Mortgage Classic
+19,Nicolai Højgaard,0.874,3.495,4,Rocket Mortgage Classic
+20,Luke Clanton,0.821,3.284,4,Rocket Mortgage Classic
+21,Dylan Wu,0.813,3.250,4,Rocket Mortgage Classic
+22,Eric Cole,0.811,3.242,4,Rocket Mortgage Classic
+23,Joel Dahmen,0.777,3.109,4,Rocket Mortgage Classic
+24,Roger Sloan,0.771,3.085,4,Rocket Mortgage Classic
+25,Ben Griffin,0.742,2.966,4,Rocket Mortgage Classic
+26,Nick Hardy,0.682,2.728,4,Rocket Mortgage Classic
+27,Chris Kirk,0.647,2.588,4,Rocket Mortgage Classic
+28,Kevin Yu,0.624,2.494,4,Rocket Mortgage Classic
+29,Nico Echavarria,0.599,2.396,4,Rocket Mortgage Classic
+30,Patrick Fishburn,0.541,2.162,4,Rocket Mortgage Classic
+31,Patton Kizzire,0.500,2.000,4,Rocket Mortgage Classic
+32,Nicholas Lindheim,0.498,1.992,4,Rocket Mortgage Classic
+33,Callum Tarren,0.482,1.928,4,Rocket Mortgage Classic
+34,Ryo Hisatsune,0.476,1.902,4,Rocket Mortgage Classic
+35,Mark Hubbard,0.468,1.873,4,Rocket Mortgage Classic
+36,Harry Hall,0.414,1.655,4,Rocket Mortgage Classic
+37,Nate Lashley,0.394,1.576,4,Rocket Mortgage Classic
+38,Andrew Novak,0.316,1.265,4,Rocket Mortgage Classic
+39,Matt Kuchar,0.315,1.258,4,Rocket Mortgage Classic
+40,Min Woo Lee,0.301,1.205,4,Rocket Mortgage Classic
+41,Ryan McCormick,0.285,1.138,4,Rocket Mortgage Classic
+42,Ryan Moore,0.211,0.845,4,Rocket Mortgage Classic
+43,Wesley Bryan,0.125,0.500,4,Rocket Mortgage Classic
+44,Hayden Springer,0.119,0.476,4,Rocket Mortgage Classic
+45,Jake Knapp,0.094,0.375,4,Rocket Mortgage Classic
+46,Taylor Montgomery,0.068,0.271,4,Rocket Mortgage Classic
+46,Taylor Pendrith,0.068,0.272,4,Rocket Mortgage Classic
+48,Ryan Fox,0.066,0.264,4,Rocket Mortgage Classic
+49,J.J. Spaun,0.016,0.062,4,Rocket Mortgage Classic
+50,Joe Highsmith,0.003,0.010,4,Rocket Mortgage Classic
+51,Kevin Streelman,-0.005,-0.021,4,Rocket Mortgage Classic
+52,Sam Stevens,-0.040,-0.161,4,Rocket Mortgage Classic
+53,Hayden Buckley,-0.041,-0.163,4,Rocket Mortgage Classic
+54,"Blaine Hale, Jr.",-0.116,-0.463,4,Rocket Mortgage Classic
+55,Matti Schmid,-0.149,-0.598,4,Rocket Mortgage Classic
+56,Michael Kim,-0.262,-1.050,4,Rocket Mortgage Classic
+57,Erik van Rooyen,-0.286,-1.143,4,Rocket Mortgage Classic
+58,Brandon Wu,-0.306,-1.224,4,Rocket Mortgage Classic
+59,Pierceson Coody,-0.342,-1.370,4,Rocket Mortgage Classic
+60,Justin Lower,-0.399,-1.595,4,Rocket Mortgage Classic
+61,Chandler Phillips,-0.405,-1.619,4,Rocket Mortgage Classic
+62,Aaron Baddeley,-0.415,-1.661,4,Rocket Mortgage Classic
+63,Max Greyserman,-0.484,-1.938,4,Rocket Mortgage Classic
+64,Robby Shelton,-0.562,-2.247,4,Rocket Mortgage Classic
+65,Taylor Moore,-0.628,-2.512,4,Rocket Mortgage Classic
+66,Luke List,-0.718,-2.874,4,Rocket Mortgage Classic
+67,Maverick McNealy,-0.720,-2.881,4,Rocket Mortgage Classic
+68,Peter Malnati,-0.723,-2.891,4,Rocket Mortgage Classic
+69,Patrick Rodgers,-0.735,-2.940,4,Rocket Mortgage Classic
+70,Zach Johnson,-0.779,-3.115,4,Rocket Mortgage Classic
+71,Vince Whaley,-1.030,-4.122,4,Rocket Mortgage Classic
+72,Davis Riley,-1.098,-4.392,4,Rocket Mortgage Classic
+73,Chris Gotterup,-1.102,-4.407,4,Rocket Mortgage Classic
+74,Bud Cauley,-1.349,-5.396,4,Rocket Mortgage Classic
+1,Tom Hoge,2.106,8.424,4,Travelers Championship
+2,Shane Lowry,1.319,5.278,4,Travelers Championship
+3,Tom Kim,1.316,5.266,4,Travelers Championship
+4,Tommy Fleetwood,1.275,5.100,4,Travelers Championship
+5,Sungjae Im,1.270,5.081,4,Travelers Championship
+6,Scottie Scheffler,1.084,4.336,4,Travelers Championship
+7,Ludvig Åberg,1.070,4.282,4,Travelers Championship
+8,Sepp Straka,0.967,3.867,4,Travelers Championship
+9,Justin Thomas,0.912,3.650,4,Travelers Championship
+10,Stephan Jaeger,0.871,3.485,4,Travelers Championship
+11,Wyndham Clark,0.869,3.475,4,Travelers Championship
+12,Austin Eckroat,0.845,3.380,4,Travelers Championship
+13,Russell Henley,0.803,3.214,4,Travelers Championship
+14,Lucas Glover,0.796,3.183,4,Travelers Championship
+15,Nick Taylor,0.768,3.074,4,Travelers Championship
+16,Tony Finau,0.731,2.924,4,Travelers Championship
+17,Ben Griffin,0.728,2.912,4,Travelers Championship
+18,Lee Hodges,0.723,2.894,4,Travelers Championship
+19,Collin Morikawa,0.628,2.514,4,Travelers Championship
+20,Emiliano Grillo,0.618,2.473,4,Travelers Championship
+21,Xander Schauffele,0.531,2.126,4,Travelers Championship
+22,Brian Harman,0.477,1.908,4,Travelers Championship
+23,Max Homa,0.445,1.781,4,Travelers Championship
+24,Matthieu Pavon,0.429,1.716,4,Travelers Championship
+25,Denny McCarthy,0.427,1.707,4,Travelers Championship
+26,Si Woo Kim,0.341,1.364,4,Travelers Championship
+27,Taylor Pendrith,0.310,1.240,4,Travelers Championship
+28,Nick Dunlap,0.251,1.004,4,Travelers Championship
+29,Rickie Fowler,0.239,0.958,4,Travelers Championship
+30,Cameron Young,0.165,0.659,4,Travelers Championship
+31,Akshay Bhatia,0.141,0.566,4,Travelers Championship
+32,Chris Gotterup,0.136,0.546,4,Travelers Championship
+33,Adam Svensson,0.133,0.531,4,Travelers Championship
+34,Patrick Cantlay,0.121,0.483,4,Travelers Championship
+35,Seamus Power,0.106,0.424,4,Travelers Championship
+36,Brendon Todd,-0.010,-0.038,4,Travelers Championship
+37,Jake Knapp,-0.028,-0.112,4,Travelers Championship
+38,Corey Conners,-0.093,-0.371,4,Travelers Championship
+39,Eric Cole,-0.144,-0.575,4,Travelers Championship
+40,Kurt Kitayama,-0.175,-0.701,4,Travelers Championship
+41,Davis Riley,-0.177,-0.707,4,Travelers Championship
+42,Sahith Theegala,-0.184,-0.735,4,Travelers Championship
+43,Viktor Hovland,-0.188,-0.751,4,Travelers Championship
+44,Jordan Spieth,-0.224,-0.894,4,Travelers Championship
+45,Adam Hadwin,-0.241,-0.963,4,Travelers Championship
+46,Christiaan Bezuidenhout,-0.315,-1.258,4,Travelers Championship
+47,Michael Thorbjornsen,-0.442,-1.768,4,Travelers Championship
+48,Victor Perez,-0.455,-1.818,4,Travelers Championship
+49,Will Zalatoris,-0.493,-1.973,4,Travelers Championship
+50,Jason Day,-0.518,-2.071,4,Travelers Championship
+51,Billy Horschel,-0.533,-2.133,4,Travelers Championship
+52,Chris Kirk,-0.534,-2.136,4,Travelers Championship
+53,Thomas Detry,-0.641,-2.565,4,Travelers Championship
+54,Peter Malnati,-0.652,-2.606,4,Travelers Championship
+55,Adam Scott,-0.655,-2.620,4,Travelers Championship
+56,J.T. Poston,-0.675,-2.698,4,Travelers Championship
+57,Mackenzie Hughes,-0.703,-2.811,4,Travelers Championship
+58,Keegan Bradley,-0.705,-2.821,4,Travelers Championship
+59,Patrick Rodgers,-0.837,-3.346,4,Travelers Championship
+60,Matt Fitzpatrick,-0.897,-3.587,4,Travelers Championship
+61,Robert MacIntyre,-0.938,-3.750,4,Travelers Championship
+62,Cam Davis,-1.014,-4.056,4,Travelers Championship
+63,Andrew Putnam,-1.022,-4.087,4,Travelers Championship
+64,Hideki Matsuyama,-1.177,-4.706,4,Travelers Championship
+65,Adam Schenk,-1.222,-4.886,4,Travelers Championship
+66,Harris English,-1.268,-5.073,4,Travelers Championship
+67,Webb Simpson,-1.539,-6.154,4,Travelers Championship
+68,Justin Rose,-1.643,-6.570,4,Travelers Championship
+69,Taylor Moore,-1.733,-6.932,4,Travelers Championship
+70,Sam Burns,-1.887,-7.547,4,Travelers Championship
+1,Tony Finau,1.866,7.465,4,U.S. Open
+2,Xander Schauffele,1.778,7.110,4,U.S. Open
+3,Daniel Berger,1.502,6.008,4,U.S. Open
+4,Jordan Spieth,1.459,5.837,4,U.S. Open
+5,Scottie Scheffler,1.435,5.739,4,U.S. Open
+6,Patrick Cantlay,1.386,5.542,4,U.S. Open
+7,Thomas Detry,1.276,5.104,4,U.S. Open
+8,Martin Kaymer,1.215,4.860,4,U.S. Open
+9,Sergio Garcia,1.193,4.771,4,U.S. Open
+10,Tom Kim,1.184,4.737,4,U.S. Open
+11,Cameron Smith,1.026,4.104,4,U.S. Open
+12,Matthieu Pavon,0.970,3.880,4,U.S. Open
+13,Bryson DeChambeau,0.934,3.734,4,U.S. Open
+14,Hideki Matsuyama,0.871,3.483,4,U.S. Open
+15,Ludvig Åberg,0.835,3.338,4,U.S. Open
+16,Keegan Bradley,0.802,3.206,4,U.S. Open
+16,Nico Echavarria,0.802,3.208,4,U.S. Open
+18,Sepp Straka,0.787,3.146,4,U.S. Open
+19,Taylor Pendrith,0.744,2.974,4,U.S. Open
+20,Nicolai Højgaard,0.704,2.815,4,U.S. Open
+21,Stephan Jaeger,0.669,2.674,4,U.S. Open
+22,Brooks Koepka,0.660,2.641,4,U.S. Open
+23,Adam Svensson,0.620,2.480,4,U.S. Open
+24,Shane Lowry,0.540,2.159,4,U.S. Open
+25,Emiliano Grillo,0.520,2.080,4,U.S. Open
+26,Greyson Sigg,0.505,2.020,4,U.S. Open
+27,Tyrrell Hatton,0.486,1.945,4,U.S. Open
+28,Ben Kohles,0.457,1.829,4,U.S. Open
+29,Matt Kuchar,0.399,1.596,4,U.S. Open
+30,Rory McIlroy,0.390,1.560,4,U.S. Open
+31,Francesco Molinari,0.384,1.534,4,U.S. Open
+32,David Puig,0.378,1.512,4,U.S. Open
+33,J.T. Poston,0.377,1.506,4,U.S. Open
+34,Corey Conners,0.375,1.498,4,U.S. Open
+35,Luke Clanton,0.362,1.447,4,U.S. Open
+36,Sahith Theegala,0.359,1.434,4,U.S. Open
+37,Cameron Young,0.338,1.351,4,U.S. Open
+38,Aaron Rai,0.327,1.308,4,U.S. Open
+39,Collin Morikawa,0.257,1.028,4,U.S. Open
+39,Adam Scott,0.257,1.027,4,U.S. Open
+41,Austin Eckroat,0.217,0.867,4,U.S. Open
+42,Davis Thompson,0.197,0.787,4,U.S. Open
+43,Justin Lower,0.191,0.763,4,U.S. Open
+44,Tommy Fleetwood,0.183,0.733,4,U.S. Open
+45,Zac Blair,0.131,0.525,4,U.S. Open
+45,Dean Burmester,0.131,0.522,4,U.S. Open
+47,Matt Fitzpatrick,0.112,0.446,4,U.S. Open
+48,Brian Harman,0.082,0.326,4,U.S. Open
+49,Russell Henley,0.073,0.292,4,U.S. Open
+50,Denny McCarthy,-0.029,-0.115,4,U.S. Open
+51,Brandon Wu,-0.030,-0.120,4,U.S. Open
+52,Wyndham Clark,-0.033,-0.134,4,U.S. Open
+53,Tom McKibbin,-0.040,-0.162,4,U.S. Open
+54,Sam Bennett,-0.112,-0.450,4,U.S. Open
+55,Si Woo Kim,-0.136,-0.546,4,U.S. Open
+56,Christiaan Bezuidenhout,-0.137,-0.548,4,U.S. Open
+57,Isaiah Salinda,-0.139,-0.558,4,U.S. Open
+58,Mark Hubbard,-0.166,-0.666,4,U.S. Open
+59,Brian Campbell,-0.180,-0.720,4,U.S. Open
+60,Jackson Suber,-0.257,-1.030,4,U.S. Open
+61,Harris English,-0.279,-1.118,4,U.S. Open
+62,Sam Burns,-0.349,-1.398,4,U.S. Open
+63,Chris Kirk,-0.403,-1.613,4,U.S. Open
+64,Neal Shipley,-0.433,-1.733,4,U.S. Open
+65,Akshay Bhatia,-0.456,-1.826,4,U.S. Open
+66,Brendon Todd,-0.461,-1.843,4,U.S. Open
+67,Frankie Capan III,-0.503,-2.012,4,U.S. Open
+68,Billy Horschel,-0.573,-2.292,4,U.S. Open
+69,Ryan Fox,-0.704,-2.818,4,U.S. Open
+70,Max Greyserman,-0.775,-3.102,4,U.S. Open
+71,Tim Widing,-0.881,-3.526,4,U.S. Open
+72,Gunnar Broin,-0.934,-3.735,4,U.S. Open
+73,Min Woo Lee,-0.948,-3.791,4,U.S. Open
+74,S.H. Kim,-1.209,-4.837,4,U.S. Open
+1,Scottie Scheffler,3.239,12.957,4,the Memorial Tournament presented by Workday
+2,Adam Hadwin,1.899,7.594,4,the Memorial Tournament presented by Workday
+3,Justin Thomas,1.292,5.167,4,the Memorial Tournament presented by Workday
+4,Collin Morikawa,1.272,5.088,4,the Memorial Tournament presented by Workday
+5,Viktor Hovland,1.124,4.494,4,the Memorial Tournament presented by Workday
+6,Max Homa,1.090,4.360,4,the Memorial Tournament presented by Workday
+7,Victor Perez,1.083,4.333,4,the Memorial Tournament presented by Workday
+8,Emiliano Grillo,1.082,4.328,4,the Memorial Tournament presented by Workday
+9,Nick Dunlap,1.079,4.317,4,the Memorial Tournament presented by Workday
+10,Austin Eckroat,1.014,4.056,4,the Memorial Tournament presented by Workday
+11,Byeong Hun An,0.930,3.719,4,the Memorial Tournament presented by Workday
+12,Sahith Theegala,0.921,3.684,4,the Memorial Tournament presented by Workday
+13,Hideki Matsuyama,0.908,3.632,4,the Memorial Tournament presented by Workday
+14,Tony Finau,0.837,3.349,4,the Memorial Tournament presented by Workday
+15,Davis Thompson,0.706,2.825,4,the Memorial Tournament presented by Workday
+16,Christiaan Bezuidenhout,0.683,2.732,4,the Memorial Tournament presented by Workday
+17,Ludvig Åberg,0.598,2.390,4,the Memorial Tournament presented by Workday
+18,Corey Conners,0.502,2.008,4,the Memorial Tournament presented by Workday
+19,Adam Svensson,0.347,1.386,4,the Memorial Tournament presented by Workday
+20,Tom Kim,0.318,1.271,4,the Memorial Tournament presented by Workday
+21,Nick Taylor,0.285,1.138,4,the Memorial Tournament presented by Workday
+22,Rory McIlroy,0.279,1.117,4,the Memorial Tournament presented by Workday
+23,Russell Henley,0.253,1.011,4,the Memorial Tournament presented by Workday
+24,Tommy Fleetwood,0.251,1.003,4,the Memorial Tournament presented by Workday
+25,Matt Kuchar,0.180,0.718,4,the Memorial Tournament presented by Workday
+26,Si Woo Kim,0.117,0.466,4,the Memorial Tournament presented by Workday
+27,Akshay Bhatia,0.099,0.397,4,the Memorial Tournament presented by Workday
+28,Sepp Straka,0.041,0.165,4,the Memorial Tournament presented by Workday
+29,Tom Hoge,0.031,0.122,4,the Memorial Tournament presented by Workday
+30,J.T. Poston,-0.015,-0.062,4,the Memorial Tournament presented by Workday
+31,Lee Hodges,-0.026,-0.106,4,the Memorial Tournament presented by Workday
+32,Jason Day,-0.066,-0.265,4,the Memorial Tournament presented by Workday
+33,Billy Horschel,-0.088,-0.352,4,the Memorial Tournament presented by Workday
+34,Matt Fitzpatrick,-0.139,-0.557,4,the Memorial Tournament presented by Workday
+35,Cam Davis,-0.171,-0.686,4,the Memorial Tournament presented by Workday
+36,Shane Lowry,-0.172,-0.688,4,the Memorial Tournament presented by Workday
+37,Eric Cole,-0.217,-0.870,4,the Memorial Tournament presented by Workday
+38,Thomas Detry,-0.237,-0.950,4,the Memorial Tournament presented by Workday
+39,Peter Malnati,-0.269,-1.076,4,the Memorial Tournament presented by Workday
+40,Alex Noren,-0.319,-1.275,4,the Memorial Tournament presented by Workday
+41,Brian Harman,-0.346,-1.386,4,the Memorial Tournament presented by Workday
+42,Xander Schauffele,-0.418,-1.674,4,the Memorial Tournament presented by Workday
+43,Seamus Power,-0.486,-1.946,4,the Memorial Tournament presented by Workday
+44,Taylor Pendrith,-0.605,-2.419,4,the Memorial Tournament presented by Workday
+45,Keegan Bradley,-0.607,-2.428,4,the Memorial Tournament presented by Workday
+46,Cameron Young,-0.669,-2.678,4,the Memorial Tournament presented by Workday
+47,Denny McCarthy,-0.673,-2.694,4,the Memorial Tournament presented by Workday
+48,Andrew Putnam,-0.696,-2.785,4,the Memorial Tournament presented by Workday
+49,Sam Burns,-0.706,-2.825,4,the Memorial Tournament presented by Workday
+50,Sungjae Im,-0.858,-3.431,4,the Memorial Tournament presented by Workday
+51,Will Zalatoris,-1.366,-5.465,4,the Memorial Tournament presented by Workday
+52,Jackson Koivun,-1.552,-6.208,4,the Memorial Tournament presented by Workday
+1,Ben Griffin,1.752,7.006,4,RBC Canadian Open
+2,Matt Wallace,1.393,5.573,4,RBC Canadian Open
+3,Michael Kim,1.385,5.539,4,RBC Canadian Open
+4,Tommy Fleetwood,1.368,5.470,4,RBC Canadian Open
+5,Kevin Yu,1.323,5.293,4,RBC Canadian Open
+6,Chandler Phillips,1.230,4.918,4,RBC Canadian Open
+7,Corey Conners,1.214,4.856,4,RBC Canadian Open
+8,Tom Kim,1.141,4.564,4,RBC Canadian Open
+9,Victor Perez,1.047,4.186,4,RBC Canadian Open
+10,Ryo Hisatsune,1.040,4.158,4,RBC Canadian Open
+11,Sam Burns,1.014,4.057,4,RBC Canadian Open
+12,David Skinns,0.989,3.957,4,RBC Canadian Open
+13,Joel Dahmen,0.979,3.917,4,RBC Canadian Open
+13,Thorbjørn Olesen,0.979,3.916,4,RBC Canadian Open
+15,Rory McIlroy,0.950,3.798,4,RBC Canadian Open
+16,Aaron Rai,0.914,3.654,4,RBC Canadian Open
+17,Chez Reavie,0.832,3.329,4,RBC Canadian Open
+18,Ben Silverman,0.810,3.239,4,RBC Canadian Open
+19,Taylor Pendrith,0.773,3.090,4,RBC Canadian Open
+20,Kelly Kraft,0.757,3.029,4,RBC Canadian Open
+21,Joseph Bramlett,0.696,2.784,4,RBC Canadian Open
+22,Kevin Streelman,0.658,2.633,4,RBC Canadian Open
+23,Zac Blair,0.638,2.552,4,RBC Canadian Open
+24,Maverick McNealy,0.608,2.432,4,RBC Canadian Open
+25,Nicolai Højgaard,0.596,2.385,4,RBC Canadian Open
+26,Keith Mitchell,0.544,2.176,4,RBC Canadian Open
+27,Andrew Novak,0.520,2.080,4,RBC Canadian Open
+28,Carson Young,0.519,2.075,4,RBC Canadian Open
+29,Shane Lowry,0.515,2.058,4,RBC Canadian Open
+30,Chad Ramey,0.455,1.818,4,RBC Canadian Open
+31,Lanto Griffin,0.426,1.704,4,RBC Canadian Open
+32,Ryan Fox,0.375,1.499,4,RBC Canadian Open
+33,Akshay Bhatia,0.351,1.402,4,RBC Canadian Open
+34,Trace Crowe,0.347,1.388,4,RBC Canadian Open
+35,Sam Stevens,0.346,1.384,4,RBC Canadian Open
+36,Mark Hubbard,0.342,1.367,4,RBC Canadian Open
+37,Chesson Hadley,0.337,1.347,4,RBC Canadian Open
+38,Erik van Rooyen,0.328,1.312,4,RBC Canadian Open
+39,Garrick Higgo,0.266,1.064,4,RBC Canadian Open
+40,Mackenzie Hughes,0.215,0.861,4,RBC Canadian Open
+41,Adrien Dumont de Chassart,0.205,0.821,4,RBC Canadian Open
+42,Nick Hardy,0.204,0.817,4,RBC Canadian Open
+43,Sami Valimaki,0.183,0.731,4,RBC Canadian Open
+44,Robert MacIntyre,0.178,0.711,4,RBC Canadian Open
+45,Jacob Bridgeman,0.144,0.574,4,RBC Canadian Open
+46,Ryan Moore,0.104,0.414,4,RBC Canadian Open
+47,Stewart Cink,0.093,0.371,4,RBC Canadian Open
+48,Nate Lashley,0.011,0.042,4,RBC Canadian Open
+49,Tyler Duncan,-0.014,-0.057,4,RBC Canadian Open
+50,Wil Bateman,-0.042,-0.169,4,RBC Canadian Open
+51,C.T. Pan,-0.043,-0.173,4,RBC Canadian Open
+52,Ryan Palmer,-0.060,-0.240,4,RBC Canadian Open
+53,Adam Scott,-0.193,-0.771,4,RBC Canadian Open
+54,Sean O'Hair,-0.244,-0.977,4,RBC Canadian Open
+55,Adam Svensson,-0.284,-1.135,4,RBC Canadian Open
+56,Gary Woodland,-0.365,-1.461,4,RBC Canadian Open
+57,Jorge Campillo,-0.416,-1.666,4,RBC Canadian Open
+58,Vince Whaley,-0.444,-1.776,4,RBC Canadian Open
+59,Erik Barnes,-0.445,-1.779,4,RBC Canadian Open
+60,Mac Meissner,-0.450,-1.802,4,RBC Canadian Open
+61,Vincent Norrman,-0.466,-1.863,4,RBC Canadian Open
+62,Beau Hossler,-0.523,-2.092,4,RBC Canadian Open
+63,Kevin Tway,-0.742,-2.969,4,RBC Canadian Open
+64,Brandon Wu,-0.872,-3.489,4,RBC Canadian Open
+65,Pierceson Coody,-1.049,-4.197,4,RBC Canadian Open
+66,Jhonattan Vegas,-1.065,-4.260,4,RBC Canadian Open
+67,Myles Creighton,-1.132,-4.527,4,RBC Canadian Open
+68,David Hearn,-1.251,-5.003,4,RBC Canadian Open
+69,Harry Hall,-1.337,-5.350,4,RBC Canadian Open
+1,David Lipsky,2.669,10.676,4,Charles Schwab Challenge
+2,Davis Riley,1.962,7.849,4,Charles Schwab Challenge
+3,Alejandro Tosti,1.660,6.639,4,Charles Schwab Challenge
+4,Justin Rose,1.475,5.900,4,Charles Schwab Challenge
+5,Brian Harman,1.276,5.104,4,Charles Schwab Challenge
+6,Lee Hodges,1.113,4.454,4,Charles Schwab Challenge
+7,Ben Martin,1.051,4.206,4,Charles Schwab Challenge
+8,Pierceson Coody,1.039,4.156,4,Charles Schwab Challenge
+9,Collin Morikawa,1.016,4.064,4,Charles Schwab Challenge
+10,Victor Perez,0.944,3.775,4,Charles Schwab Challenge
+10,Sepp Straka,0.944,3.776,4,Charles Schwab Challenge
+12,Rickie Fowler,0.940,3.762,4,Charles Schwab Challenge
+13,Mac Meissner,0.882,3.528,4,Charles Schwab Challenge
+14,Si Woo Kim,0.866,3.463,4,Charles Schwab Challenge
+15,Davis Thompson,0.796,3.183,4,Charles Schwab Challenge
+16,Sungjae Im,0.785,3.141,4,Charles Schwab Challenge
+17,Adam Scott,0.741,2.966,4,Charles Schwab Challenge
+18,Scottie Scheffler,0.698,2.792,4,Charles Schwab Challenge
+19,Tony Finau,0.689,2.757,4,Charles Schwab Challenge
+20,Kevin Yu,0.684,2.738,4,Charles Schwab Challenge
+21,Tom Hoge,0.680,2.719,4,Charles Schwab Challenge
+22,Aaron Rai,0.652,2.608,4,Charles Schwab Challenge
+23,Emiliano Grillo,0.594,2.377,4,Charles Schwab Challenge
+24,J.T. Poston,0.576,2.306,4,Charles Schwab Challenge
+25,Callum Tarren,0.521,2.083,4,Charles Schwab Challenge
+26,Chandler Phillips,0.507,2.029,4,Charles Schwab Challenge
+27,Robby Shelton,0.503,2.011,4,Charles Schwab Challenge
+28,Hayden Buckley,0.476,1.903,4,Charles Schwab Challenge
+29,Maverick McNealy,0.470,1.879,4,Charles Schwab Challenge
+30,Joel Dahmen,0.447,1.789,4,Charles Schwab Challenge
+31,Adam Svensson,0.446,1.786,4,Charles Schwab Challenge
+32,Min Woo Lee,0.438,1.752,4,Charles Schwab Challenge
+33,Keith Mitchell,0.418,1.671,4,Charles Schwab Challenge
+34,Webb Simpson,0.416,1.663,4,Charles Schwab Challenge
+35,Charley Hoffman,0.358,1.432,4,Charles Schwab Challenge
+36,Troy Merritt,0.294,1.177,4,Charles Schwab Challenge
+37,Daniel Berger,0.277,1.107,4,Charles Schwab Challenge
+38,Patrick Rodgers,0.271,1.086,4,Charles Schwab Challenge
+39,Tyler Duncan,0.244,0.975,4,Charles Schwab Challenge
+40,Martin Laird,0.232,0.927,4,Charles Schwab Challenge
+41,Kevin Streelman,0.207,0.830,4,Charles Schwab Challenge
+42,K.H. Lee,0.206,0.825,4,Charles Schwab Challenge
+43,Billy Horschel,0.203,0.813,4,Charles Schwab Challenge
+44,Zach Johnson,0.133,0.532,4,Charles Schwab Challenge
+45,Ryan Fox,0.089,0.357,4,Charles Schwab Challenge
+46,Nick Hardy,0.014,0.055,4,Charles Schwab Challenge
+47,Doug Ghim,0.006,0.024,4,Charles Schwab Challenge
+48,Lucas Glover,-0.002,-0.009,4,Charles Schwab Challenge
+49,Christiaan Bezuidenhout,-0.010,-0.038,4,Charles Schwab Challenge
+50,Vincent Norrman,-0.060,-0.238,4,Charles Schwab Challenge
+51,Denny McCarthy,-0.063,-0.252,4,Charles Schwab Challenge
+52,Tom Kim,-0.086,-0.345,4,Charles Schwab Challenge
+53,Cam Davis,-0.114,-0.456,4,Charles Schwab Challenge
+53,S.H. Kim,-0.114,-0.457,4,Charles Schwab Challenge
+55,Keegan Bradley,-0.122,-0.489,4,Charles Schwab Challenge
+56,Parker Coody,-0.163,-0.651,4,Charles Schwab Challenge
+57,Kevin Tway,-0.168,-0.672,4,Charles Schwab Challenge
+58,Jordan Spieth,-0.217,-0.866,4,Charles Schwab Challenge
+59,Matt Kuchar,-0.250,-0.999,4,Charles Schwab Challenge
+60,Matt NeSmith,-0.304,-1.214,4,Charles Schwab Challenge
+61,Brendon Todd,-0.392,-1.566,4,Charles Schwab Challenge
+62,Kevin Kisner,-0.478,-1.910,4,Charles Schwab Challenge
+63,C.T. Pan,-0.556,-2.222,4,Charles Schwab Challenge
+64,Austin Smotherman,-0.579,-2.317,4,Charles Schwab Challenge
+65,Ben Silverman,-0.586,-2.344,4,Charles Schwab Challenge
+66,Ryan Moore,-0.654,-2.614,4,Charles Schwab Challenge
+67,Thomas Detry,-0.669,-2.677,4,Charles Schwab Challenge
+68,Mark Hubbard,-0.834,-3.334,4,Charles Schwab Challenge
+69,Gary Woodland,-0.961,-3.843,4,Charles Schwab Challenge
+70,Joseph Bramlett,-1.025,-4.100,4,Charles Schwab Challenge
+71,Peter Malnati,-1.137,-4.547,4,Charles Schwab Challenge
+1,Tony Finau,2.372,9.488,4,PGA Championship
+2,Xander Schauffele,1.927,7.709,4,PGA Championship
+3,Corey Conners,1.910,7.639,4,PGA Championship
+4,Lee Hodges,1.883,7.533,4,PGA Championship
+5,Scottie Scheffler,1.629,6.516,4,PGA Championship
+6,Viktor Hovland,1.605,6.420,4,PGA Championship
+7,Tom Hoge,1.480,5.920,4,PGA Championship
+8,Brice Garnett,1.471,5.884,4,PGA Championship
+9,Alex Noren,1.444,5.775,4,PGA Championship
+10,Brian Harman,1.386,5.543,4,PGA Championship
+11,Adam Svensson,1.310,5.240,4,PGA Championship
+12,Ryo Hisatsune,1.268,5.073,4,PGA Championship
+13,Joaquin Niemann,1.261,5.045,4,PGA Championship
+14,Dean Burmester,1.231,4.926,4,PGA Championship
+15,Justin Thomas,1.153,4.613,4,PGA Championship
+16,Kurt Kitayama,1.007,4.027,4,PGA Championship
+17,Rory McIlroy,1.006,4.023,4,PGA Championship
+18,Sahith Theegala,1.000,4.000,4,PGA Championship
+19,Russell Henley,0.969,3.875,4,PGA Championship
+20,Gary Woodland,0.938,3.752,4,PGA Championship
+21,Luke Donald,0.880,3.519,4,PGA Championship
+22,Will Zalatoris,0.842,3.370,4,PGA Championship
+23,Robert MacIntyre,0.839,3.356,4,PGA Championship
+24,Max Homa,0.799,3.198,4,PGA Championship
+25,Harris English,0.779,3.116,4,PGA Championship
+26,Collin Morikawa,0.769,3.075,4,PGA Championship
+27,Jordan Smith,0.767,3.067,4,PGA Championship
+28,Billy Horschel,0.757,3.030,4,PGA Championship
+29,Nicolai Højgaard,0.683,2.734,4,PGA Championship
+30,Aaron Rai,0.680,2.722,4,PGA Championship
+31,Sebastian Soderberg,0.649,2.596,4,PGA Championship
+32,Alexander Björk,0.599,2.397,4,PGA Championship
+33,Justin Rose,0.595,2.381,4,PGA Championship
+34,Keegan Bradley,0.591,2.365,4,PGA Championship
+35,Bryson DeChambeau,0.540,2.159,4,PGA Championship
+36,Lucas Glover,0.404,1.618,4,PGA Championship
+37,Ben Kohles,0.375,1.499,4,PGA Championship
+38,Rasmus Højgaard,0.373,1.493,4,PGA Championship
+39,Patrick Reed,0.354,1.418,4,PGA Championship
+40,Grayson Murray,0.304,1.217,4,PGA Championship
+41,Talor Gooch,0.291,1.165,4,PGA Championship
+42,Tom Kim,0.259,1.038,4,PGA Championship
+43,Matt Wallace,0.258,1.032,4,PGA Championship
+44,Mark Hubbard,0.238,0.954,4,PGA Championship
+45,Erik van Rooyen,0.225,0.899,4,PGA Championship
+46,Jordan Spieth,0.175,0.699,4,PGA Championship
+47,Brooks Koepka,0.172,0.688,4,PGA Championship
+48,Thomas Detry,0.150,0.601,4,PGA Championship
+49,Adam Hadwin,0.137,0.550,4,PGA Championship
+50,Thorbjørn Olesen,0.107,0.429,4,PGA Championship
+51,Patrick Cantlay,0.096,0.383,4,PGA Championship
+52,Dustin Johnson,0.033,0.131,4,PGA Championship
+53,Doug Ghim,0.029,0.117,4,PGA Championship
+54,Stephan Jaeger,0.010,0.042,4,PGA Championship
+55,Min Woo Lee,-0.005,-0.019,4,PGA Championship
+56,Austin Eckroat,-0.021,-0.083,4,PGA Championship
+57,Taylor Moore,-0.067,-0.266,4,PGA Championship
+58,Hideki Matsuyama,-0.112,-0.449,4,PGA Championship
+59,Tommy Fleetwood,-0.149,-0.597,4,PGA Championship
+60,S.H. Kim,-0.214,-0.854,4,PGA Championship
+61,Andrew Putnam,-0.241,-0.962,4,PGA Championship
+62,Byeong Hun An,-0.242,-0.967,4,PGA Championship
+63,Maverick McNealy,-0.313,-1.250,4,PGA Championship
+64,Brendon Todd,-0.414,-1.655,4,PGA Championship
+65,Shane Lowry,-0.446,-1.785,4,PGA Championship
+66,Lucas Herbert,-0.532,-2.128,4,PGA Championship
+67,Ryan Fox,-0.649,-2.597,4,PGA Championship
+68,Martin Kaymer,-0.690,-2.760,4,PGA Championship
+69,Jason Day,-0.710,-2.839,4,PGA Championship
+70,Cameron Smith,-0.828,-3.312,4,PGA Championship
+71,Zac Blair,-0.897,-3.586,4,PGA Championship
+72,Jesper Svensson,-0.962,-3.847,4,PGA Championship
+73,Rickie Fowler,-1.054,-4.214,4,PGA Championship
+74,Tyrrell Hatton,-1.070,-4.279,4,PGA Championship
+75,Cameron Young,-1.193,-4.770,4,PGA Championship
+76,Jeremy Wells,-1.345,-5.379,4,PGA Championship
+77,Alejandro Tosti,-1.822,-7.289,4,PGA Championship
+78,Braden Shattuck,-1.852,-7.406,4,PGA Championship
+1,Xander Schauffele,1.869,7.475,4,Wells Fargo Championship
+2,Corey Conners,1.753,7.014,4,Wells Fargo Championship
+3,Seamus Power,1.717,6.869,4,Wells Fargo Championship
+4,Rory McIlroy,1.562,6.249,4,Wells Fargo Championship
+5,Si Woo Kim,1.369,5.477,4,Wells Fargo Championship
+6,Keegan Bradley,1.187,4.749,4,Wells Fargo Championship
+7,Sepp Straka,1.176,4.704,4,Wells Fargo Championship
+8,Russell Henley,1.099,4.395,4,Wells Fargo Championship
+9,Kurt Kitayama,0.849,3.398,4,Wells Fargo Championship
+10,Byeong Hun An,0.783,3.132,4,Wells Fargo Championship
+11,Viktor Hovland,0.768,3.072,4,Wells Fargo Championship
+12,Cameron Young,0.748,2.991,4,Wells Fargo Championship
+13,Christiaan Bezuidenhout,0.715,2.859,4,Wells Fargo Championship
+14,Adam Svensson,0.712,2.850,4,Wells Fargo Championship
+15,Grayson Murray,0.706,2.823,4,Wells Fargo Championship
+16,Max Homa,0.578,2.313,4,Wells Fargo Championship
+17,Lucas Glover,0.542,2.170,4,Wells Fargo Championship
+18,Tommy Fleetwood,0.540,2.159,4,Wells Fargo Championship
+19,Andrew Putnam,0.479,1.918,4,Wells Fargo Championship
+20,Nick Dunlap,0.458,1.832,4,Wells Fargo Championship
+21,Emiliano Grillo,0.439,1.758,4,Wells Fargo Championship
+22,Brian Harman,0.383,1.534,4,Wells Fargo Championship
+23,Adam Scott,0.375,1.499,4,Wells Fargo Championship
+24,Gary Woodland,0.265,1.060,4,Wells Fargo Championship
+25,Alex Noren,0.211,0.844,4,Wells Fargo Championship
+26,Lee Hodges,0.193,0.772,4,Wells Fargo Championship
+27,Sam Burns,0.181,0.723,4,Wells Fargo Championship
+28,Sahith Theegala,0.163,0.653,4,Wells Fargo Championship
+29,Justin Thomas,0.159,0.636,4,Wells Fargo Championship
+30,Sungjae Im,0.115,0.461,4,Wells Fargo Championship
+31,Shane Lowry,0.108,0.432,4,Wells Fargo Championship
+32,Wyndham Clark,0.104,0.415,4,Wells Fargo Championship
+33,Chris Kirk,0.077,0.308,4,Wells Fargo Championship
+34,Tom Hoge,0.076,0.304,4,Wells Fargo Championship
+35,Jason Day,0.034,0.137,4,Wells Fargo Championship
+36,Adam Hadwin,0.033,0.134,4,Wells Fargo Championship
+37,Cam Davis,-0.031,-0.125,4,Wells Fargo Championship
+38,Justin Rose,-0.043,-0.171,4,Wells Fargo Championship
+39,Mackenzie Hughes,-0.050,-0.200,4,Wells Fargo Championship
+40,Kevin Tway,-0.156,-0.624,4,Wells Fargo Championship
+41,Collin Morikawa,-0.163,-0.651,4,Wells Fargo Championship
+42,Denny McCarthy,-0.174,-0.697,4,Wells Fargo Championship
+43,Webb Simpson,-0.283,-1.133,4,Wells Fargo Championship
+44,Rickie Fowler,-0.372,-1.487,4,Wells Fargo Championship
+45,Taylor Moore,-0.376,-1.505,4,Wells Fargo Championship
+46,Patrick Rodgers,-0.434,-1.736,4,Wells Fargo Championship
+47,Harris English,-0.453,-1.810,4,Wells Fargo Championship
+48,Austin Eckroat,-0.492,-1.968,4,Wells Fargo Championship
+49,Taylor Pendrith,-0.500,-1.999,4,Wells Fargo Championship
+50,Patrick Cantlay,-0.513,-2.053,4,Wells Fargo Championship
+51,Matthieu Pavon,-0.563,-2.253,4,Wells Fargo Championship
+52,Will Zalatoris,-0.571,-2.285,4,Wells Fargo Championship
+53,Stephan Jaeger,-0.577,-2.308,4,Wells Fargo Championship
+54,Tony Finau,-0.595,-2.381,4,Wells Fargo Championship
+55,Akshay Bhatia,-0.605,-2.421,4,Wells Fargo Championship
+56,Tom Kim,-0.767,-3.068,4,Wells Fargo Championship
+57,Adam Schenk,-0.782,-3.127,4,Wells Fargo Championship
+58,Peter Malnati,-0.789,-3.155,4,Wells Fargo Championship
+59,Ben Kohles,-0.831,-3.324,4,Wells Fargo Championship
+60,Nick Taylor,-0.948,-3.791,4,Wells Fargo Championship
+61,J.T. Poston,-1.039,-4.157,4,Wells Fargo Championship
+62,Matthew Fitzpatrick,-1.055,-4.221,4,Wells Fargo Championship
+63,Eric Cole,-1.083,-4.333,4,Wells Fargo Championship
+64,Brendon Todd,-1.257,-5.026,4,Wells Fargo Championship
+65,Jordan Spieth,-1.270,-5.080,4,Wells Fargo Championship
+66,Matt Kuchar,-1.377,-5.508,4,Wells Fargo Championship
+67,Jake Knapp,-2.071,-8.283,4,Wells Fargo Championship
+68,Billy Horschel,-2.302,-9.206,4,Wells Fargo Championship
+1,Greyson Sigg,1.943,7.774,4,Myrtle Beach Classic
+2,Patton Kizzire,1.867,7.467,4,Myrtle Beach Classic
+3,Scott Piercy,1.800,7.200,4,Myrtle Beach Classic
+4,Mac Meissner,1.477,5.910,4,Myrtle Beach Classic
+5,Chris Gotterup,1.463,5.854,4,Myrtle Beach Classic
+6,Davis Thompson,1.365,5.460,4,Myrtle Beach Classic
+7,Daniel Berger,1.331,5.326,4,Myrtle Beach Classic
+8,Ryan McCormick,1.325,5.299,4,Myrtle Beach Classic
+9,Patrick Fishburn,1.227,4.909,4,Myrtle Beach Classic
+10,Jorge Campillo,1.070,4.282,4,Myrtle Beach Classic
+11,Sam Ryder,1.023,4.091,4,Myrtle Beach Classic
+12,David Skinns,0.981,3.925,4,Myrtle Beach Classic
+13,Dylan Wu,0.951,3.806,4,Myrtle Beach Classic
+14,S.Y. Noh,0.946,3.785,4,Myrtle Beach Classic
+15,Joseph Bramlett,0.923,3.691,4,Myrtle Beach Classic
+16,Ben Griffin,0.835,3.342,4,Myrtle Beach Classic
+17,Max Greyserman,0.778,3.112,4,Myrtle Beach Classic
+18,Kevin Streelman,0.767,3.070,4,Myrtle Beach Classic
+19,Chez Reavie,0.731,2.923,4,Myrtle Beach Classic
+20,Parker Coody,0.682,2.728,4,Myrtle Beach Classic
+21,Chandler Phillips,0.668,2.674,4,Myrtle Beach Classic
+22,Ryan Fox,0.612,2.450,4,Myrtle Beach Classic
+23,Carl Yuan,0.553,2.214,4,Myrtle Beach Classic
+24,Taylor Dickson,0.545,2.180,4,Myrtle Beach Classic
+25,Matt Atkins,0.536,2.146,4,Myrtle Beach Classic
+26,Robert MacIntyre,0.507,2.028,4,Myrtle Beach Classic
+27,Thorbjørn Olesen,0.506,2.026,4,Myrtle Beach Classic
+28,Blades Brown,0.497,1.989,4,Myrtle Beach Classic
+29,Erik van Rooyen,0.470,1.881,4,Myrtle Beach Classic
+30,Thriston Lawrence,0.435,1.740,4,Myrtle Beach Classic
+31,Chan Kim,0.394,1.575,4,Myrtle Beach Classic
+32,Martin Trainer,0.369,1.477,4,Myrtle Beach Classic
+33,Ben Silverman,0.304,1.217,4,Myrtle Beach Classic
+34,Henrik Norlander,0.303,1.214,4,Myrtle Beach Classic
+35,J.J. Spaun,0.284,1.136,4,Myrtle Beach Classic
+36,Alex Smalley,0.278,1.111,4,Myrtle Beach Classic
+37,Zecheng Dou,0.238,0.951,4,Myrtle Beach Classic
+38,Harry Hall,0.230,0.919,4,Myrtle Beach Classic
+39,Paul Barjon,0.223,0.894,4,Myrtle Beach Classic
+40,Alistair Docherty,0.138,0.551,4,Myrtle Beach Classic
+41,Michael Kim,0.117,0.469,4,Myrtle Beach Classic
+42,Alexander Björk,-0.093,-0.371,4,Myrtle Beach Classic
+43,Kevin Yu,-0.094,-0.377,4,Myrtle Beach Classic
+44,Trace Crowe,-0.099,-0.394,4,Myrtle Beach Classic
+45,Robby Shelton,-0.130,-0.518,4,Myrtle Beach Classic
+46,Pierceson Coody,-0.168,-0.672,4,Myrtle Beach Classic
+47,Adrien Dumont de Chassart,-0.195,-0.778,4,Myrtle Beach Classic
+48,Jacob Bridgeman,-0.196,-0.783,4,Myrtle Beach Classic
+49,Harry Higgs,-0.265,-1.060,4,Myrtle Beach Classic
+50,Matt Wallace,-0.270,-1.081,4,Myrtle Beach Classic
+51,Lanto Griffin,-0.276,-1.102,4,Myrtle Beach Classic
+52,Austin Smotherman,-0.283,-1.130,4,Myrtle Beach Classic
+53,Andrew Novak,-0.378,-1.510,4,Myrtle Beach Classic
+54,Sam Stevens,-0.392,-1.568,4,Myrtle Beach Classic
+55,Troy Merritt,-0.427,-1.708,4,Myrtle Beach Classic
+56,Carson Young,-0.505,-2.019,4,Myrtle Beach Classic
+57,Victor Perez,-0.563,-2.253,4,Myrtle Beach Classic
+58,Alejandro Tosti,-0.567,-2.269,4,Myrtle Beach Classic
+59,Chesson Hadley,-0.673,-2.692,4,Myrtle Beach Classic
+60,Justin Suh,-0.682,-2.726,4,Myrtle Beach Classic
+61,S.H. Kim,-0.687,-2.748,4,Myrtle Beach Classic
+62,Davis Riley,-0.695,-2.781,4,Myrtle Beach Classic
+63,Beau Hossler,-0.741,-2.965,4,Myrtle Beach Classic
+64,Sean O'Hair,-0.775,-3.099,4,Myrtle Beach Classic
+65,Anders Albertson,-0.786,-3.142,4,Myrtle Beach Classic
+66,Hayden Buckley,-0.849,-3.395,4,Myrtle Beach Classic
+67,Joel Dahmen,-0.894,-3.575,4,Myrtle Beach Classic
+68,Matt NeSmith,-0.916,-3.664,4,Myrtle Beach Classic
+69,Roger Sloan,-1.376,-5.504,4,Myrtle Beach Classic
+70,William McGirt,-1.491,-5.962,4,Myrtle Beach Classic
+1,Max McGreevy,1.714,6.858,4,THE CJ CUP Byron Nelson
+2,Kelly Kraft,1.587,6.347,4,THE CJ CUP Byron Nelson
+3,Aaron Rai,1.573,6.292,4,THE CJ CUP Byron Nelson
+4,Jake Knapp,1.408,5.631,4,THE CJ CUP Byron Nelson
+5,Si Woo Kim,1.399,5.598,4,THE CJ CUP Byron Nelson
+6,Jorge Campillo,1.149,4.598,4,THE CJ CUP Byron Nelson
+7,Ben Kohles,1.102,4.408,4,THE CJ CUP Byron Nelson
+8,Matt Wallace,1.064,4.255,4,THE CJ CUP Byron Nelson
+9,Tom Hoge,0.969,3.878,4,THE CJ CUP Byron Nelson
+10,Zach Johnson,0.950,3.802,4,THE CJ CUP Byron Nelson
+11,Byeong Hun An,0.929,3.716,4,THE CJ CUP Byron Nelson
+12,Adam Schenk,0.819,3.278,4,THE CJ CUP Byron Nelson
+13,Harrison Endycott,0.806,3.225,4,THE CJ CUP Byron Nelson
+14,Rafael Campos,0.800,3.200,4,THE CJ CUP Byron Nelson
+15,Nico Echavarria,0.799,3.195,4,THE CJ CUP Byron Nelson
+16,Patton Kizzire,0.797,3.190,4,THE CJ CUP Byron Nelson
+17,Ben Griffin,0.792,3.168,4,THE CJ CUP Byron Nelson
+18,Alex Smalley,0.783,3.133,4,THE CJ CUP Byron Nelson
+19,Troy Merritt,0.781,3.126,4,THE CJ CUP Byron Nelson
+20,Dylan Wu,0.752,3.009,4,THE CJ CUP Byron Nelson
+21,Maverick McNealy,0.731,2.924,4,THE CJ CUP Byron Nelson
+22,David Skinns,0.708,2.831,4,THE CJ CUP Byron Nelson
+23,Taiga Semikawa,0.583,2.334,4,THE CJ CUP Byron Nelson
+24,Alex Noren,0.559,2.235,4,THE CJ CUP Byron Nelson
+25,Daniel Berger,0.558,2.234,4,THE CJ CUP Byron Nelson
+26,Adrien Dumont de Chassart,0.554,2.215,4,THE CJ CUP Byron Nelson
+27,Austin Cook,0.519,2.076,4,THE CJ CUP Byron Nelson
+28,Keith Mitchell,0.508,2.034,4,THE CJ CUP Byron Nelson
+29,Justin Lower,0.363,1.454,4,THE CJ CUP Byron Nelson
+30,Brandt Snedeker,0.311,1.245,4,THE CJ CUP Byron Nelson
+31,Adam Scott,0.262,1.050,4,THE CJ CUP Byron Nelson
+32,Aaron Baddeley,0.249,0.998,4,THE CJ CUP Byron Nelson
+33,Carson Young,0.242,0.968,4,THE CJ CUP Byron Nelson
+34,Vince Whaley,0.202,0.809,4,THE CJ CUP Byron Nelson
+35,S.H. Kim,0.190,0.759,4,THE CJ CUP Byron Nelson
+36,Ryan McCormick,0.168,0.673,4,THE CJ CUP Byron Nelson
+37,Kevin Dougherty,0.153,0.614,4,THE CJ CUP Byron Nelson
+38,Taylor Pendrith,0.133,0.531,4,THE CJ CUP Byron Nelson
+39,Joel Dahmen,0.100,0.399,4,THE CJ CUP Byron Nelson
+40,S.Y. Noh,0.099,0.397,4,THE CJ CUP Byron Nelson
+41,Ryo Hisatsune,0.051,0.206,4,THE CJ CUP Byron Nelson
+42,K.H. Lee,0.012,0.050,4,THE CJ CUP Byron Nelson
+43,Henrik Norlander,0.003,0.013,4,THE CJ CUP Byron Nelson
+44,Nick Dunlap,-0.045,-0.179,4,THE CJ CUP Byron Nelson
+45,Kevin Chappell,-0.069,-0.275,4,THE CJ CUP Byron Nelson
+46,Martin Laird,-0.130,-0.519,4,THE CJ CUP Byron Nelson
+47,Sung Kang,-0.224,-0.897,4,THE CJ CUP Byron Nelson
+48,Tom Kim,-0.226,-0.903,4,THE CJ CUP Byron Nelson
+49,Ben Martin,-0.233,-0.932,4,THE CJ CUP Byron Nelson
+50,Luke List,-0.237,-0.948,4,THE CJ CUP Byron Nelson
+51,Min Woo Lee,-0.251,-1.004,4,THE CJ CUP Byron Nelson
+52,Andrew Novak,-0.255,-1.018,4,THE CJ CUP Byron Nelson
+53,Scott Piercy,-0.304,-1.214,4,THE CJ CUP Byron Nelson
+54,Hayden Buckley,-0.333,-1.332,4,THE CJ CUP Byron Nelson
+55,Chris Gotterup,-0.347,-1.388,4,THE CJ CUP Byron Nelson
+56,Mackenzie Hughes,-0.539,-2.154,4,THE CJ CUP Byron Nelson
+57,Mark Hubbard,-0.590,-2.361,4,THE CJ CUP Byron Nelson
+58,Stephan Jaeger,-0.593,-2.371,4,THE CJ CUP Byron Nelson
+59,Beau Hossler,-0.649,-2.595,4,THE CJ CUP Byron Nelson
+60,Jason Day,-0.665,-2.660,4,THE CJ CUP Byron Nelson
+61,Kevin Tway,-0.685,-2.738,4,THE CJ CUP Byron Nelson
+62,Kris Kim,-0.693,-2.770,4,THE CJ CUP Byron Nelson
+63,Tom Whitney,-1.024,-4.096,4,THE CJ CUP Byron Nelson
+64,Sam Stevens,-1.176,-4.705,4,THE CJ CUP Byron Nelson
+65,Davis Riley,-1.296,-5.183,4,THE CJ CUP Byron Nelson
+66,Tyson Alexander,-2.294,-9.177,4,THE CJ CUP Byron Nelson
+1,Scottie Scheffler,1.725,6.898,4,RBC Heritage
+2,Akshay Bhatia,1.430,5.719,4,RBC Heritage
+3,Sahith Theegala,1.213,4.851,4,RBC Heritage
+4,Tony Finau,1.091,4.362,4,RBC Heritage
+5,Patrick Cantlay,1.044,4.174,4,RBC Heritage
+6,Matthieu Pavon,1.038,4.152,4,RBC Heritage
+7,Keegan Bradley,1.023,4.092,4,RBC Heritage
+8,Sepp Straka,0.895,3.579,4,RBC Heritage
+9,Seamus Power,0.789,3.154,4,RBC Heritage
+10,Erik van Rooyen,0.779,3.114,4,RBC Heritage
+11,Matt Fitzpatrick,0.740,2.958,4,RBC Heritage
+12,Ludvig Åberg,0.706,2.823,4,RBC Heritage
+13,Chris Kirk,0.678,2.712,4,RBC Heritage
+14,Russell Henley,0.633,2.533,4,RBC Heritage
+15,Tom Kim,0.627,2.506,4,RBC Heritage
+16,Shane Lowry,0.596,2.383,4,RBC Heritage
+17,Will Zalatoris,0.573,2.292,4,RBC Heritage
+18,Rickie Fowler,0.541,2.163,4,RBC Heritage
+19,Lucas Glover,0.538,2.151,4,RBC Heritage
+20,Byeong Hun An,0.534,2.134,4,RBC Heritage
+21,Andrew Putnam,0.429,1.715,4,RBC Heritage
+22,Jake Knapp,0.427,1.709,4,RBC Heritage
+23,Brice Garnett,0.408,1.631,4,RBC Heritage
+24,Justin Thomas,0.339,1.356,4,RBC Heritage
+25,Kurt Kitayama,0.316,1.262,4,RBC Heritage
+26,Adam Schenk,0.262,1.046,4,RBC Heritage
+27,Si Woo Kim,0.237,0.948,4,RBC Heritage
+28,Corey Conners,0.172,0.686,4,RBC Heritage
+29,Brendon Todd,0.166,0.663,4,RBC Heritage
+30,Wyndham Clark,0.082,0.327,4,RBC Heritage
+31,Adam Hadwin,0.078,0.310,4,RBC Heritage
+32,Tom Hoge,0.034,0.136,4,RBC Heritage
+33,Patrick Rodgers,-0.015,-0.062,4,RBC Heritage
+34,Xander Schauffele,-0.061,-0.244,4,RBC Heritage
+35,Sam Burns,-0.073,-0.292,4,RBC Heritage
+36,Stephan Jaeger,-0.091,-0.364,4,RBC Heritage
+37,Max Homa,-0.112,-0.450,4,RBC Heritage
+38,Sungjae Im,-0.122,-0.489,4,RBC Heritage
+39,Eric Cole,-0.177,-0.707,4,RBC Heritage
+40,Jordan Spieth,-0.199,-0.795,4,RBC Heritage
+41,Nick Taylor,-0.226,-0.905,4,RBC Heritage
+42,Thomas Detry,-0.269,-1.075,4,RBC Heritage
+43,Rory McIlroy,-0.277,-1.109,4,RBC Heritage
+44,Grayson Murray,-0.280,-1.119,4,RBC Heritage
+45,Adam Svensson,-0.287,-1.148,4,RBC Heritage
+46,Alejandro Tosti,-0.289,-1.157,4,RBC Heritage
+47,Lee Hodges,-0.292,-1.167,4,RBC Heritage
+48,Gary Woodland,-0.300,-1.199,4,RBC Heritage
+49,Cam Davis,-0.368,-1.471,4,RBC Heritage
+50,J.T. Poston,-0.447,-1.788,4,RBC Heritage
+51,Brian Harman,-0.524,-2.098,4,RBC Heritage
+52,Erik Barnes,-0.526,-2.106,4,RBC Heritage
+53,Denny McCarthy,-0.579,-2.315,4,RBC Heritage
+54,Austin Eckroat,-0.586,-2.346,4,RBC Heritage
+55,Cameron Young,-0.608,-2.434,4,RBC Heritage
+56,Webb Simpson,-0.628,-2.511,4,RBC Heritage
+57,Chandler Phillips,-0.641,-2.565,4,RBC Heritage
+58,Emiliano Grillo,-0.662,-2.650,4,RBC Heritage
+59,Christiaan Bezuidenhout,-0.738,-2.954,4,RBC Heritage
+60,Collin Morikawa,-0.760,-3.039,4,RBC Heritage
+61,Harris English,-0.835,-3.341,4,RBC Heritage
+62,Mackenzie Hughes,-0.844,-3.378,4,RBC Heritage
+63,Jason Day,-0.856,-3.424,4,RBC Heritage
+64,Kevin Kisner,-1.001,-4.005,4,RBC Heritage
+65,Peter Malnati,-1.072,-4.290,4,RBC Heritage
+66,Justin Rose,-1.073,-4.291,4,RBC Heritage
+67,Taylor Moore,-1.175,-4.702,4,RBC Heritage
+68,Tommy Fleetwood,-1.359,-5.435,4,RBC Heritage
+69,Nick Dunlap,-1.783,-7.134,4,RBC Heritage
+1,Akshay Bhatia,2.044,8.178,4,Valero Texas Open
+2,Russell Henley,1.969,7.877,4,Valero Texas Open
+3,Rory McIlroy,1.851,7.404,4,Valero Texas Open
+4,Corey Conners,1.693,6.771,4,Valero Texas Open
+5,Lucas Glover,1.644,6.578,4,Valero Texas Open
+6,Kevin Yu,1.587,6.349,4,Valero Texas Open
+7,Denny McCarthy,1.401,5.606,4,Valero Texas Open
+8,Andrew Putnam,1.320,5.279,4,Valero Texas Open
+9,Lanto Griffin,1.307,5.228,4,Valero Texas Open
+10,Austin Eckroat,1.294,5.175,4,Valero Texas Open
+11,Adam Svensson,1.237,4.949,4,Valero Texas Open
+12,Martin Laird,1.222,4.889,4,Valero Texas Open
+13,Brendon Todd,1.184,4.737,4,Valero Texas Open
+14,Tommy Fleetwood,1.126,4.503,4,Valero Texas Open
+15,Hideki Matsuyama,1.116,4.464,4,Valero Texas Open
+16,Ludvig Åberg,1.060,4.242,4,Valero Texas Open
+17,Nicolai Højgaard,1.046,4.185,4,Valero Texas Open
+18,Jordan Spieth,1.001,4.005,4,Valero Texas Open
+19,Thorbjørn Olesen,0.931,3.725,4,Valero Texas Open
+20,Andrew Novak,0.915,3.659,4,Valero Texas Open
+21,Vince Whaley,0.910,3.640,4,Valero Texas Open
+22,C.T. Pan,0.903,3.612,4,Valero Texas Open
+23,Harry Hall,0.833,3.331,4,Valero Texas Open
+24,Alex Noren,0.827,3.308,4,Valero Texas Open
+25,Nick Hardy,0.806,3.224,4,Valero Texas Open
+26,Robby Shelton,0.697,2.788,4,Valero Texas Open
+27,Adam Schenk,0.691,2.763,4,Valero Texas Open
+28,Chan Kim,0.666,2.663,4,Valero Texas Open
+29,Justin Lower,0.610,2.439,4,Valero Texas Open
+30,Ben Martin,0.589,2.357,4,Valero Texas Open
+31,Bronson Burgoon,0.575,2.300,4,Valero Texas Open
+32,Dylan Wu,0.535,2.142,4,Valero Texas Open
+33,Victor Perez,0.423,1.694,4,Valero Texas Open
+34,Nate Lashley,0.422,1.689,4,Valero Texas Open
+35,Mark Hubbard,0.418,1.671,4,Valero Texas Open
+36,Maverick McNealy,0.394,1.575,4,Valero Texas Open
+37,Charley Hoffman,0.359,1.436,4,Valero Texas Open
+38,Mac Meissner,0.336,1.346,4,Valero Texas Open
+39,Josh Teater,0.309,1.237,4,Valero Texas Open
+40,Keith Mitchell,0.305,1.222,4,Valero Texas Open
+41,Ryan Moore,0.223,0.894,4,Valero Texas Open
+42,Tyson Alexander,0.207,0.828,4,Valero Texas Open
+43,Kevin Kisner,0.204,0.818,4,Valero Texas Open
+44,Ben Griffin,0.192,0.770,4,Valero Texas Open
+45,Max Homa,0.154,0.616,4,Valero Texas Open
+46,Tyler Duncan,0.153,0.612,4,Valero Texas Open
+47,Peter Kuest,0.152,0.608,4,Valero Texas Open
+48,J.J. Spaun,0.141,0.566,4,Valero Texas Open
+49,Matt Fitzpatrick,0.122,0.488,4,Valero Texas Open
+50,Ben Kohles,0.105,0.421,4,Valero Texas Open
+51,Joe Highsmith,0.096,0.386,4,Valero Texas Open
+52,Kevin Chappell,0.086,0.343,4,Valero Texas Open
+53,Matti Schmid,0.083,0.334,4,Valero Texas Open
+54,Aaron Rai,0.078,0.313,4,Valero Texas Open
+55,Aaron Baddeley,-0.006,-0.025,4,Valero Texas Open
+56,Rico Hoey,-0.017,-0.066,4,Valero Texas Open
+57,Stewart Cink,-0.018,-0.073,4,Valero Texas Open
+58,S.H. Kim,-0.024,-0.096,4,Valero Texas Open
+59,Parker Coody,-0.074,-0.296,4,Valero Texas Open
+60,Bud Cauley,-0.146,-0.585,4,Valero Texas Open
+61,Vincent Norrman,-0.186,-0.743,4,Valero Texas Open
+61,Sam Stevens,-0.186,-0.742,4,Valero Texas Open
+63,Brandt Snedeker,-0.212,-0.846,4,Valero Texas Open
+64,Christiaan Bezuidenhout,-0.298,-1.191,4,Valero Texas Open
+65,Ryan McCormick,-0.326,-1.302,4,Valero Texas Open
+66,Tom Whitney,-0.342,-1.367,4,Valero Texas Open
+67,Adam Scott,-0.345,-1.378,4,Valero Texas Open
+68,Ryo Hisatsune,-0.399,-1.596,4,Valero Texas Open
+69,Carl Yuan,-0.417,-1.669,4,Valero Texas Open
+70,Collin Morikawa,-0.514,-2.056,4,Valero Texas Open
+71,Hayden Springer,-0.581,-2.323,4,Valero Texas Open
+72,Kevin Streelman,-0.590,-2.359,4,Valero Texas Open
+73,Chez Reavie,-0.658,-2.633,4,Valero Texas Open
+74,Pierceson Coody,-0.660,-2.641,4,Valero Texas Open
+75,David Lipsky,-0.673,-2.693,4,Valero Texas Open
+76,Garrick Higgo,-0.716,-2.864,4,Valero Texas Open
+77,Webb Simpson,-0.717,-2.869,4,Valero Texas Open
+78,Brian Harman,-0.751,-3.005,4,Valero Texas Open
+79,Alexander Björk,-0.889,-3.555,4,Valero Texas Open
+80,Ben Silverman,-1.089,-4.354,4,Valero Texas Open
+81,Davis Thompson,-1.149,-4.595,4,Valero Texas Open
+82,Beau Hossler,-1.484,-5.934,4,Valero Texas Open
+1,Gary Woodland,2.198,8.792,4,Texas Children's Houston Open
+2,Akshay Bhatia,1.981,7.925,4,Texas Children's Houston Open
+3,Scottie Scheffler,1.783,7.131,4,Texas Children's Houston Open
+4,J.J. Spaun,1.551,6.206,4,Texas Children's Houston Open
+5,Sam Ryder,1.350,5.401,4,Texas Children's Houston Open
+6,Davis Riley,1.345,5.381,4,Texas Children's Houston Open
+7,Bud Cauley,1.176,4.704,4,Texas Children's Houston Open
+8,Ryan Moore,1.158,4.632,4,Texas Children's Houston Open
+9,Adam Svensson,1.093,4.373,4,Texas Children's Houston Open
+10,Aaron Rai,1.003,4.014,4,Texas Children's Houston Open
+11,Chan Kim,0.957,3.829,4,Texas Children's Houston Open
+12,Joe Highsmith,0.932,3.730,4,Texas Children's Houston Open
+13,Greyson Sigg,0.889,3.558,4,Texas Children's Houston Open
+14,Mark Hubbard,0.861,3.443,4,Texas Children's Houston Open
+15,Victor Perez,0.814,3.257,4,Texas Children's Houston Open
+16,Si Woo Kim,0.807,3.228,4,Texas Children's Houston Open
+17,Chandler Phillips,0.804,3.217,4,Texas Children's Houston Open
+18,Mackenzie Hughes,0.784,3.136,4,Texas Children's Houston Open
+19,Alex Noren,0.776,3.104,4,Texas Children's Houston Open
+20,Nate Lashley,0.761,3.044,4,Texas Children's Houston Open
+21,Sahith Theegala,0.749,2.998,4,Texas Children's Houston Open
+22,Kurt Kitayama,0.744,2.977,4,Texas Children's Houston Open
+23,Tony Finau,0.728,2.911,4,Texas Children's Houston Open
+24,Nick Dunlap,0.659,2.638,4,Texas Children's Houston Open
+25,Alejandro Tosti,0.647,2.589,4,Texas Children's Houston Open
+26,Jhonattan Vegas,0.618,2.474,4,Texas Children's Houston Open
+27,Pierceson Coody,0.534,2.138,4,Texas Children's Houston Open
+28,Tom Hoge,0.498,1.991,4,Texas Children's Houston Open
+29,Dylan Wu,0.481,1.924,4,Texas Children's Houston Open
+30,Jacob Bridgeman,0.473,1.894,4,Texas Children's Houston Open
+31,Will Zalatoris,0.457,1.830,4,Texas Children's Houston Open
+32,Justin Lower,0.452,1.810,4,Texas Children's Houston Open
+33,Austin Cook,0.449,1.796,4,Texas Children's Houston Open
+34,Wilson Furr,0.432,1.727,4,Texas Children's Houston Open
+35,Beau Hossler,0.427,1.708,4,Texas Children's Houston Open
+36,Lanto Griffin,0.395,1.580,4,Texas Children's Houston Open
+37,Tyson Alexander,0.367,1.470,4,Texas Children's Houston Open
+38,Stephan Jaeger,0.360,1.442,4,Texas Children's Houston Open
+39,Cam Davis,0.343,1.372,4,Texas Children's Houston Open
+40,Roger Sloan,0.334,1.335,4,Texas Children's Houston Open
+41,Billy Horschel,0.296,1.186,4,Texas Children's Houston Open
+42,K.H. Lee,0.289,1.158,4,Texas Children's Houston Open
+43,Kevin Dougherty,0.209,0.835,4,Texas Children's Houston Open
+44,Thomas Detry,0.206,0.823,4,Texas Children's Houston Open
+45,Ben Griffin,0.183,0.733,4,Texas Children's Houston Open
+46,Taylor Pendrith,0.181,0.723,4,Texas Children's Houston Open
+47,David Skinns,0.136,0.543,4,Texas Children's Houston Open
+48,S.H. Kim,0.134,0.536,4,Texas Children's Houston Open
+49,Ben Silverman,0.127,0.508,4,Texas Children's Houston Open
+50,Callum Tarren,0.124,0.495,4,Texas Children's Houston Open
+51,Garrick Higgo,0.087,0.348,4,Texas Children's Houston Open
+52,Martin Laird,0.059,0.238,4,Texas Children's Houston Open
+53,Raul Pereda,0.038,0.153,4,Texas Children's Houston Open
+54,Matti Schmid,0.024,0.095,4,Texas Children's Houston Open
+55,Michael Kim,0.022,0.088,4,Texas Children's Houston Open
+56,Andrew Novak,0.007,0.030,4,Texas Children's Houston Open
+57,Erik Barnes,0.003,0.011,4,Texas Children's Houston Open
+58,Scott Gutschewski,-0.059,-0.237,4,Texas Children's Houston Open
+59,Daniel Berger,-0.102,-0.409,4,Texas Children's Houston Open
+60,Max Greyserman,-0.175,-0.699,4,Texas Children's Houston Open
+61,Chad Ramey,-0.180,-0.721,4,Texas Children's Houston Open
+62,Adam Long,-0.219,-0.877,4,Texas Children's Houston Open
+63,Cameron Champ,-0.258,-1.033,4,Texas Children's Houston Open
+64,Harrison Endycott,-0.263,-1.053,4,Texas Children's Houston Open
+65,Davis Thompson,-0.266,-1.062,4,Texas Children's Houston Open
+66,Peter Malnati,-0.272,-1.089,4,Texas Children's Houston Open
+67,Emilio Gonzalez,-0.336,-1.344,4,Texas Children's Houston Open
+68,Vincent Norrman,-0.361,-1.445,4,Texas Children's Houston Open
+69,Wyndham Clark,-0.395,-1.578,4,Texas Children's Houston Open
+70,Ryan Brehm,-0.428,-1.712,4,Texas Children's Houston Open
+71,Taylor Moore,-0.488,-1.950,4,Texas Children's Houston Open
+72,James Hahn,-0.512,-2.046,4,Texas Children's Houston Open
+73,Sam Stevens,-0.587,-2.349,4,Texas Children's Houston Open
+74,Ryan Fox,-0.618,-2.470,4,Texas Children's Houston Open
+75,Patrick Rodgers,-0.687,-2.747,4,Texas Children's Houston Open
+76,Nick Hardy,-0.694,-2.775,4,Texas Children's Houston Open
+77,Ryan Palmer,-0.746,-2.983,4,Texas Children's Houston Open
+78,Adrien Dumont de Chassart,-0.753,-3.011,4,Texas Children's Houston Open
+79,Joseph Bramlett,-0.853,-3.412,4,Texas Children's Houston Open
+79,Harry Hall,-0.853,-3.411,4,Texas Children's Houston Open
+81,Aaron Baddeley,-0.917,-3.669,4,Texas Children's Houston Open
+82,Sam Bennett,-1.321,-5.284,4,Texas Children's Houston Open
+83,Chris Gotterup,-1.426,-5.703,4,Texas Children's Houston Open
+1,Keith Mitchell,2.295,9.181,4,Valspar Championship
+2,Ryan Moore,2.253,9.014,4,Valspar Championship
+3,Joel Dahmen,2.032,8.127,4,Valspar Championship
+4,Stewart Cink,1.837,7.350,4,Valspar Championship
+5,Robby Shelton,1.593,6.372,4,Valspar Championship
+6,Taylor Moore,1.387,5.550,4,Valspar Championship
+7,Eric Cole,1.316,5.266,4,Valspar Championship
+8,Andrew Novak,1.274,5.096,4,Valspar Championship
+9,Chandler Phillips,1.258,5.033,4,Valspar Championship
+10,Chez Reavie,1.238,4.951,4,Valspar Championship
+11,Ben Martin,1.163,4.653,4,Valspar Championship
+11,Scott Stallings,1.163,4.652,4,Valspar Championship
+13,Parker Coody,1.073,4.291,4,Valspar Championship
+14,Kevin Streelman,1.068,4.272,4,Valspar Championship
+15,Dylan Wu,0.952,3.807,4,Valspar Championship
+16,Joseph Bramlett,0.928,3.712,4,Valspar Championship
+17,Justin Thomas,0.888,3.554,4,Valspar Championship
+18,Carl Yuan,0.770,3.080,4,Valspar Championship
+19,Billy Horschel,0.758,3.031,4,Valspar Championship
+20,Adam Svensson,0.633,2.531,4,Valspar Championship
+21,Ryan Palmer,0.625,2.500,4,Valspar Championship
+22,Cameron Young,0.620,2.480,4,Valspar Championship
+23,Peter Malnati,0.614,2.456,4,Valspar Championship
+24,Christiaan Bezuidenhout,0.567,2.270,4,Valspar Championship
+25,Michael Kim,0.550,2.201,4,Valspar Championship
+26,Nick Taylor,0.548,2.192,4,Valspar Championship
+27,Thomas Detry,0.529,2.117,4,Valspar Championship
+28,Mac Meissner,0.527,2.110,4,Valspar Championship
+29,Max Greyserman,0.508,2.032,4,Valspar Championship
+30,Seamus Power,0.488,1.954,4,Valspar Championship
+31,David Skinns,0.483,1.934,4,Valspar Championship
+32,Xander Schauffele,0.477,1.908,4,Valspar Championship
+33,Matt Wallace,0.440,1.761,4,Valspar Championship
+34,Brendon Todd,0.412,1.648,4,Valspar Championship
+35,Kevin Roy,0.282,1.129,4,Valspar Championship
+36,Robert MacIntyre,0.254,1.016,4,Valspar Championship
+37,Adam Hadwin,0.253,1.014,4,Valspar Championship
+38,Justin Suh,0.252,1.010,4,Valspar Championship
+39,Jorge Campillo,0.251,1.006,4,Valspar Championship
+40,Aaron Baddeley,0.244,0.976,4,Valspar Championship
+41,Rico Hoey,0.153,0.614,4,Valspar Championship
+42,Hayden Buckley,0.096,0.383,4,Valspar Championship
+43,Lucas Glover,0.060,0.242,4,Valspar Championship
+44,S.H. Kim,0.053,0.212,4,Valspar Championship
+45,Ben Griffin,0.034,0.136,4,Valspar Championship
+46,Ryo Hisatsune,0.000,0.001,4,Valspar Championship
+47,Harry Hall,-0.001,-0.005,4,Valspar Championship
+47,Mackenzie Hughes,-0.001,-0.002,4,Valspar Championship
+49,Akshay Bhatia,-0.007,-0.028,4,Valspar Championship
+50,Maverick McNealy,-0.015,-0.058,4,Valspar Championship
+51,Vince Whaley,-0.079,-0.315,4,Valspar Championship
+52,Kevin Dougherty,-0.098,-0.392,4,Valspar Championship
+53,Tom Whitney,-0.103,-0.413,4,Valspar Championship
+54,Matti Schmid,-0.155,-0.618,4,Valspar Championship
+55,Greyson Sigg,-0.176,-0.702,4,Valspar Championship
+56,Webb Simpson,-0.187,-0.749,4,Valspar Championship
+57,Lee Hodges,-0.190,-0.761,4,Valspar Championship
+58,Doug Ghim,-0.236,-0.942,4,Valspar Championship
+59,Sami Valimaki,-0.273,-1.092,4,Valspar Championship
+60,Sam Ryder,-0.330,-1.319,4,Valspar Championship
+61,Cameron Champ,-0.377,-1.507,4,Valspar Championship
+61,K.H. Lee,-0.377,-1.508,4,Valspar Championship
+63,Chan Kim,-0.446,-1.784,4,Valspar Championship
+64,Alejandro Tosti,-0.488,-1.952,4,Valspar Championship
+65,Carson Young,-0.633,-2.530,4,Valspar Championship
+66,Ryan Brehm,-0.694,-2.774,4,Valspar Championship
+67,Bronson Burgoon,-0.720,-2.878,4,Valspar Championship
+68,Adam Schenk,-0.726,-2.902,4,Valspar Championship
+69,Sam Stevens,-0.749,-2.997,4,Valspar Championship
+70,Roger Sloan,-0.829,-3.315,4,Valspar Championship
+71,Alexander Björk,-0.859,-3.436,4,Valspar Championship
+72,Fred Biondi,-0.882,-3.527,4,Valspar Championship
+73,Callum Tarren,-1.215,-4.859,4,Valspar Championship
+74,Hayden Springer,-1.232,-4.929,4,Valspar Championship
+75,Chris Gotterup,-1.316,-5.264,4,Valspar Championship
+76,Norman Xiong,-1.767,-7.067,4,Valspar Championship
+77,Matt Kuchar,-1.839,-7.357,4,Valspar Championship
+1,Brian Harman,2.252,9.009,4,THE PLAYERS Championship
+2,Mark Hubbard,2.060,8.239,4,THE PLAYERS Championship
+3,Nate Lashley,1.911,7.644,4,THE PLAYERS Championship
+4,Christiaan Bezuidenhout,1.744,6.976,4,THE PLAYERS Championship
+5,Cameron Young,1.689,6.757,4,THE PLAYERS Championship
+6,Hideki Matsuyama,1.609,6.436,4,THE PLAYERS Championship
+7,Scottie Scheffler,1.582,6.326,4,THE PLAYERS Championship
+8,Ryan Moore,1.520,6.080,4,THE PLAYERS Championship
+9,Ludvig Åberg,1.440,5.759,4,THE PLAYERS Championship
+10,C.T. Pan,1.427,5.709,4,THE PLAYERS Championship
+11,Shane Lowry,1.412,5.647,4,THE PLAYERS Championship
+12,Wyndham Clark,1.396,5.585,4,THE PLAYERS Championship
+13,Xander Schauffele,1.385,5.539,4,THE PLAYERS Championship
+14,Joel Dahmen,1.280,5.119,4,THE PLAYERS Championship
+15,Tom Hoge,1.279,5.116,4,THE PLAYERS Championship
+16,Sepp Straka,1.130,4.518,4,THE PLAYERS Championship
+17,Matt Fitzpatrick,1.102,4.406,4,THE PLAYERS Championship
+18,Nick Taylor,1.091,4.363,4,THE PLAYERS Championship
+19,Andrew Putnam,1.038,4.150,4,THE PLAYERS Championship
+20,Rory McIlroy,1.036,4.145,4,THE PLAYERS Championship
+21,Dylan Wu,1.012,4.049,4,THE PLAYERS Championship
+22,Sahith Theegala,0.959,3.835,4,THE PLAYERS Championship
+23,Kurt Kitayama,0.854,3.416,4,THE PLAYERS Championship
+24,David Lipsky,0.813,3.253,4,THE PLAYERS Championship
+25,Grayson Murray,0.785,3.139,4,THE PLAYERS Championship
+26,Zac Blair,0.744,2.974,4,THE PLAYERS Championship
+27,Corey Conners,0.739,2.957,4,THE PLAYERS Championship
+28,Austin Eckroat,0.735,2.939,4,THE PLAYERS Championship
+29,Harris English,0.685,2.738,4,THE PLAYERS Championship
+30,Aaron Rai,0.666,2.664,4,THE PLAYERS Championship
+31,Max Homa,0.649,2.597,4,THE PLAYERS Championship
+31,Ben Martin,0.649,2.597,4,THE PLAYERS Championship
+33,Tony Finau,0.499,1.996,4,THE PLAYERS Championship
+34,Matt NeSmith,0.482,1.926,4,THE PLAYERS Championship
+35,Seamus Power,0.454,1.814,4,THE PLAYERS Championship
+36,Taylor Moore,0.425,1.700,4,THE PLAYERS Championship
+37,Doug Ghim,0.365,1.458,4,THE PLAYERS Championship
+38,Jimmy Stanger,0.255,1.020,4,THE PLAYERS Championship
+39,Si Woo Kim,0.253,1.010,4,THE PLAYERS Championship
+40,J.T. Poston,0.242,0.969,4,THE PLAYERS Championship
+41,Matti Schmid,0.221,0.885,4,THE PLAYERS Championship
+42,Mackenzie Hughes,0.215,0.859,4,THE PLAYERS Championship
+43,Viktor Hovland,0.189,0.757,4,THE PLAYERS Championship
+44,Lee Hodges,0.145,0.578,4,THE PLAYERS Championship
+45,Keith Mitchell,0.121,0.485,4,THE PLAYERS Championship
+46,Sam Ryder,0.099,0.394,4,THE PLAYERS Championship
+47,Adam Schenk,0.096,0.385,4,THE PLAYERS Championship
+48,Alex Noren,0.070,0.280,4,THE PLAYERS Championship
+49,Sam Burns,0.064,0.257,4,THE PLAYERS Championship
+50,Peter Malnati,0.032,0.129,4,THE PLAYERS Championship
+51,Taylor Montgomery,0.018,0.070,4,THE PLAYERS Championship
+52,Denny McCarthy,-0.080,-0.322,4,THE PLAYERS Championship
+53,Sungjae Im,-0.146,-0.585,4,THE PLAYERS Championship
+54,Emiliano Grillo,-0.176,-0.704,4,THE PLAYERS Championship
+55,Francesco Molinari,-0.214,-0.858,4,THE PLAYERS Championship
+56,Chan Kim,-0.226,-0.905,4,THE PLAYERS Championship
+57,Jake Knapp,-0.282,-1.128,4,THE PLAYERS Championship
+58,Maverick McNealy,-0.296,-1.185,4,THE PLAYERS Championship
+59,Chris Kirk,-0.360,-1.439,4,THE PLAYERS Championship
+60,Brice Garnett,-0.379,-1.517,4,THE PLAYERS Championship
+61,Jason Day,-0.444,-1.777,4,THE PLAYERS Championship
+62,Tyler Duncan,-0.602,-2.407,4,THE PLAYERS Championship
+63,Thomas Detry,-0.613,-2.451,4,THE PLAYERS Championship
+64,Collin Morikawa,-0.660,-2.642,4,THE PLAYERS Championship
+65,J.J. Spaun,-0.676,-2.705,4,THE PLAYERS Championship
+66,Gary Woodland,-0.787,-3.149,4,THE PLAYERS Championship
+67,Tommy Fleetwood,-0.835,-3.339,4,THE PLAYERS Championship
+68,Rickie Fowler,-0.883,-3.533,4,THE PLAYERS Championship
+69,Sami Valimaki,-0.998,-3.991,4,THE PLAYERS Championship
+70,Min Woo Lee,-1.088,-4.354,4,THE PLAYERS Championship
+71,Martin Laird,-1.094,-4.375,4,THE PLAYERS Championship
+72,Adam Scott,-1.526,-6.104,4,THE PLAYERS Championship
+73,Patrick Cantlay,-1.608,-6.433,4,THE PLAYERS Championship
+1,Tom Hoge,2.027,8.109,4,Arnold Palmer Invitational presented by Mastercard
+2,Corey Conners,1.497,5.987,4,Arnold Palmer Invitational presented by Mastercard
+3,Brian Harman,1.383,5.532,4,Arnold Palmer Invitational presented by Mastercard
+4,Andrew Putnam,1.199,4.798,4,Arnold Palmer Invitational presented by Mastercard
+5,Si Woo Kim,1.192,4.767,4,Arnold Palmer Invitational presented by Mastercard
+6,Cam Davis,1.059,4.238,4,Arnold Palmer Invitational presented by Mastercard
+7,Shane Lowry,1.034,4.136,4,Arnold Palmer Invitational presented by Mastercard
+8,Austin Eckroat,1.019,4.076,4,Arnold Palmer Invitational presented by Mastercard
+9,Cameron Young,0.924,3.698,4,Arnold Palmer Invitational presented by Mastercard
+10,Will Zalatoris,0.857,3.427,4,Arnold Palmer Invitational presented by Mastercard
+11,Lee Hodges,0.830,3.320,4,Arnold Palmer Invitational presented by Mastercard
+12,Scottie Scheffler,0.815,3.262,4,Arnold Palmer Invitational presented by Mastercard
+13,Hideki Matsuyama,0.740,2.959,4,Arnold Palmer Invitational presented by Mastercard
+14,Grayson Murray,0.730,2.920,4,Arnold Palmer Invitational presented by Mastercard
+15,Wyndham Clark,0.702,2.809,4,Arnold Palmer Invitational presented by Mastercard
+16,Min Woo Lee,0.653,2.614,4,Arnold Palmer Invitational presented by Mastercard
+17,Justin Thomas,0.638,2.553,4,Arnold Palmer Invitational presented by Mastercard
+18,Justin Lower,0.592,2.370,4,Arnold Palmer Invitational presented by Mastercard
+19,Jake Knapp,0.573,2.293,4,Arnold Palmer Invitational presented by Mastercard
+20,Lucas Glover,0.536,2.146,4,Arnold Palmer Invitational presented by Mastercard
+21,Harris English,0.495,1.981,4,Arnold Palmer Invitational presented by Mastercard
+22,Sungjae Im,0.452,1.807,4,Arnold Palmer Invitational presented by Mastercard
+23,Emiliano Grillo,0.450,1.801,4,Arnold Palmer Invitational presented by Mastercard
+24,Viktor Hovland,0.409,1.636,4,Arnold Palmer Invitational presented by Mastercard
+25,Adam Hadwin,0.349,1.397,4,Arnold Palmer Invitational presented by Mastercard
+26,Mackenzie Hughes,0.338,1.352,4,Arnold Palmer Invitational presented by Mastercard
+27,Seamus Power,0.287,1.147,4,Arnold Palmer Invitational presented by Mastercard
+28,Nick Taylor,0.215,0.861,4,Arnold Palmer Invitational presented by Mastercard
+29,Rickie Fowler,0.209,0.835,4,Arnold Palmer Invitational presented by Mastercard
+30,Eric Cole,0.200,0.800,4,Arnold Palmer Invitational presented by Mastercard
+31,Erik van Rooyen,0.142,0.568,4,Arnold Palmer Invitational presented by Mastercard
+32,Patrick Rodgers,0.097,0.390,4,Arnold Palmer Invitational presented by Mastercard
+33,Byeong Hun An,0.083,0.331,4,Arnold Palmer Invitational presented by Mastercard
+34,Russell Henley,0.058,0.234,4,Arnold Palmer Invitational presented by Mastercard
+35,Jordan Spieth,0.002,0.009,4,Arnold Palmer Invitational presented by Mastercard
+36,Max Homa,-0.013,-0.053,4,Arnold Palmer Invitational presented by Mastercard
+37,Sam Burns,-0.034,-0.137,4,Arnold Palmer Invitational presented by Mastercard
+38,Stephan Jaeger,-0.049,-0.194,4,Arnold Palmer Invitational presented by Mastercard
+39,Denny McCarthy,-0.100,-0.398,4,Arnold Palmer Invitational presented by Mastercard
+40,Tom Kim,-0.195,-0.780,4,Arnold Palmer Invitational presented by Mastercard
+41,J.T. Poston,-0.199,-0.796,4,Arnold Palmer Invitational presented by Mastercard
+42,Chris Kirk,-0.295,-1.178,4,Arnold Palmer Invitational presented by Mastercard
+43,Webb Simpson,-0.355,-1.421,4,Arnold Palmer Invitational presented by Mastercard
+44,Sahith Theegala,-0.372,-1.488,4,Arnold Palmer Invitational presented by Mastercard
+45,Keegan Bradley,-0.441,-1.765,4,Arnold Palmer Invitational presented by Mastercard
+46,C.T. Pan,-0.513,-2.052,4,Arnold Palmer Invitational presented by Mastercard
+47,Brendon Todd,-0.524,-2.095,4,Arnold Palmer Invitational presented by Mastercard
+48,Nick Dunlap,-0.527,-2.108,4,Arnold Palmer Invitational presented by Mastercard
+49,Xander Schauffele,-0.552,-2.209,4,Arnold Palmer Invitational presented by Mastercard
+50,Luke List,-0.562,-2.247,4,Arnold Palmer Invitational presented by Mastercard
+51,Ludvig Åberg,-0.869,-3.477,4,Arnold Palmer Invitational presented by Mastercard
+52,Patrick Cantlay,-0.889,-3.556,4,Arnold Palmer Invitational presented by Mastercard
+53,Matthieu Pavon,-0.942,-3.768,4,Arnold Palmer Invitational presented by Mastercard
+54,Taylor Moore,-1.004,-4.014,4,Arnold Palmer Invitational presented by Mastercard
+55,Rory McIlroy,-1.068,-4.272,4,Arnold Palmer Invitational presented by Mastercard
+56,Jason Day,-1.216,-4.865,4,Arnold Palmer Invitational presented by Mastercard
+57,Christiaan Bezuidenhout,-1.734,-6.935,4,Arnold Palmer Invitational presented by Mastercard
+58,Sepp Straka,-2.090,-8.361,4,Arnold Palmer Invitational presented by Mastercard
+1,Chris Gotterup,1.754,7.018,4,Cognizant Classic in The Palm Beaches
+2,Shane Lowry,1.579,6.315,4,Cognizant Classic in The Palm Beaches
+3,Jacob Bridgeman,1.531,6.125,4,Cognizant Classic in The Palm Beaches
+4,Min Woo Lee,1.505,6.020,4,Cognizant Classic in The Palm Beaches
+5,Austin Eckroat,1.459,5.835,4,Cognizant Classic in The Palm Beaches
+6,Alex Noren,1.433,5.734,4,Cognizant Classic in The Palm Beaches
+7,Garrick Higgo,1.386,5.544,4,Cognizant Classic in The Palm Beaches
+8,Peter Malnati,1.229,4.915,4,Cognizant Classic in The Palm Beaches
+9,Tom Hoge,1.152,4.609,4,Cognizant Classic in The Palm Beaches
+10,Kevin Yu,1.063,4.251,4,Cognizant Classic in The Palm Beaches
+11,Ben Silverman,1.049,4.196,4,Cognizant Classic in The Palm Beaches
+12,Ryan Fox,1.023,4.092,4,Cognizant Classic in The Palm Beaches
+13,K.H. Lee,1.011,4.046,4,Cognizant Classic in The Palm Beaches
+14,Rico Hoey,1.006,4.025,4,Cognizant Classic in The Palm Beaches
+15,Troy Merritt,0.985,3.941,4,Cognizant Classic in The Palm Beaches
+16,Corey Conners,0.968,3.874,4,Cognizant Classic in The Palm Beaches
+17,Lucas Glover,0.954,3.815,4,Cognizant Classic in The Palm Beaches
+18,Chris Kirk,0.950,3.802,4,Cognizant Classic in The Palm Beaches
+19,Tyson Alexander,0.899,3.596,4,Cognizant Classic in The Palm Beaches
+20,Vincent Norrman,0.869,3.475,4,Cognizant Classic in The Palm Beaches
+21,Billy Horschel,0.773,3.092,4,Cognizant Classic in The Palm Beaches
+22,Byeong Hun An,0.754,3.016,4,Cognizant Classic in The Palm Beaches
+23,Jake Knapp,0.709,2.838,4,Cognizant Classic in The Palm Beaches
+24,Parker Coody,0.664,2.655,4,Cognizant Classic in The Palm Beaches
+25,Nico Echavarria,0.657,2.630,4,Cognizant Classic in The Palm Beaches
+26,Carson Young,0.603,2.411,4,Cognizant Classic in The Palm Beaches
+27,Jimmy Stanger,0.600,2.401,4,Cognizant Classic in The Palm Beaches
+28,Beau Hossler,0.598,2.394,4,Cognizant Classic in The Palm Beaches
+29,Sam Ryder,0.597,2.388,4,Cognizant Classic in The Palm Beaches
+30,Doug Ghim,0.579,2.316,4,Cognizant Classic in The Palm Beaches
+31,Rory McIlroy,0.542,2.168,4,Cognizant Classic in The Palm Beaches
+32,Keith Mitchell,0.526,2.105,4,Cognizant Classic in The Palm Beaches
+33,Camilo Villegas,0.513,2.052,4,Cognizant Classic in The Palm Beaches
+34,Alexander Björk,0.477,1.907,4,Cognizant Classic in The Palm Beaches
+35,Cameron Young,0.465,1.859,4,Cognizant Classic in The Palm Beaches
+36,Andrew Novak,0.440,1.760,4,Cognizant Classic in The Palm Beaches
+37,Victor Perez,0.381,1.525,4,Cognizant Classic in The Palm Beaches
+38,Nick Dunlap,0.359,1.436,4,Cognizant Classic in The Palm Beaches
+39,Mac Meissner,0.307,1.230,4,Cognizant Classic in The Palm Beaches
+40,Martin Laird,0.299,1.198,4,Cognizant Classic in The Palm Beaches
+41,C.T. Pan,0.251,1.005,4,Cognizant Classic in The Palm Beaches
+42,David Lipsky,0.245,0.982,4,Cognizant Classic in The Palm Beaches
+43,Matthieu Pavon,0.237,0.949,4,Cognizant Classic in The Palm Beaches
+44,Matt Fitzpatrick,0.228,0.912,4,Cognizant Classic in The Palm Beaches
+45,Greyson Sigg,0.213,0.854,4,Cognizant Classic in The Palm Beaches
+46,Davis Thompson,0.178,0.711,4,Cognizant Classic in The Palm Beaches
+47,Erik van Rooyen,0.167,0.668,4,Cognizant Classic in The Palm Beaches
+48,Max Greyserman,0.157,0.628,4,Cognizant Classic in The Palm Beaches
+49,Robert MacIntyre,0.100,0.401,4,Cognizant Classic in The Palm Beaches
+50,David Skinns,0.079,0.318,4,Cognizant Classic in The Palm Beaches
+51,Chan Kim,0.021,0.085,4,Cognizant Classic in The Palm Beaches
+52,Bud Cauley,-0.104,-0.417,4,Cognizant Classic in The Palm Beaches
+53,Rickie Fowler,-0.115,-0.460,4,Cognizant Classic in The Palm Beaches
+54,Zach Johnson,-0.177,-0.708,4,Cognizant Classic in The Palm Beaches
+55,Davis Riley,-0.328,-1.310,4,Cognizant Classic in The Palm Beaches
+56,Chesson Hadley,-0.369,-1.475,4,Cognizant Classic in The Palm Beaches
+57,Joseph Bramlett,-0.445,-1.779,4,Cognizant Classic in The Palm Beaches
+58,J.T. Poston,-0.539,-2.155,4,Cognizant Classic in The Palm Beaches
+59,Taylor Montgomery,-0.631,-2.525,4,Cognizant Classic in The Palm Beaches
+60,Russell Henley,-0.777,-3.106,4,Cognizant Classic in The Palm Beaches
+61,Justin Rose,-0.781,-3.123,4,Cognizant Classic in The Palm Beaches
+62,Jorge Campillo,-0.783,-3.130,4,Cognizant Classic in The Palm Beaches
+63,Maverick McNealy,-0.823,-3.290,4,Cognizant Classic in The Palm Beaches
+64,Chad Ramey,-0.933,-3.731,4,Cognizant Classic in The Palm Beaches
+65,Tom Kim,-1.182,-4.728,4,Cognizant Classic in The Palm Beaches
+66,Mark Hubbard,-1.290,-5.160,4,Cognizant Classic in The Palm Beaches
+67,S.H. Kim,-1.468,-5.870,4,Cognizant Classic in The Palm Beaches
+68,Adam Schenk,-1.593,-6.372,4,Cognizant Classic in The Palm Beaches
+1,Jake Knapp,2.177,8.709,4,Mexico Open at Vidanta
+2,Keith Mitchell,2.015,8.059,4,Mexico Open at Vidanta
+3,Aaron Rai,1.579,6.316,4,Mexico Open at Vidanta
+4,Doug Ghim,1.497,5.989,4,Mexico Open at Vidanta
+5,Austin Eckroat,1.355,5.420,4,Mexico Open at Vidanta
+6,Andrew Novak,1.338,5.353,4,Mexico Open at Vidanta
+7,Tony Finau,1.230,4.920,4,Mexico Open at Vidanta
+8,Chandler Phillips,1.155,4.618,4,Mexico Open at Vidanta
+9,Lanto Griffin,1.136,4.542,4,Mexico Open at Vidanta
+10,Harry Hall,1.101,4.405,4,Mexico Open at Vidanta
+11,Alvaro Ortiz,1.090,4.361,4,Mexico Open at Vidanta
+12,Sami Valimaki,0.992,3.967,4,Mexico Open at Vidanta
+13,Justin Lower,0.966,3.864,4,Mexico Open at Vidanta
+14,Erik van Rooyen,0.916,3.663,4,Mexico Open at Vidanta
+15,Robert MacIntyre,0.870,3.481,4,Mexico Open at Vidanta
+16,Greyson Sigg,0.854,3.414,4,Mexico Open at Vidanta
+17,Jhonattan Vegas,0.851,3.405,4,Mexico Open at Vidanta
+18,Stuart Macdonald,0.835,3.338,4,Mexico Open at Vidanta
+19,Parker Coody,0.707,2.826,4,Mexico Open at Vidanta
+20,Erik Barnes,0.674,2.695,4,Mexico Open at Vidanta
+21,Thorbjørn Olesen,0.653,2.612,4,Mexico Open at Vidanta
+22,Joseph Bramlett,0.619,2.477,4,Mexico Open at Vidanta
+23,Victor Perez,0.609,2.436,4,Mexico Open at Vidanta
+24,Hayden Springer,0.557,2.227,4,Mexico Open at Vidanta
+25,Ryan Moore,0.543,2.171,4,Mexico Open at Vidanta
+26,Emiliano Grillo,0.531,2.123,4,Mexico Open at Vidanta
+27,Chan Kim,0.529,2.115,4,Mexico Open at Vidanta
+28,Henrik Norlander,0.510,2.041,4,Mexico Open at Vidanta
+29,Nico Echavarria,0.485,1.941,4,Mexico Open at Vidanta
+30,Carson Young,0.473,1.891,4,Mexico Open at Vidanta
+31,Jorge Campillo,0.449,1.795,4,Mexico Open at Vidanta
+32,Carl Yuan,0.410,1.638,4,Mexico Open at Vidanta
+33,Davis Thompson,0.407,1.627,4,Mexico Open at Vidanta
+34,Stephan Jaeger,0.400,1.600,4,Mexico Open at Vidanta
+35,Aaron Baddeley,0.388,1.553,4,Mexico Open at Vidanta
+36,Brandon Wu,0.370,1.481,4,Mexico Open at Vidanta
+37,Kevin Dougherty,0.359,1.437,4,Mexico Open at Vidanta
+38,Padraig Harrington,0.358,1.433,4,Mexico Open at Vidanta
+39,Rafael Campos,0.319,1.274,4,Mexico Open at Vidanta
+40,Ryo Hisatsune,0.306,1.225,4,Mexico Open at Vidanta
+41,Dylan Wu,0.279,1.116,4,Mexico Open at Vidanta
+42,Austin Smotherman,0.206,0.825,4,Mexico Open at Vidanta
+43,Matt Wallace,0.176,0.705,4,Mexico Open at Vidanta
+44,James Hahn,0.140,0.559,4,Mexico Open at Vidanta
+45,Chesson Hadley,0.110,0.441,4,Mexico Open at Vidanta
+46,Cristobal Del Solar,0.102,0.407,4,Mexico Open at Vidanta
+47,Nicolai Højgaard,0.067,0.268,4,Mexico Open at Vidanta
+48,C.T. Pan,0.048,0.193,4,Mexico Open at Vidanta
+49,Patrick Rodgers,-0.024,-0.096,4,Mexico Open at Vidanta
+50,Ryan Palmer,-0.035,-0.141,4,Mexico Open at Vidanta
+51,Ryan McCormick,-0.301,-1.204,4,Mexico Open at Vidanta
+52,Jimmy Stanger,-0.327,-1.308,4,Mexico Open at Vidanta
+53,Martin Trainer,-0.388,-1.551,4,Mexico Open at Vidanta
+54,Cameron Champ,-0.392,-1.568,4,Mexico Open at Vidanta
+55,Mark Hubbard,-0.426,-1.705,4,Mexico Open at Vidanta
+56,Maverick McNealy,-0.536,-2.144,4,Mexico Open at Vidanta
+57,MJ Daffue,-0.626,-2.504,4,Mexico Open at Vidanta
+58,Santiago De la Fuente,-0.718,-2.872,4,Mexico Open at Vidanta
+59,Chad Ramey,-0.818,-3.271,4,Mexico Open at Vidanta
+60,Trace Crowe,-0.920,-3.680,4,Mexico Open at Vidanta
+61,Troy Merritt,-1.118,-4.472,4,Mexico Open at Vidanta
+62,Robby Shelton,-1.133,-4.532,4,Mexico Open at Vidanta
+63,Ben Silverman,-1.278,-5.114,4,Mexico Open at Vidanta
+64,Garrick Higgo,-1.408,-5.634,4,Mexico Open at Vidanta
+65,Wilson Furr,-1.471,-5.885,4,Mexico Open at Vidanta
+1,Tom Hoge,1.711,6.845,4,The Genesis Invitational
+2,Taylor Moore,1.570,6.280,4,The Genesis Invitational
+3,Luke List,1.532,6.128,4,The Genesis Invitational
+4,Will Zalatoris,1.321,5.282,4,The Genesis Invitational
+5,Patrick Cantlay,1.122,4.487,4,The Genesis Invitational
+6,Cameron Young,0.928,3.711,4,The Genesis Invitational
+7,Corey Conners,0.896,3.583,4,The Genesis Invitational
+8,Tony Finau,0.843,3.370,4,The Genesis Invitational
+9,Russell Henley,0.842,3.367,4,The Genesis Invitational
+10,Christiaan Bezuidenhout,0.799,3.196,4,The Genesis Invitational
+11,Byeong Hun An,0.798,3.192,4,The Genesis Invitational
+12,Kurt Kitayama,0.787,3.147,4,The Genesis Invitational
+13,Collin Morikawa,0.657,2.627,4,The Genesis Invitational
+14,Jason Day,0.564,2.254,4,The Genesis Invitational
+15,Xander Schauffele,0.562,2.248,4,The Genesis Invitational
+16,Ludvig Åberg,0.550,2.200,4,The Genesis Invitational
+17,Adam Svensson,0.542,2.168,4,The Genesis Invitational
+18,Hideki Matsuyama,0.510,2.038,4,The Genesis Invitational
+19,Viktor Hovland,0.410,1.639,4,The Genesis Invitational
+20,Nick Taylor,0.383,1.530,4,The Genesis Invitational
+21,Tom Kim,0.306,1.225,4,The Genesis Invitational
+22,Adam Hadwin,0.243,0.970,4,The Genesis Invitational
+23,Nicolai Højgaard,0.174,0.697,4,The Genesis Invitational
+24,Eric Cole,0.144,0.577,4,The Genesis Invitational
+25,Adam Scott,0.075,0.299,4,The Genesis Invitational
+26,Tommy Fleetwood,0.070,0.281,4,The Genesis Invitational
+27,Harris English,0.062,0.249,4,The Genesis Invitational
+28,Lucas Glover,0.035,0.141,4,The Genesis Invitational
+29,Max Homa,0.017,0.066,4,The Genesis Invitational
+30,Lee Hodges,-0.026,-0.103,4,The Genesis Invitational
+31,Si Woo Kim,-0.070,-0.281,4,The Genesis Invitational
+32,Sam Burns,-0.096,-0.386,4,The Genesis Invitational
+33,Scottie Scheffler,-0.127,-0.507,4,The Genesis Invitational
+34,J.T. Poston,-0.175,-0.700,4,The Genesis Invitational
+35,Cam Davis,-0.263,-1.054,4,The Genesis Invitational
+36,Rory McIlroy,-0.266,-1.063,4,The Genesis Invitational
+37,Rickie Fowler,-0.293,-1.171,4,The Genesis Invitational
+38,Emiliano Grillo,-0.377,-1.508,4,The Genesis Invitational
+39,Andrew Putnam,-0.490,-1.961,4,The Genesis Invitational
+40,Sungjae Im,-0.544,-2.177,4,The Genesis Invitational
+41,Beau Hossler,-0.597,-2.390,4,The Genesis Invitational
+42,Gary Woodland,-0.614,-2.456,4,The Genesis Invitational
+43,Denny McCarthy,-0.684,-2.738,4,The Genesis Invitational
+44,Seamus Power,-0.734,-2.936,4,The Genesis Invitational
+45,Ben Griffin,-0.736,-2.943,4,The Genesis Invitational
+46,Brian Harman,-0.877,-3.508,4,The Genesis Invitational
+47,Brendon Todd,-0.911,-3.645,4,The Genesis Invitational
+48,Sahith Theegala,-0.924,-3.698,4,The Genesis Invitational
+49,Charley Hoffman,-0.962,-3.847,4,The Genesis Invitational
+50,Chase Johnson,-1.430,-5.719,4,The Genesis Invitational
+51,Mackenzie Hughes,-1.593,-6.373,4,The Genesis Invitational
+1,Scottie Scheffler,2.312,9.246,4,WM Phoenix Open
+2,Charley Hoffman,1.746,6.984,4,WM Phoenix Open
+3,Adam Scott,1.618,6.473,4,WM Phoenix Open
+4,Emiliano Grillo,1.490,5.959,4,WM Phoenix Open
+5,Sahith Theegala,1.390,5.561,4,WM Phoenix Open
+6,Sami Valimaki,1.364,5.455,4,WM Phoenix Open
+7,Tom Kim,1.357,5.428,4,WM Phoenix Open
+8,Andrew Novak,1.310,5.241,4,WM Phoenix Open
+9,Nick Taylor,1.279,5.117,4,WM Phoenix Open
+10,Christiaan Bezuidenhout,1.242,4.966,4,WM Phoenix Open
+11,Wyndham Clark,1.074,4.295,4,WM Phoenix Open
+12,Davis Thompson,1.055,4.218,4,WM Phoenix Open
+13,Daniel Berger,0.986,3.942,4,WM Phoenix Open
+14,Taylor Moore,0.951,3.804,4,WM Phoenix Open
+15,Jhonattan Vegas,0.942,3.769,4,WM Phoenix Open
+16,Tom Hoge,0.927,3.707,4,WM Phoenix Open
+17,Carson Young,0.911,3.645,4,WM Phoenix Open
+18,Bud Cauley,0.898,3.593,4,WM Phoenix Open
+19,Matt Wallace,0.884,3.534,4,WM Phoenix Open
+20,Sam Burns,0.780,3.119,4,WM Phoenix Open
+21,Jake Knapp,0.716,2.862,4,WM Phoenix Open
+22,Doug Ghim,0.704,2.815,4,WM Phoenix Open
+23,Justin Lower,0.641,2.565,4,WM Phoenix Open
+24,Maverick McNealy,0.639,2.555,4,WM Phoenix Open
+25,Justin Suh,0.628,2.513,4,WM Phoenix Open
+26,Denny McCarthy,0.596,2.384,4,WM Phoenix Open
+27,Justin Thomas,0.580,2.320,4,WM Phoenix Open
+28,Taylor Montgomery,0.535,2.140,4,WM Phoenix Open
+29,Cameron Young,0.369,1.477,4,WM Phoenix Open
+30,Tyler Duncan,0.335,1.341,4,WM Phoenix Open
+31,Mark Hubbard,0.325,1.301,4,WM Phoenix Open
+32,Keith Mitchell,0.321,1.285,4,WM Phoenix Open
+33,Eric Cole,0.287,1.148,4,WM Phoenix Open
+34,Adam Schenk,0.234,0.935,4,WM Phoenix Open
+35,Ryan Fox,0.163,0.650,4,WM Phoenix Open
+36,Corey Conners,0.145,0.578,4,WM Phoenix Open
+37,Beau Hossler,0.083,0.330,4,WM Phoenix Open
+38,Si Woo Kim,0.066,0.262,4,WM Phoenix Open
+39,Shane Lowry,0.053,0.212,4,WM Phoenix Open
+40,S.H. Kim,0.015,0.058,4,WM Phoenix Open
+41,Kurt Kitayama,-0.014,-0.057,4,WM Phoenix Open
+42,Billy Horschel,-0.050,-0.199,4,WM Phoenix Open
+43,Garrick Higgo,-0.052,-0.209,4,WM Phoenix Open
+44,Zach Johnson,-0.084,-0.336,4,WM Phoenix Open
+45,Matt Fitzpatrick,-0.122,-0.488,4,WM Phoenix Open
+46,Tyson Alexander,-0.123,-0.493,4,WM Phoenix Open
+47,Ben Griffin,-0.193,-0.773,4,WM Phoenix Open
+48,Hideki Matsuyama,-0.200,-0.801,4,WM Phoenix Open
+49,Sam Stevens,-0.201,-0.803,4,WM Phoenix Open
+50,Aaron Baddeley,-0.236,-0.943,4,WM Phoenix Open
+51,Adrien Dumont de Chassart,-0.302,-1.209,4,WM Phoenix Open
+52,Jim Knous,-0.330,-1.320,4,WM Phoenix Open
+53,Byeong Hun An,-0.333,-1.334,4,WM Phoenix Open
+54,Martin Laird,-0.340,-1.362,4,WM Phoenix Open
+55,Harry Hall,-0.344,-1.377,4,WM Phoenix Open
+56,Seamus Power,-0.385,-1.541,4,WM Phoenix Open
+57,Nicolo Galletti,-0.461,-1.843,4,WM Phoenix Open
+58,Robby Shelton,-0.467,-1.868,4,WM Phoenix Open
+59,Hayden Buckley,-0.517,-2.067,4,WM Phoenix Open
+60,Joel Dahmen,-0.624,-2.495,4,WM Phoenix Open
+61,Brendon Todd,-0.637,-2.548,4,WM Phoenix Open
+62,Thomas Detry,-0.693,-2.771,4,WM Phoenix Open
+63,Zac Blair,-0.708,-2.834,4,WM Phoenix Open
+64,Harris English,-0.709,-2.836,4,WM Phoenix Open
+65,Jordan Spieth,-0.793,-3.174,4,WM Phoenix Open
+66,Jesse Mueller,-0.806,-3.223,4,WM Phoenix Open
+67,Kevin Chappell,-0.980,-3.921,4,WM Phoenix Open
+68,Alex Noren,-1.161,-4.645,4,WM Phoenix Open
+69,Sungjae Im,-1.184,-4.735,4,WM Phoenix Open
+70,Min Woo Lee,-1.368,-5.472,4,WM Phoenix Open
+71,Matt NeSmith,-1.398,-5.593,4,WM Phoenix Open
+72,Brian Harman,-1.543,-6.172,4,WM Phoenix Open
+73,Nick Hardy,-1.664,-6.656,4,WM Phoenix Open
+1,Cam Davis,2.663,5.326,2,AT&T Pebble Beach Pro-Am
+2,Kevin Yu,2.424,4.848,2,AT&T Pebble Beach Pro-Am
+3,Matthieu Pavon,2.284,4.568,2,AT&T Pebble Beach Pro-Am
+4,Eric Cole,2.230,4.460,2,AT&T Pebble Beach Pro-Am
+5,Scottie Scheffler,2.194,4.389,2,AT&T Pebble Beach Pro-Am
+6,Tom Hoge,1.868,3.736,2,AT&T Pebble Beach Pro-Am
+7,Christiaan Bezuidenhout,1.861,3.722,2,AT&T Pebble Beach Pro-Am
+8,Si Woo Kim,1.690,3.380,2,AT&T Pebble Beach Pro-Am
+9,Lucas Glover,1.647,3.293,2,AT&T Pebble Beach Pro-Am
+10,Tony Finau,1.590,3.179,2,AT&T Pebble Beach Pro-Am
+11,Adam Svensson,1.404,2.808,2,AT&T Pebble Beach Pro-Am
+12,Adam Scott,1.246,2.492,2,AT&T Pebble Beach Pro-Am
+13,Brian Harman,1.235,2.470,2,AT&T Pebble Beach Pro-Am
+14,Jason Day,1.224,2.449,2,AT&T Pebble Beach Pro-Am
+15,Justin Thomas,1.211,2.422,2,AT&T Pebble Beach Pro-Am
+16,Xander Schauffele,1.132,2.263,2,AT&T Pebble Beach Pro-Am
+17,Sam Burns,1.096,2.193,2,AT&T Pebble Beach Pro-Am
+18,Lee Hodges,0.958,1.916,2,AT&T Pebble Beach Pro-Am
+19,Kurt Kitayama,0.935,1.870,2,AT&T Pebble Beach Pro-Am
+20,Wyndham Clark,0.821,1.642,2,AT&T Pebble Beach Pro-Am
+21,Luke List,0.721,1.441,2,AT&T Pebble Beach Pro-Am
+22,Sahith Theegala,0.668,1.336,2,AT&T Pebble Beach Pro-Am
+23,Sam Ryder,0.604,1.207,2,AT&T Pebble Beach Pro-Am
+24,Jordan Spieth,0.567,1.134,2,AT&T Pebble Beach Pro-Am
+25,Denny McCarthy,0.525,1.050,2,AT&T Pebble Beach Pro-Am
+26,Nicolai Højgaard,0.515,1.031,2,AT&T Pebble Beach Pro-Am
+27,Adam Hadwin,0.451,0.902,2,AT&T Pebble Beach Pro-Am
+28,Brendon Todd,0.404,0.807,2,AT&T Pebble Beach Pro-Am
+29,Seamus Power,0.242,0.483,2,AT&T Pebble Beach Pro-Am
+30,Keegan Bradley,0.215,0.430,2,AT&T Pebble Beach Pro-Am
+31,Nick Taylor,0.169,0.337,2,AT&T Pebble Beach Pro-Am
+32,Ludvig Åberg,0.122,0.244,2,AT&T Pebble Beach Pro-Am
+33,Keith Mitchell,0.076,0.153,2,AT&T Pebble Beach Pro-Am
+34,Russell Henley,0.015,0.030,2,AT&T Pebble Beach Pro-Am
+35,Taylor Montgomery,-0.078,-0.157,2,AT&T Pebble Beach Pro-Am
+36,Alex Noren,-0.090,-0.181,2,AT&T Pebble Beach Pro-Am
+37,Erik van Rooyen,-0.101,-0.203,2,AT&T Pebble Beach Pro-Am
+38,Mark Hubbard,-0.105,-0.210,2,AT&T Pebble Beach Pro-Am
+39,J.T. Poston,-0.134,-0.267,2,AT&T Pebble Beach Pro-Am
+40,Corey Conners,-0.138,-0.276,2,AT&T Pebble Beach Pro-Am
+41,Matt Fitzpatrick,-0.148,-0.297,2,AT&T Pebble Beach Pro-Am
+42,Rickie Fowler,-0.151,-0.302,2,AT&T Pebble Beach Pro-Am
+43,Collin Morikawa,-0.165,-0.331,2,AT&T Pebble Beach Pro-Am
+44,Chris Kirk,-0.204,-0.408,2,AT&T Pebble Beach Pro-Am
+45,Patrick Cantlay,-0.209,-0.418,2,AT&T Pebble Beach Pro-Am
+46,Andrew Putnam,-0.214,-0.428,2,AT&T Pebble Beach Pro-Am
+47,Tom Kim,-0.234,-0.469,2,AT&T Pebble Beach Pro-Am
+48,Max Homa,-0.245,-0.491,2,AT&T Pebble Beach Pro-Am
+49,Taylor Moore,-0.256,-0.511,2,AT&T Pebble Beach Pro-Am
+50,Ben Griffin,-0.296,-0.593,2,AT&T Pebble Beach Pro-Am
+51,Hideki Matsuyama,-0.381,-0.762,2,AT&T Pebble Beach Pro-Am
+52,Justin Rose,-0.522,-1.044,2,AT&T Pebble Beach Pro-Am
+53,Grayson Murray,-0.529,-1.058,2,AT&T Pebble Beach Pro-Am
+54,Nick Hardy,-0.560,-1.120,2,AT&T Pebble Beach Pro-Am
+55,Tommy Fleetwood,-0.608,-1.215,2,AT&T Pebble Beach Pro-Am
+56,Mackenzie Hughes,-0.628,-1.256,2,AT&T Pebble Beach Pro-Am
+57,Byeong Hun An,-0.637,-1.274,2,AT&T Pebble Beach Pro-Am
+58,Sepp Straka,-0.689,-1.378,2,AT&T Pebble Beach Pro-Am
+59,Maverick McNealy,-0.752,-1.504,2,AT&T Pebble Beach Pro-Am
+60,Sungjae Im,-0.782,-1.564,2,AT&T Pebble Beach Pro-Am
+61,Webb Simpson,-0.791,-1.583,2,AT&T Pebble Beach Pro-Am
+62,Matt Kuchar,-0.799,-1.599,2,AT&T Pebble Beach Pro-Am
+63,Beau Hossler,-0.816,-1.631,2,AT&T Pebble Beach Pro-Am
+64,Brandon Wu,-0.887,-1.775,2,AT&T Pebble Beach Pro-Am
+65,Thomas Detry,-0.901,-1.802,2,AT&T Pebble Beach Pro-Am
+66,J.J. Spaun,-0.928,-1.856,2,AT&T Pebble Beach Pro-Am
+67,Harris English,-0.934,-1.869,2,AT&T Pebble Beach Pro-Am
+68,Stephan Jaeger,-0.969,-1.938,2,AT&T Pebble Beach Pro-Am
+69,Cameron Young,-1.007,-2.013,2,AT&T Pebble Beach Pro-Am
+70,Peter Malnati,-1.111,-2.223,2,AT&T Pebble Beach Pro-Am
+71,Hayden Buckley,-1.129,-2.258,2,AT&T Pebble Beach Pro-Am
+72,S.H. Kim,-1.250,-2.501,2,AT&T Pebble Beach Pro-Am
+73,Adam Schenk,-1.264,-2.528,2,AT&T Pebble Beach Pro-Am
+74,Viktor Hovland,-1.630,-3.259,2,AT&T Pebble Beach Pro-Am
+75,Davis Riley,-1.953,-3.906,2,AT&T Pebble Beach Pro-Am
+76,Rory McIlroy,-2.073,-4.146,2,AT&T Pebble Beach Pro-Am
+77,Patrick Rodgers,-2.117,-4.235,2,AT&T Pebble Beach Pro-Am
+78,Alex Smalley,-2.321,-4.643,2,AT&T Pebble Beach Pro-Am
+79,Nick Dunlap,-2.543,-5.087,2,AT&T Pebble Beach Pro-Am
+80,Emiliano Grillo,-2.720,-5.440,2,AT&T Pebble Beach Pro-Am
+1,Mark Hubbard,2.793,8.379,3,Farmers Insurance Open
+2,Tony Finau,2.343,7.030,3,Farmers Insurance Open
+3,Matthieu Pavon,1.798,5.394,3,Farmers Insurance Open
+4,Nick Hardy,1.746,5.238,3,Farmers Insurance Open
+5,Tom Whitney,1.695,5.086,3,Farmers Insurance Open
+6,Ludvig Åberg,1.572,4.715,3,Farmers Insurance Open
+7,Parker Coody,1.499,4.497,3,Farmers Insurance Open
+8,Stephan Jaeger,1.498,4.493,3,Farmers Insurance Open
+9,Robby Shelton,1.404,4.211,3,Farmers Insurance Open
+10,Emiliano Grillo,1.279,3.838,3,Farmers Insurance Open
+11,Hideki Matsuyama,1.256,3.769,3,Farmers Insurance Open
+12,Jake Knapp,1.254,3.761,3,Farmers Insurance Open
+13,Xander Schauffele,1.230,3.689,3,Farmers Insurance Open
+14,Beau Hossler,1.053,3.158,3,Farmers Insurance Open
+15,Carson Young,1.035,3.104,3,Farmers Insurance Open
+16,Akshay Bhatia,0.990,2.971,3,Farmers Insurance Open
+17,Doug Ghim,0.956,2.869,3,Farmers Insurance Open
+18,Michael Kim,0.887,2.662,3,Farmers Insurance Open
+19,Rafael Campos,0.695,2.084,3,Farmers Insurance Open
+20,Bronson Burgoon,0.648,1.945,3,Farmers Insurance Open
+21,Scott Stallings,0.633,1.898,3,Farmers Insurance Open
+22,Ryo Hisatsune,0.615,1.846,3,Farmers Insurance Open
+23,Alexander Björk,0.609,1.827,3,Farmers Insurance Open
+24,Tom Hoge,0.591,1.774,3,Farmers Insurance Open
+25,Trace Crowe,0.577,1.731,3,Farmers Insurance Open
+26,Ben Martin,0.545,1.635,3,Farmers Insurance Open
+27,Ben Silverman,0.521,1.563,3,Farmers Insurance Open
+28,Luke List,0.472,1.417,3,Farmers Insurance Open
+29,Tyson Alexander,0.445,1.335,3,Farmers Insurance Open
+30,Shane Lowry,0.438,1.315,3,Farmers Insurance Open
+31,Mackenzie Hughes,0.412,1.237,3,Farmers Insurance Open
+32,Patrick Rodgers,0.364,1.092,3,Farmers Insurance Open
+33,Justin Lower,0.363,1.088,3,Farmers Insurance Open
+34,Nicolai Højgaard,0.332,0.997,3,Farmers Insurance Open
+35,Chesson Hadley,0.329,0.988,3,Farmers Insurance Open
+36,Nate Lashley,0.318,0.955,3,Farmers Insurance Open
+37,Adrien Dumont de Chassart,0.281,0.844,3,Farmers Insurance Open
+38,Will Zalatoris,0.152,0.456,3,Farmers Insurance Open
+39,Vincent Norrman,0.118,0.353,3,Farmers Insurance Open
+40,Justin Rose,0.039,0.118,3,Farmers Insurance Open
+41,Kevin Yu,0.035,0.105,3,Farmers Insurance Open
+42,Sam Stevens,0.023,0.070,3,Farmers Insurance Open
+43,Taylor Pendrith,0.012,0.037,3,Farmers Insurance Open
+44,Max Homa,-0.040,-0.121,3,Farmers Insurance Open
+45,Keegan Bradley,-0.041,-0.122,3,Farmers Insurance Open
+46,Aaron Rai,-0.091,-0.273,3,Farmers Insurance Open
+47,Chris Gotterup,-0.110,-0.331,3,Farmers Insurance Open
+48,Taylor Montgomery,-0.176,-0.529,3,Farmers Insurance Open
+49,Joseph Bramlett,-0.177,-0.532,3,Farmers Insurance Open
+50,Thomas Detry,-0.204,-0.611,3,Farmers Insurance Open
+51,Sami Valimaki,-0.222,-0.667,3,Farmers Insurance Open
+52,Ben Taylor,-0.229,-0.688,3,Farmers Insurance Open
+53,Min Woo Lee,-0.244,-0.733,3,Farmers Insurance Open
+54,Joe Highsmith,-0.249,-0.746,3,Farmers Insurance Open
+55,Erik Barnes,-0.299,-0.897,3,Farmers Insurance Open
+56,Austin Eckroat,-0.319,-0.958,3,Farmers Insurance Open
+57,Taylor Moore,-0.348,-1.043,3,Farmers Insurance Open
+58,Harris English,-0.351,-1.052,3,Farmers Insurance Open
+59,Patrick Cantlay,-0.416,-1.249,3,Farmers Insurance Open
+60,Dylan Wu,-0.418,-1.253,3,Farmers Insurance Open
+61,Lanto Griffin,-0.457,-1.371,3,Farmers Insurance Open
+62,Brandt Snedeker,-0.521,-1.562,3,Farmers Insurance Open
+63,Adam Schenk,-0.525,-1.574,3,Farmers Insurance Open
+64,Zac Blair,-0.538,-1.615,3,Farmers Insurance Open
+65,Ryan Brehm,-0.540,-1.619,3,Farmers Insurance Open
+66,Charley Hoffman,-0.544,-1.633,3,Farmers Insurance Open
+67,Jacob Bridgeman,-0.572,-1.716,3,Farmers Insurance Open
+68,Maverick McNealy,-0.581,-1.743,3,Farmers Insurance Open
+69,Hayden Springer,-0.672,-2.016,3,Farmers Insurance Open
+70,Sahith Theegala,-0.686,-2.059,3,Farmers Insurance Open
+71,Aaron Baddeley,-0.959,-2.876,3,Farmers Insurance Open
+72,Kevin Dougherty,-1.102,-3.307,3,Farmers Insurance Open
+73,Chad Ramey,-1.139,-3.416,3,Farmers Insurance Open
+74,Alejandro Tosti,-1.302,-3.905,3,Farmers Insurance Open
+75,S.H. Kim,-1.343,-4.029,3,Farmers Insurance Open
+76,Chandler Phillips,-1.438,-4.314,3,Farmers Insurance Open
+77,Francesco Molinari,-1.507,-4.520,3,Farmers Insurance Open
+78,Taiga Semikawa,-1.544,-4.633,3,Farmers Insurance Open
+79,Justin Suh,-2.837,-8.510,3,Farmers Insurance Open
+1,Chris Kirk,1.930,7.722,4,Sony Open in Hawaii
+2,Taylor Montgomery,1.779,7.116,4,Sony Open in Hawaii
+3,Zac Blair,1.730,6.919,4,Sony Open in Hawaii
+4,Nick Taylor,1.414,5.655,4,Sony Open in Hawaii
+5,Harry Hall,1.329,5.315,4,Sony Open in Hawaii
+6,Akshay Bhatia,1.313,5.254,4,Sony Open in Hawaii
+7,K.H. Lee,1.286,5.146,4,Sony Open in Hawaii
+8,Joel Dahmen,1.143,4.571,4,Sony Open in Hawaii
+9,Matthieu Pavon,1.130,4.519,4,Sony Open in Hawaii
+10,Erik van Rooyen,1.114,4.456,4,Sony Open in Hawaii
+11,Keegan Bradley,1.019,4.078,4,Sony Open in Hawaii
+12,Brandon Wu,0.930,3.722,4,Sony Open in Hawaii
+13,Adam Svensson,0.859,3.435,4,Sony Open in Hawaii
+14,Webb Simpson,0.799,3.195,4,Sony Open in Hawaii
+15,Luke List,0.756,3.026,4,Sony Open in Hawaii
+16,Justin Lower,0.737,2.948,4,Sony Open in Hawaii
+17,Joseph Bramlett,0.722,2.887,4,Sony Open in Hawaii
+17,Brendon Todd,0.722,2.887,4,Sony Open in Hawaii
+19,Robby Shelton,0.714,2.855,4,Sony Open in Hawaii
+20,J.T. Poston,0.691,2.763,4,Sony Open in Hawaii
+21,Taylor Pendrith,0.688,2.753,4,Sony Open in Hawaii
+22,Tyrrell Hatton,0.630,2.519,4,Sony Open in Hawaii
+23,Emiliano Grillo,0.586,2.343,4,Sony Open in Hawaii
+24,Kurt Kitayama,0.574,2.295,4,Sony Open in Hawaii
+25,Si Woo Kim,0.558,2.234,4,Sony Open in Hawaii
+26,Scott Stallings,0.532,2.128,4,Sony Open in Hawaii
+26,Carl Yuan,0.532,2.127,4,Sony Open in Hawaii
+28,Dylan Wu,0.529,2.117,4,Sony Open in Hawaii
+29,Robert MacIntyre,0.517,2.069,4,Sony Open in Hawaii
+30,Greyson Sigg,0.494,1.977,4,Sony Open in Hawaii
+31,Grayson Murray,0.463,1.854,4,Sony Open in Hawaii
+32,Eric Cole,0.450,1.799,4,Sony Open in Hawaii
+33,Troy Merritt,0.445,1.782,4,Sony Open in Hawaii
+34,Byeong Hun An,0.444,1.775,4,Sony Open in Hawaii
+35,Seamus Power,0.443,1.771,4,Sony Open in Hawaii
+36,Davis Thompson,0.424,1.697,4,Sony Open in Hawaii
+37,Corey Conners,0.412,1.649,4,Sony Open in Hawaii
+38,Patton Kizzire,0.372,1.488,4,Sony Open in Hawaii
+39,Russell Henley,0.363,1.453,4,Sony Open in Hawaii
+40,S.H. Kim,0.350,1.399,4,Sony Open in Hawaii
+41,Ludvig Åberg,0.349,1.396,4,Sony Open in Hawaii
+42,Chandler Phillips,0.312,1.249,4,Sony Open in Hawaii
+43,Ben Kohles,0.296,1.185,4,Sony Open in Hawaii
+44,Aaron Rai,0.268,1.072,4,Sony Open in Hawaii
+45,Sam Stevens,0.236,0.944,4,Sony Open in Hawaii
+46,Harris English,0.185,0.741,4,Sony Open in Hawaii
+47,Alex Noren,0.181,0.723,4,Sony Open in Hawaii
+48,Michael Kim,0.178,0.714,4,Sony Open in Hawaii
+49,Billy Horschel,0.176,0.704,4,Sony Open in Hawaii
+50,Hideki Matsuyama,0.108,0.433,4,Sony Open in Hawaii
+51,Mark Hubbard,0.063,0.251,4,Sony Open in Hawaii
+52,Nick Hardy,0.032,0.127,4,Sony Open in Hawaii
+53,Ben Silverman,-0.034,-0.134,4,Sony Open in Hawaii
+54,Yuto Katsuragawa,-0.078,-0.313,4,Sony Open in Hawaii
+55,Brian Harman,-0.089,-0.354,4,Sony Open in Hawaii
+56,Ben Griffin,-0.100,-0.400,4,Sony Open in Hawaii
+57,Matt NeSmith,-0.115,-0.458,4,Sony Open in Hawaii
+58,Austin Eckroat,-0.165,-0.660,4,Sony Open in Hawaii
+59,Patrick Rodgers,-0.192,-0.767,4,Sony Open in Hawaii
+60,Stewart Cink,-0.242,-0.966,4,Sony Open in Hawaii
+61,Denny McCarthy,-0.268,-1.071,4,Sony Open in Hawaii
+62,Cam Davis,-0.350,-1.401,4,Sony Open in Hawaii
+63,Charley Hoffman,-0.362,-1.446,4,Sony Open in Hawaii
+64,Parker Coody,-0.365,-1.459,4,Sony Open in Hawaii
+65,Taiga Semikawa,-0.383,-1.532,4,Sony Open in Hawaii
+66,Maverick McNealy,-0.390,-1.560,4,Sony Open in Hawaii
+67,Ryo Hisatsune,-0.403,-1.611,4,Sony Open in Hawaii
+68,Keith Mitchell,-0.431,-1.724,4,Sony Open in Hawaii
+69,Stephan Jaeger,-0.475,-1.898,4,Sony Open in Hawaii
+70,Justin Rose,-0.532,-2.129,4,Sony Open in Hawaii
+71,Matt Wallace,-0.538,-2.150,4,Sony Open in Hawaii
+72,Tyler Duncan,-0.662,-2.647,4,Sony Open in Hawaii
+73,Andrew Putnam,-0.725,-2.898,4,Sony Open in Hawaii
+74,Norman Xiong,-0.729,-2.914,4,Sony Open in Hawaii
+75,Nico Echavarria,-0.863,-3.451,4,Sony Open in Hawaii
+76,Jake Knapp,-0.986,-3.944,4,Sony Open in Hawaii
+77,Will Gordon,-1.016,-4.065,4,Sony Open in Hawaii
+78,Alejandro Tosti,-1.021,-4.083,4,Sony Open in Hawaii
+79,Martin Trainer,-1.039,-4.157,4,Sony Open in Hawaii
+80,Lanto Griffin,-1.188,-4.752,4,Sony Open in Hawaii
+81,Garrick Higgo,-1.314,-5.257,4,Sony Open in Hawaii
+1,Collin Morikawa,1.311,5.244,4,The Sentry
+2,Scottie Scheffler,1.296,5.182,4,The Sentry
+3,Lucas Glover,1.262,5.046,4,The Sentry
+4,Corey Conners,1.131,4.524,4,The Sentry
+5,Sepp Straka,1.016,4.065,4,The Sentry
+6,Kurt Kitayama,0.997,3.988,4,The Sentry
+7,Max Homa,0.946,3.784,4,The Sentry
+8,Keegan Bradley,0.912,3.648,4,The Sentry
+9,Tom Hoge,0.908,3.630,4,The Sentry
+10,Patrick Rodgers,0.788,3.151,4,The Sentry
+11,Sungjae Im,0.753,3.013,4,The Sentry
+12,Brendon Todd,0.666,2.664,4,The Sentry
+13,Sahith Theegala,0.664,2.654,4,The Sentry
+14,Chris Kirk,0.625,2.501,4,The Sentry
+15,Brian Harman,0.556,2.223,4,The Sentry
+16,Jordan Spieth,0.435,1.738,4,The Sentry
+17,Luke List,0.427,1.709,4,The Sentry
+18,Adam Svensson,0.425,1.699,4,The Sentry
+19,Eric Cole,0.399,1.597,4,The Sentry
+20,Tyrrell Hatton,0.395,1.578,4,The Sentry
+21,Denny McCarthy,0.319,1.274,4,The Sentry
+22,Xander Schauffele,0.248,0.993,4,The Sentry
+23,Mackenzie Hughes,0.213,0.850,4,The Sentry
+24,Rickie Fowler,0.176,0.703,4,The Sentry
+25,Cameron Young,0.170,0.678,4,The Sentry
+26,Byeong Hun An,0.148,0.590,4,The Sentry
+27,Andrew Putnam,0.145,0.578,4,The Sentry
+28,Si Woo Kim,0.130,0.519,4,The Sentry
+29,Nick Hardy,0.123,0.492,4,The Sentry
+30,Tom Kim,0.112,0.449,4,The Sentry
+31,Adam Schenk,0.060,0.238,4,The Sentry
+32,Jason Day,0.059,0.236,4,The Sentry
+33,Lee Hodges,0.039,0.157,4,The Sentry
+34,Sam Burns,-0.076,-0.303,4,The Sentry
+35,Patrick Cantlay,-0.092,-0.370,4,The Sentry
+36,Ludvig Åberg,-0.094,-0.377,4,The Sentry
+37,J.T. Poston,-0.146,-0.584,4,The Sentry
+38,Nick Taylor,-0.297,-1.190,4,The Sentry
+39,Wyndham Clark,-0.392,-1.568,4,The Sentry
+40,Harris English,-0.399,-1.595,4,The Sentry
+41,Tony Finau,-0.421,-1.683,4,The Sentry
+42,Seamus Power,-0.483,-1.934,4,The Sentry
+43,Viktor Hovland,-0.548,-2.194,4,The Sentry
+44,Akshay Bhatia,-0.561,-2.243,4,The Sentry
+45,Matt Wallace,-0.600,-2.399,4,The Sentry
+46,Nico Echavarria,-0.602,-2.410,4,The Sentry
+47,Erik van Rooyen,-0.612,-2.448,4,The Sentry
+48,Hideki Matsuyama,-0.641,-2.566,4,The Sentry
+49,Davis Riley,-0.765,-3.060,4,The Sentry
+50,Taylor Moore,-0.797,-3.188,4,The Sentry
+51,Adam Hadwin,-0.812,-3.247,4,The Sentry
+52,Emiliano Grillo,-0.830,-3.319,4,The Sentry
+53,Matt Fitzpatrick,-0.850,-3.402,4,The Sentry
+54,Tommy Fleetwood,-1.011,-4.045,4,The Sentry
+55,Russell Henley,-1.038,-4.152,4,The Sentry
+56,Justin Rose,-1.069,-4.275,4,The Sentry
+57,Cam Davis,-1.517,-6.067,4,The Sentry
+58,Vincent Norrman,-1.531,-6.123,4,The Sentry
+59,Camilo Villegas,-1.664,-6.657,4,The Sentry
