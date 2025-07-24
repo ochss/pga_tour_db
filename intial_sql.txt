@@ -54,10 +54,9 @@ ALTER TABLE results ADD COLUMN player_id INTEGER;
 
 UPDATE results
         SET player_id = (
-            SELECT players.id
-            FROM results
-            INNER JOIN players
-            ON players.name = results.player
+            SELECT id
+            FROM players
+            WHERE players.name = results.player
         ) 
 
 ALTER TABLE results ADD COLUMN tournament_id INTEGER;
@@ -65,9 +64,8 @@ ALTER TABLE results ADD COLUMN tournament_id INTEGER;
 UPDATE results
         SET tournament_id = (
             SELECT tournaments.id
-            FROM results
-            INNER JOIN tournaments
-            ON tournaments.name = results.tournament
+            FROM tournaments
+            WHERE tournaments.name = results.tournament
         ) 
 
 ALTER TABLE results ADD COLUMN course_id INTEGER;
@@ -75,9 +73,8 @@ ALTER TABLE results ADD COLUMN course_id INTEGER;
 UPDATE results
         SET course_id = (
             SELECT courses.id
-            FROM results
-            INNER JOIN courses
-            ON courses.name = results.course
+            FROM courses
+            WHERE courses.name = results.course
         ) 
 
 ALTER TABLE results ADD COLUMN position_id INTEGER;
@@ -85,10 +82,10 @@ ALTER TABLE results ADD COLUMN position_id INTEGER;
 UPDATE results
         SET position_id = (
             SELECT positions.id
-            FROM results
-            INNER JOIN positions
-            ON positions.position = results.pos
+            FROM positions
+            WHERE positions.position = results.pos
         ) 
+
 # alter table to rename results to results_old, author Sam Ochs
 ALTER TABLE results RENAME TO results_old;
 # create the new results table with foreign keys, author Sam Ochs
@@ -138,21 +135,20 @@ ALTER TABLE driving_distance ADD COLUMN player_id INTEGER;
 
 UPDATE driving_distance
         SET player_id = (
-            SELECT players.id
-            FROM driving_distance
-            INNER JOIN players
-            ON players.name = driving_distance.player
+            SELECT id
+            FROM players as p
+            WHERE p.name = driving_distance.player
         ) 
 
 ALTER TABLE driving_distance ADD COLUMN tournament_id INTEGER;
 
 UPDATE driving_distance
         SET tournament_id = (
-            SELECT tournaments.id
-            FROM driving_distance
-            INNER JOIN tournaments
-            ON tournaments.name = driving_distance.tournament
+            SELECT id
+            FROM tournaments as t
+            WHERE t.name = driving_distance.tournament
         ) 
+
 # alter table to rename driving_distance to driving_distance_old, author Sam Ochs
 ALTER TABLE driving_distance RENAME TO driving_distance_old;
 # create the new driving distance table with foreign keys, author Sam Ochs
@@ -190,21 +186,20 @@ ALTER TABLE driving_accuracy ADD COLUMN player_id INTEGER;
 
 UPDATE driving_accuracy
         SET player_id = (
-            SELECT players.id
-            FROM driving_accuracy
-            INNER JOIN players
-            ON players.name = driving_accuracy.player
+            SELECT id
+            FROM players as p
+            WHERE p.name = driving_accuracy.player
         ) 
 
 ALTER TABLE driving_accuracy ADD COLUMN tournament_id INTEGER;
 
 UPDATE driving_accuracy
         SET tournament_id = (
-            SELECT tournaments.id
-            FROM driving_accuracy
-            INNER JOIN tournaments
-            ON tournaments.name = driving_accuracy.tournament
-        )
+            SELECT id
+            FROM tournaments as t
+            WHERE t.name = driving_accuracy.tournament
+        ) 
+
 # alter table to rename driving_accuracy to driving_accuracy_old, author Sam Ochs
 ALTER TABLE driving_accuracy RENAME TO driving_accuracy_old;
 # create the new driving accuracy table with foreign keys, author Sam Ochs
@@ -242,21 +237,20 @@ ALTER TABLE sg_putting ADD COLUMN player_id INTEGER;
 
 UPDATE sg_putting
         SET player_id = (
-            SELECT players.id
-            FROM sg_putting
-            INNER JOIN players
-            ON players.name = sg_putting.player
+            SELECT id
+            FROM players as p
+            WHERE p.name = sg_putting.player
         ) 
 
 ALTER TABLE sg_putting ADD COLUMN tournament_id INTEGER;
 
 UPDATE sg_putting
         SET tournament_id = (
-            SELECT tournaments.id
-            FROM sg_putting
-            INNER JOIN tournaments
-            ON tournaments.name = sg_putting.tournament
+            SELECT id
+            FROM tournaments as t
+            WHERE t.name = sg_putting.tournament
         ) 
+
 # alter table to rename sg_putting to sg_putting_old, author Sam Ochs
 ALTER TABLE sg_putting RENAME TO sg_putting_old;
 # create the new strokes gained putting table with foreign keys, author Sam Ochs
@@ -294,20 +288,18 @@ ALTER TABLE sg_ott ADD COLUMN player_id INTEGER;
 
 UPDATE sg_ott
         SET player_id = (
-            SELECT players.id
-            FROM sg_ott
-            INNER JOIN players
-            ON players.name = sg_ott.player
+            SELECT id
+            FROM players as p
+            WHERE p.name = sg_ott.player
         ) 
 
 ALTER TABLE sg_ott ADD COLUMN tournament_id INTEGER;
 
 UPDATE sg_ott
         SET tournament_id = (
-            SELECT tournaments.id
-            FROM sg_ott
-            INNER JOIN tournaments
-            ON tournaments.name = sg_ott.tournament
+            SELECT id
+            FROM tournaments as t
+            WHERE t.name = sg_ott.tournament
         ) 
 # alter table to rename sg_ott to sg_ott_old, author Sam Ochs
 ALTER TABLE sg_ott RENAME TO sg_ott_old;
@@ -346,21 +338,20 @@ ALTER TABLE sg_app ADD COLUMN player_id INTEGER;
 
 UPDATE sg_app
         SET player_id = (
-            SELECT players.id
-            FROM sg_app
-            INNER JOIN players
-            ON players.name = sg_app.player
+            SELECT id
+            FROM players as p
+            WHERE p.name = sg_app.player
         ) 
 
 ALTER TABLE sg_app ADD COLUMN tournament_id INTEGER;
 
 UPDATE sg_app
         SET tournament_id = (
-            SELECT tournaments.id
-            FROM sg_app
-            INNER JOIN tournaments
-            ON tournaments.name = sg_app.tournament
+            SELECT id
+            FROM tournaments as t
+            WHERE t.name = sg_app.tournament
         ) 
+
 # alter table to rename sg_app to sg_app_old, author Sam Ochs
 ALTER TABLE sg_app RENAME TO sg_app_old;
 # create the new strokes gained approach table with foreign keys, author Sam Ochs
@@ -397,22 +388,21 @@ INSERT INTO "sg_arg" ("rank", "player", "avg", "total_sg_arg", "measured_rounds"
 ALTER TABLE sg_arg ADD COLUMN player_id INTEGER;
 # 
 UPDATE sg_arg
-    SET player_id = (
-        SELECT players.id
-        FROM sg_arg
-        INNER JOIN players
-        ON players.name = sg_arg.player
-    ) 
+        SET player_id = (
+            SELECT id
+            FROM players as p
+            WHERE p.name = sg_arg.player
+        ) 
 
 ALTER TABLE sg_arg ADD COLUMN tournament_id INTEGER;
 
 UPDATE sg_arg
         SET tournament_id = (
-            SELECT tournaments.id
-            FROM sg_arg
-            INNER JOIN tournaments
-            ON tournaments.name = sg_arg.tournament
+            SELECT id
+            FROM tournaments as t
+            WHERE t.name = sg_arg.tournament
         ) 
+
 # alter table to rename sg_arg to sg_arg_old, author Sam Ochs
 ALTER TABLE sg_arg RENAME TO sg_arg_old;
 # create the new strokes gained around the green table with foreign keys, author Sam Ochs
@@ -452,21 +442,20 @@ ALTER TABLE sg_fttg ADD COLUMN player_id INTEGER;
 
 UPDATE sg_fttg
         SET player_id = (
-            SELECT players.id
-            FROM sg_fttg
-            INNER JOIN players
-            ON players.name = sg_fttg.player
+            SELECT id
+            FROM players as p
+            WHERE p.name = sg_fttg.player
         ) 
 
 ALTER TABLE sg_fttg ADD COLUMN tournament_id INTEGER;
 
 UPDATE sg_fttg
         SET tournament_id = (
-            SELECT tournaments.id
-            FROM sg_fttg
-            INNER JOIN tournaments
-            ON tournaments.name = sg_fttg.tournament
+            SELECT id
+            FROM tournaments as t
+            WHERE t.name = sg_fttg.tournament
         ) 
+
 # alter table to rename sg_fttg to sg_fttg_old, author Sam Ochs
 ALTER TABLE sg_fttg RENAME TO sg_fttg_old;
 # create the new strokes gained from tee to green table with foreign keys, author Sam Ochs
@@ -508,21 +497,20 @@ ALTER TABLE sg_total ADD COLUMN player_id INTEGER;
 
 UPDATE sg_total
         SET player_id = (
-            SELECT players.id
-            FROM sg_total
-            INNER JOIN players
-            ON players.name = sg_total.player
+            SELECT id
+            FROM players as p
+            WHERE p.name = sg_total.player
         ) 
 
 ALTER TABLE sg_total ADD COLUMN tournament_id INTEGER;
 
 UPDATE sg_total
         SET tournament_id = (
-            SELECT tournaments.id
-            FROM sg_total
-            INNER JOIN tournaments
-            ON tournaments.name = sg_total.tournament
-        )
+            SELECT id
+            FROM tournaments as t
+            WHERE t.name = sg_total.tournament
+        ) 
+
 # alter table to rename sg_total to sg_total_old, author Sam Ochs
 ALTER TABLE sg_total RENAME TO sg_total_old;
 # create the new strokes gained total table with foreign keys, author Sam Ochs
@@ -545,3 +533,69 @@ SELECT rank, player_id, tournament_id, avg, total_sg_t, total_sg_t2g, total_sg_p
 FROM sg_total_old
 # drop the old strokes gained total table, author Sam Ochs
 DROP TABLE IF EXISTS sg_total_old;
+
+# create the users table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS users (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            username   TEXT NOT NULL UNIQUE
+        )
+
+# create the favorites table, author Sam Ochs
+CREATE TABLE IF NOT EXISTS favorites (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id    INTEGER NOT NULL,
+            player_id  INTEGER NOT NULL,
+            rating     INTEGER,
+            FOREIGN KEY (user_id) REFERENCES users(id),
+            FOREIGN KEY (player_id) REFERENCES players(id)
+        )
+
+# insert a user into the users table, author Sam Ochs
+INSERT INTO users (username) VALUES ('sam');
+
+# insert favorite players for user 'sam', author Sam Ochs
+INSERT INTO favorites (user_id, player_id, rating)
+        SELECT users.id, players.id, ?
+        FROM users, players 
+        WHERE users.username = 'sam' AND players.name = ? 
+
+# update favorite players for user 'sam', author Sam Ochs
+UPDATE favorites
+    SET rating = 1
+    WHERE user_id = (SELECT id FROM users WHERE username = 'sam')
+    AND player_id = (SELECT id FROM players WHERE name = 'Xander Schauffele')
+
+UPDATE favorites
+    SET rating = 1
+    WHERE user_id = (SELECT id FROM users WHERE username = 'sam')
+    AND player_id = (SELECT id FROM players WHERE name = 'Jordan Spieth')
+
+# query to find favorite players of user 'sam' with a rating of 4 or less, ordered by their season average strokes gained, author Sam Ochs
+WITH sg_season_avg AS (
+        SELECT player_id, AVG(avg) AS avg
+        FROM sg_total
+        GROUP BY player_id
+    )                       
+    SELECT players.name, sg_season_avg.avg, favorites.rating
+    FROM favorites
+    INNER JOIN players ON favorites.player_id = players.id
+    INNER JOIN users ON favorites.user_id = users.id
+    INNER JOIN sg_season_avg ON favorites.player_id = sg_season_avg.player_id
+    WHERE users.username = 'sam'
+    AND favorites.rating <= 4
+    ORDER BY sg_season_avg.avg DESC
+
+# query to find favorite players of user 'sam' with a rating of 4 or less, ordered by their average driving distance, author Sam Ochs
+WITH driving_distance_avg AS (
+        SELECT player_id, AVG(avg) AS avg
+        FROM driving_distance
+        GROUP BY player_id
+    )
+    SELECT players.name, driving_distance_avg.avg, favorites.rating
+    FROM favorites
+    INNER JOIN players ON favorites.player_id = players.id
+    INNER JOIN users ON favorites.user_id = users.id
+    INNER JOIN driving_distance_avg ON favorites.player_id = driving_distance_avg.player_id
+    WHERE users.username = 'sam'
+    AND favorites.rating <= 4
+    ORDER BY driving_distance_avg.avg DESC
